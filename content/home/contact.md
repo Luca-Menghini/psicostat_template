@@ -22,7 +22,7 @@ email_form = 0
 
 <div style="float: right; width: 50%; padding-left: 20px">
 
-  <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/fgambarota?ref_src=twsrc%5Etfw">Tweets by fgambarota</a>
+  <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/LuMenPsy">Tweets by LuMenPsy</a>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div>
