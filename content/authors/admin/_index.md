@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Postdoctoral research fellow in Occupational Health Psychology.
+bio: I'm working within the research areas of Occupational Health Psychology, and the Psychophysiology of Stress, Recovery & Sleep.
 education:
   courses:
   - course: PhD cum laudae in Psychological Sciences
@@ -54,14 +54,12 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoctoral research fellow at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna - Alma Mater Studiorum. I've a background in **I/O Psychology** and **Applied Psychophysiology**, and especially on the assessment and management of **workplace stress**.
+I'm a postdoctoral research fellow at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna. I'm working within the research areas of **Occupational Health Psychology**, and the **Psychophysiology of Stress, Recovery & Sleep**. 
 
-I'm working within the research areas of **Occupational Health Psychology**, and the Psychophysiology of Stress, Recovery & Sleep quality. 
+Over my (still little) research experience, I've focused on innovative research methods (**Wearable Technology**, **Experience Sampling Methods**) to assess the sources of stress (e.g., workload), and the associated psychophysiological responses in real time, in participants’ natural environment. By means of **Ecological Momentary Assessment** protocols, I've conducted **Intensive Longitudinal Studies** collecting self-report (psychological testing), physiological (heart rate variability), and behavioral measures (cognitive testing), and analyzing the stressor-strain relationship with a **multilevel approach**.
 
-Over my (still little) research experience, I've mainly focused on innovative research methods methods (**wearable technology, experience sampling methods**) to assess sources of (e.g., workload) and the psychophysiological responses to stress (e.g., mood, heart rate variability) in real time, in participants’ natural environment. 
+What I am most passionate about is planning (using my brain + the existing literature), conducting (using EMA protocols), and analyzing data (**using R**) from field studies. 
 
-By means of **Ecological Momentary Assessment** protocols, I conducted several multi-day studies collecting self-report (questionnaires, experience sampling), physiological (heart rate variability, skin conductance), and behavioral measures (actigraphy, cognitive testing), and analyzing the stressor-strain relationship with a **multilevel approach**.
-
-What I am most passionate about is planning (using my brain plus the existing literature), conducting (using EMA protocols), and analyzing data (**using R**) from field studies.
+I also love **playing bass**!
 
 [Curriculum Vitae](files/cv.pdf)

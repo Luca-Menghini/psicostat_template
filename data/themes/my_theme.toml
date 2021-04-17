@@ -1,14 +1,14 @@
 # Theme metadata
-name = "psicostat"
+name = "my_theme"
 
 # Is theme light or dark?
 light = true
 
-# Primary (ORIGINAL 990000)
+# Primary
 primary = "#75AADB" # questo è il colore delle icone, delle scritte principali
 
 # Menu
-menu_primary = "#75AADB" # questo è lo sfondo della striscia dietro al logo ( ORIGINAL #990000)
+menu_primary = "#75AADB" # questo è lo sfondo della striscia dietro al logo
 menu_text = "#FFFFFF"
 menu_text_active = "#FFFFFF"
 menu_title = "#FFFFFF"
