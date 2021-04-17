@@ -1,17 +1,17 @@
 # Theme metadata
-name = "my_theme"
+name = "LuMenPsy"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#75AADB" # questo è il colore delle icone, delle scritte principali
+primary = "#0188CC" # colore delle icone, delle scritte principali
 
 # Menu
-menu_primary = "#75AADB" # questo è lo sfondo della striscia dietro al logo
-menu_text = "#FFFFFF"
-menu_text_active = "#FFFFFF"
-menu_title = "#FFFFFF"
+menu_primary = "#0188CC" # sfondo della striscia dietro al logo
+menu_text = "#fff"
+menu_text_active = "#8c9eff" # A100
+menu_title = "#fff"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
