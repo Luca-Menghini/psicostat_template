@@ -2,10 +2,10 @@
 name = "my_fonts"
 
 # Optional Google font URL
-google_fonts = "Zilla Slab:500,400|Zilla Slab:400,400italic,700|Zilla Slab+Mono|Antic Slab:600"
+google_fonts = "Antic Slab:400,700|Antic Slab|Antic Slab+Mono"
 
 # Font families
 heading_font = "Antic Slab"
-body_font = "Zilla Slab"
-nav_font = "Zilla Slab+Slab"
-mono_font = "Zilla Slab Mono"
+body_font = "Antic Slab"
+nav_font = "Antic Slab"
+mono_font = "Antic Slab Mono"
