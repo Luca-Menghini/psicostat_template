@@ -8,7 +8,7 @@ light = true
 primary = "#75AADB" # questo è il colore delle icone, delle scritte principali
 
 # Menu
-menu_primary = "#75AADB" # questo è lo sfondo della striscia dietro al logo ( ORIGINAL #990000)
+menu_primary = "#FFFFFF" # questo è lo sfondo della striscia dietro al logo ( ORIGINAL #990000)
 menu_text = "#FFFFFF"
 menu_text_active = "#FFFFFF"
 menu_title = "#FFFFFF"
