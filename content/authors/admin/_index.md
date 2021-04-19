@@ -54,7 +54,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoctoral research fellow at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna. I'm working within the research areas of **Occupational Health Psychology**, and the **Psychophysiology of Stress, Recovery & Sleep**. 
+I'm a postdoctoral research fellow at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna. I'm working within the research areas of **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](https://lucamenghini.netlify.app/2019/07/12/stress-and-workplace-stress/), [Recovery](https://lucamenghini.netlify.app/2019/07/12/recovery-and-recovery-experiences/) & [Sleep](https://lucamenghini.netlify.app/2019/07/12/sleep-sleep-quality-and-stress/). 
 
 Over my (still little) research experience, I've focused on innovative research methods (**Wearable Technology**, **Experience Sampling Methods**) to assess the sources of stress (e.g., workload), and the associated psychophysiological responses in real time, in participants’ natural environment. By means of **Ecological Momentary Assessment** protocols, I've conducted **Intensive Longitudinal Studies** collecting self-report (psychological testing), physiological (heart rate variability), and behavioral measures (cognitive testing), and analyzing the stressor-strain relationship with a **multilevel approach**.
 
