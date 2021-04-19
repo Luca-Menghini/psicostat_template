@@ -52,9 +52,8 @@ subtitle = ""
   <img class= logo src="img/Psicostat_hexagon.svg" width="200" align="middle">
 </div>
 
-I'm part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b>. We are an interdisciplinary research group interested in **Psychology** and **Statistics** at the University of Padua. The group is focused on areas related to **quantitative psychology**, **psychometrics**, **psychological testing** and **statistics**. Our goal is to promote the connection between the two fields in order to benefit the progress of scientific research.
+I'm part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (University of Padua). We are an interdisciplinary research group interested in **quantitative psychology, psychometrics, psychological testing, and statistics**.
 
-<br>
 <br>
 <br>
 
@@ -62,4 +61,4 @@ I'm part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b>. We are a
 <img class= logo src="img/logo_psyphyLab.svg" width="200" align="middle">
 </div>
 
-I'm also a proud member of the <b> [Psychophysiology Lab](https://dpg.unipd.it/en/psyphylab) </b> of the University of Padua. The lab promotes the study of **basic psychophysiological processes** (mind-body reciprocal interactions), as well as their involvement in **anxiety, stress, depression and medical conditions** (e.g., cardiovascular disorders). Research on psychophysiological interventions such as **biofeedback** is also included.
+I'm also part of the <b> [Psychophysiology Lab](https://dpg.unipd.it/en/psyphylab) </b> (University of Padua), focusing on **basic psychophysiological processes** (mind-body interactions), and their involvement in **anxiety, stress, depression and medical conditions**.

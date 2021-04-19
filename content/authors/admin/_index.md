@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I'm working within the research areas of Occupational Health Psychology, and the Psychophysiology of Stress, Recovery & Sleep.
+bio: I'm working within the research areas of **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](https://lucamenghini.netlify.app/2019/07/12/stress-and-workplace-stress/), [Recovery](https://lucamenghini.netlify.app/2019/07/12/recovery-and-recovery-experiences/) & [Sleep](https://lucamenghini.netlify.app/2019/07/12/sleep-sleep-quality-and-stress/).
 education:
   courses:
   - course: PhD cum laudae in Psychological Sciences
@@ -16,9 +16,8 @@ education:
 email: "luca.menghini3@unibo.it" #mettere la mail qui
 interests:
 - Workplace Stress
-- Occupational Health Psychology
+- Workaholism
 - Applied Psychophysiology
-- Ecological Momentary Assessment
 - Wearable Technlology
 - Experience Sampling Methods
 - Multilevel Modeling
@@ -27,7 +26,7 @@ name: Luca Menghini
 organizations:
 - name: University of Bologna
   url: "https://www.unibo.it/sitoweb/luca.menghini3"
-role: Postodctoral research fellow in Occupational Health Psychology 
+role: Postdoctoral research fellow in Occupational Health Psychology 
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,12 +53,10 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoctoral research fellow at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](https://lucamenghini.netlify.app/2019/07/12/stress-and-workplace-stress/), [Recovery](https://lucamenghini.netlify.app/2019/07/12/recovery-and-recovery-experiences/) & [Sleep](https://lucamenghini.netlify.app/2019/07/12/sleep-sleep-quality-and-stress/). 
+I'm a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](https://lucamenghini.netlify.app/2019/07/12/stress-and-workplace-stress/), [Recovery](https://lucamenghini.netlify.app/2019/07/12/recovery-and-recovery-experiences/) and [Sleep](https://lucamenghini.netlify.app/2019/07/12/sleep-sleep-quality-and-stress/).
 
-Over my (still little) research experience, I've focused on innovative research methods (**Wearable Technology**, **Experience Sampling Methods**) to assess the sources of stress (e.g., workload), and the associated psychophysiological responses in real time, in participants’ natural environment. By means of **Ecological Momentary Assessment** protocols, I've conducted **Intensive Longitudinal Studies** collecting self-report (psychological testing), physiological (heart rate variability), and behavioral measures (cognitive testing), and analyzing the stressor-strain relationship with a **multilevel approach**.
+Over my (still little) research experience, I've focused on innovative **research methods** ([Wearable Technlology](https://lucamenghini.netlify.app/2019/07/12/wearable-technology/), [Experience Sampling Methods](https://lucamenghini.netlify.app/2019/07/12/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses in real time, in participants’ natural environments. By means of [Ecological Momentary Assessment (EMA)](https://lucamenghini.netlify.app/2019/07/12/ecological-momentary-assessment/), I've collected self-report (psychological testing), physiological (heart rate variability), and behavioral measures (cognitive testing) to **analyse the stressor-strain relationship** with a [Multilevel Approach](https://lucamenghini.netlify.app/2019/07/12/multilevel-approach/).
 
-What I am most passionate about is planning (using my brain + the existing literature), conducting (using EMA protocols), and analyzing data (**using R**) from field studies. 
-
-I also love **playing bass**!
+I'm passionate about planning (using my brain + the existing literature), conducting (using [EMA protocols](/projects)), and analyzing data ([using R](https://www.r-project.org/)) from field studies. I also love **playing bass**! 🎸
 
 [Curriculum Vitae](files/cv.pdf)
