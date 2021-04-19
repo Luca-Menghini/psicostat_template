@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "[Psicostat](http://ip146179.psy.unipd.it/psicostat/web/index.html?fbclid=IwAR1F8-gDhqlNPFTFJZLgSeMwSQoQRzEwijU5mAPdSGjEH-bNvFjgv6O82Rg)"
+title = "Research groups"
 subtitle = ""
 
 [design]
@@ -52,6 +52,14 @@ subtitle = ""
   <img class= logo src="img/Psicostat_hexagon.svg" width="200" align="middle">
 </div>
 
-I'm part of <font color="#990000"> <b> Psicostat </b> </font>. We are an interdisciplinary research group interested in **Psychology** and **Statistics** working at the University of Padua.
+I'm part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b>. We are an interdisciplinary research group interested in **Psychology** and **Statistics** at the University of Padua. The group is focused on areas related to **quantitative psychology**, **psychometrics**, **psychological testing** and **statistics**. Our goal is to promote the connection between the two fields in order to benefit the progress of scientific research.
 
-For more information this is our <font color="#990000"> <b> [page](/psicostat) </b> </font>
+<br>
+<br>
+<br>
+
+<div style="float: left; width: 30%;">
+<img class= logo src="img/logo_psyphyLab.svg" width="200" align="middle">
+</div>
+
+I'm also a proud member of the <b> [Psychophysiology Lab](https://dpg.unipd.it/en/psyphylab) </b> of the University of Padua. The lab promotes the study of **basic psychophysiological processes** (mind-body reciprocal interactions), as well as their involvement in **anxiety, stress, depression and medical conditions** (e.g., cardiovascular disorders). Research on psychophysiological interventions such as **biofeedback** is also included.
