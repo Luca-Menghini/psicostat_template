@@ -4,13 +4,23 @@ diagram: true
 image:
   placement: 3
 math: true
-title: Experience sampling methods
+title: Experience Sampling Methods
 projects: [suggested_bayesian_papers]
 ---
 
-Some text introducing ESM
+***Experience Sampling Methods (ESM)*** *are defined as a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, during daily life*. 
+
+As described by [Mihaly Csikszentmihalyi](https://www.researchgate.net/profile/Mihaly-Csikszentmihalyi), one of the main ESM pioneers and developers, the objective of ESM is "to obtain self-report for a representative sample of moments in people's life", in order to study the **frequency, intensity and patterning** of self-reported experiences (thoughts, psychological states etc.), and daily activities (social interactions, changes in locations etc.) [1].
+
+To keep it simpler, Experience Sampling means asking individuals to provide systematic self-reports by administering short (e.g., max 10-20 items) and consistent measures (always the same questions) multiple times per day, over multiple days.
 
 ## Advantages over retrospective reports
+
+ESM are increasingly used in several fields of psychological research (e.g., see examples in [I/O psy](some link), [OH psy](another link), [clinical psy](some link), and [social psy](ancora link)), due to their recognized advantages over retrospective self-reports. 
+
+**Retrospective self-reports** can be considered as the gold standard for measuring subjective ratings of psychological constructs. They usually consist in asking individuals to rate a number of items **referred to the past** (e.g., over the last six months, over the last year). Ratings are often given on a Likert scale, with response labels being expressed in terms of agreement or frequency.
+
+Here's an example of retrospective measures often used in [workplace stress](link to my page) research:
 
 ### Recall biases and other confounders
 
@@ -29,4 +39,6 @@ Construct validity and multilevel constructs
 ### Planning an ESM study
 
 
-### References 🙌
+### References
+
+1. Csikszentmihalyi, M., & Larson, R. (2014). Validity and reliability of the experience-sampling method. In *Flow and the foundations of positive psychology* (pp. 35-54). Springer, Dordrecht.
