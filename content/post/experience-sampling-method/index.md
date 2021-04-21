@@ -16,11 +16,13 @@ To keep it simpler, Experience Sampling means asking individuals to provide syst
 
 ## Advantages over retrospective reports
 
-ESM are increasingly used in several fields of psychological research (e.g., see examples in [I/O psy](some link), [OH psy](another link), [clinical psy](some link), and [social psy](ancora link)), due to their recognized advantages over retrospective self-reports. 
+ESM are increasingly used in several fields of psychological research (e.g., see examples in [I/O psy](https://wikipedia.com), [OH psy](https://wikipedia.com), [clinical psy](https://wikipedia.com), and [social psy](https://wikipedia.com), due to their recognized advantages over retrospective self-reports. 
 
 **Retrospective self-reports** can be considered as the gold standard for measuring subjective ratings of psychological constructs. They usually consist in asking individuals to rate a number of items **referred to the past** (e.g., over the last six months, over the last year). Ratings are often given on a Likert scale, with response labels being expressed in terms of agreement or frequency.
 
-Here's an example of retrospective measures often used in [workplace stress](link to my page) research:
+Here's an example of retrospective measures often used in [workplace stress](https://lucamenghini.netlify.app/2019/07/12/stress-and-workplace-stress/) research:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCom9uiHbaHruWx5K1tr3j5lNgs4Lid8xQJitVoHrNs76Rxg/viewform?embedded=true" width="640" height="700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### Recall biases and other confounders
 
