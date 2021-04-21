@@ -10,7 +10,7 @@ projects: [suggested_bayesian_papers]
 
 ***Experience Sampling Methods (ESM)*** *include a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, during daily life*.
 
-As described by [Mihaly Csikszentmihalyi](https://www.researchgate.net/profile/Mihaly-Csikszentmihalyi), one of the main ESM pioneers and developers, the objective of ESM is "*to obtain self-report for a representative sample of moments in people's life*", in order to study the **frequency, intensity and patterning** of self-reported experiences (thoughts, psychological states etc.), and daily activities (social interactions, changes in locations etc.) \[1\].
+As described by [Mihaly Csikszentmihalyi](https://www.researchgate.net/profile/Mihaly-Csikszentmihalyi), one of the main ESM pioneers and developers, the objective of ESM is "*to obtain self-report for a representative sample of moments in people's life*", in order to study the **frequency, intensity and patterning** of self-reported experiences (thoughts, psychological states etc.), and daily activities (social interactions, changes in locations etc.) over time [[1]](#references).
 
 To keep it simpler, Experience Sampling means asking individuals to provide systematic self-reports by administering short (e.g., max 10-20 items) and consistent measures (always the same questions) multiple times per day, over multiple days.
 
@@ -52,6 +52,6 @@ Construct validity and multilevel constructs
 
 ### Planning an ESM study
 
-### References
+# References
 
 1.  Csikszentmihalyi, M., & Larson, R. (2014). Validity and reliability of the experience-sampling method. In *Flow and the foundations of positive psychology* (pp. 35-54). Springer, Dordrecht.

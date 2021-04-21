@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I'm working within the research areas of **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](https://lucamenghini.netlify.app/2019/07/12/stress-and-workplace-stress/), [Recovery](https://lucamenghini.netlify.app/2019/07/12/recovery-and-recovery-experiences/) & [Sleep](https://lucamenghini.netlify.app/2019/07/12/sleep-sleep-quality-and-stress/).
+bio: I'm working within the research areas of **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/) & [Sleep](/sleep-sleep-quality-and-stress/).
 education:
   courses:
   - course: PhD cum laudae in Psychological Sciences
@@ -53,9 +53,11 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](https://lucamenghini.netlify.app/2019/07/12/stress-and-workplace-stress/), [Recovery](https://lucamenghini.netlify.app/2019/07/12/recovery-and-recovery-experiences/) and [Sleep](https://lucamenghini.netlify.app/2019/07/12/sleep-sleep-quality-and-stress/).
+I'm a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/) and [Sleep](/sleep-sleep-quality-and-stress/).
 
-Over my (still little) experience, I've focused on innovative **research methods** ([Wearable Technology](content/post/https://lucamenghini.netlify.app/2019/07/12/wearable-technology-and-e-health/), [Experience Sampling Methods](https://lucamenghini.netlify.app/2019/07/12/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses in real time, in participants’ natural environments. By means of [Ecological Momentary Assessment (EMA)](https://lucamenghini.netlify.app/2019/07/12/ecological-momentary-assessment/), I've collected self-report (psychological testing), physiological ([Heart Rate Variability](https://lucamenghini.netlify.app/2019/07/12/heart-rate-variability/)), and behavioral measures (cognitive testing) to **analyse the stressor-strain relationship** with a [Multilevel Approach](https://lucamenghini.netlify.app/2019/07/12/multilevel-approach/).
+
+
+Over my (still little) experience, I've focused on innovative **research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling Methods](/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses in real time, in participants’ natural environments. By means of [Ecological Momentary Assessment (EMA)](/ecological-momentary-assessment/), I've collected self-report (psychological testing), physiological ([Heart Rate Variability](/heart-rate-variability/)), and behavioral measures (cognitive testing) to **analyse the stressor-strain relationship** with a [Multilevel Approach](/multilevel-approach/).
 
 I'm passionate about planning (using my brain + the existing literature), conducting (using [EMA protocols](#projects)), and analyzing data ([using R](https://www.r-project.org/)) from field studies. I also love **playing bass**! 🎸
 
