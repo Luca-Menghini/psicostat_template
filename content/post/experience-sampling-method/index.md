@@ -10,10 +10,9 @@ projects: [suggested_bayesian_papers]
 
 ***Experience Sampling Methods (ESM)*** *include a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, during daily life*.
 
-As described by [Mihaly Csikszentmihalyi](https://www.researchgate.net/profile/Mihaly-Csikszentmihalyi), one of the main ESM pioneers and developers, the objective of ESM is "*to obtain self-report for a representative sample of moments in people's life*", in order to study the **frequency, intensity and patterning** of self-reported experiences (thoughts, psychological states etc.), and daily activities (social interactions, changes in locations etc.) over time [[1]](#references).
+As described by [Mihaly Csikszentmihalyi](https://www.researchgate.net/profile/Mihaly-Csikszentmihalyi), one of the main ESM pioneers and developers, ESM aim at "*obtaining self-report for a representative sample of moments in people's life*" to study the **frequency, intensity and patterning** of self-reported experiences (thoughts, psychological states etc.), and daily activities (social interactions, changes in locations etc.), over time [[1]](#references).
 
-To keep it simpler, Experience Sampling means asking individuals to provide systematic self-reports by administering short (e.g., max 10-20 items) and consistent measures (always the same questions) multiple times per day, over multiple days. 
-ESM are increasingly used in several fields of psychological research (e.g., see examples in [I/O](https://wikipedia.com), [clinical psy](https://wikipedia.com), and [social psychology](https://wikipedia.com), due to their recognized **advantages over retrospective self-reports**.
+To keep it simpler, Experience Sampling means asking individuals to provide systematic self-reports by administering **short** (e.g., max 10-20 items) **and consistent measures** (always the same questions) multiple times per day, over multiple days. In this sense, ESM can be seen as an extension of [daily diaries](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n134.xml). ESM are increasingly used in several fields of psychological research (e.g., see examples in [organizational](https://wikipedia.com), [clinical](https://wikipedia.com), and [personality psychology](https://www.pnas.org/content/pnas/117/17/9270.full.pdf)) due to their recognized **advantages over retrospective self-reports**.
 
 <br>
 
@@ -23,35 +22,41 @@ ESM are increasingly used in several fields of psychological research (e.g., see
 
 Here's a retrospective item often used in [workplace stress](/stress-and-workplace-stress/) research:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCom9uiHbaHruWx5K1tr3j5lNgs4Lid8xQJitVoHrNs76Rxg/viewform?embedded=true" width="400" height="460" frameborder="0" marginheight="0" marginwidth="0">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCom9uiHbaHruWx5K1tr3j5lNgs4Lid8xQJitVoHrNs76Rxg/viewform?embedded=true" width="400" height="520" frameborder="0" marginheight="0" marginwidth="0">
 
 Loading...</iframe>
 
-### Recall biases and other confounders
+### 1) Recall biases
 
 Now imagine rating the item above in the afternoon, just after an **infrequent and intense fight with your boss** you had in the morning. You're probably going to overestimate the frequency of work-related interpersonal conflicts due to the **salience** (infrequent event) and **recency** (happened this morning) of this conflictual episode.
 
 ![Interpersonal conflict at work](conflict.png)
 
-Salience and recency effects, as well as further **recall biases** such as the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), are **mental shortcut** potentially involved each time we retrieve some information from our memory. Whether these shortcut are necessary to provide us with an adequate **cognitive efficiency**, they are likely to produce systematic distortions in retrospective reports.
+On the "cold" (cognitive) side, salience and recency effects, and further **recall biases** such as the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic) are **mental shortcuts** potentially involved each time we retrieve some information from our memory. Whether these shortcuts are necessary to provide us with an adequate **cognitive efficiency**, they are likely to produce systematic distortions in retrospective reports.
 
-Further widely investigated **response biases** influencing self-reported ratings include [social desideraiblity](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n537.xml) (the tendency to answer in a way perceived by respondents as more socially acceptable than would be their "true" answer), the [halo effect](https://en.wikipedia.org/wiki/Halo_effect) (the tendency to generalize positive/negative rating of specific area of a rated object to other areas of the same object). These biases can be grouped into the **response-style biases** category, including a range of measurement and individual characteristics leading to nonrandom deviations of the rating from its true value [[2]](#references).
+On the "hot" (emotional) side, **affective states** such as the momentary respondent's mood can interfere with retrieval processes as well, by driving them towards information that **matches how she's currently feeling**. Going back to our example, imagine rating the following item in the afternoon, after **a serious family issue**, or another stressor unrelated to your job. Just because you're in a bad mood while answering the question (and the reason for your bad mood isn't even related to your work), your rating of work-related stress will probably be higher than it would have been in a good-mood or neutral-mood day.
 
-Among individual characteristics, several **personality traits** (e.g., conscientiousness, neuroticism, hostility) have shown to exert a degree of influence on self-report ratings. Particularly, **negative affectivity**, defined as "*a mood-dispositional dimension […] reflecting pervasive individual differences in negative emotionality and self-concept*" [[3]](#references) has been deeply investigated as a confounding variable in [workplace stress](/stress-and-workplace-stress/) research. Let's see another example of retrospective item:
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfh2Mad4GctaqBcja0QMqiaGYvdL7sFf6x6eQuO1AMa6rhcgw/viewform?embedded=true" width="400" height="520" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfh2Mad4GctaqBcja0QMqiaGYvdL7sFf6x6eQuO1AMa6rhcgw/viewform?embedded=true" width="400" height="460" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+In summary, retrospective reports are largely based on **memory retrieval**, whose accuracy is influenced by both cognitive biases (mental shortcuts) and affective states (momentary mood). In contrast, ESM are referred to the **current moment** (e.g., "*How do you feel right now?*"), minimizing memory retrieval processes, and implying less distorted data. Moreover, being focused on momentary states (e.g. "*Are you feeling stressed right now?*"), ESM are also less sensitive to momentary affective confounders.
 
-As explained in [this former post](/stress-and-workplace-stress/) research, workplace stress assessment aims at measuring indicators of **stressors** (e.g., item 1: interpersonal conflict) and **strain** indicators (e.g., item 2: perceived stress). Since individuals with high negative affectivity tend to perceive both themselves and the environment as "more negative than they are", it is regarded as a confounder leading to higher ratings of both stressors and strain, possibly resulting in **overestimations** of the observed relationship between the two latent constructs. Although the way of controlling for individual confounders is still debated [[4]](#references), the role exerted by these variables should be ideally always considered when using self-report tools.
+### 2) Individual differences and response style
 
-Finally, in addition to **affective traits** such as negative affectivity, retrospective self-reports can be also substantially distorted by **affective states**, that is the current mood while responding the questionnaire. It is quite obvious that 
+In addition to affective states, retrospective reports are also sensitive to **affective traits** and other stable **personality** characteristics (e.g., conscientiousness, neuroticism, hostility). For instance, **negative affectivity**, defined as "*a mood-dispositional dimension […] reflecting pervasive individual differences in negative emotionality and self-concept*" [[4]](#references), has been deeply investigated as a confounding variable in [workplace stress](/stress-and-workplace-stress/) research. As explained in [this former post](/stress-and-workplace-stress/), workplace stress assessment aims at measuring indicators of **stressors** (e.g., item 1: interpersonal conflict) and **strain** (e.g., item 2: perceived stress). Since individuals with high negative affectivity tend to perceive both themselves and the environment as "more negative than they are", negative affectivity is regarded as a confounder leading to higher ratings of both stressors and strain, possibly resulting in **overestimations** of the "true" relationship between the two latent constructs. 
 
-<br>
+**Individual differences**, personality traits, and more basic characteristics such as the educational level can also influence the responses by orienting respondents' strategies and motivation. Especially when we're poorly motivated and/or lack of cognitive resources, we're more vulnerable to further **response biases** due to our mental shortcuts. Two of the most widely investigated response biases are [social desirability](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n537.xml) and the [halo effect](https://en.wikipedia.org/wiki/Halo_effect). The former is the tendency to answer in a way perceived by respondents as more socially acceptable than their "true" answer would be, whereas the halo effect is the tendency to generalize positive/negative specific ratings to other areas of the object under assessment. 
+
+Although these and other biases (e.g., [acquiescience](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n3.xml)) are more prevalent for certain self-report measures than others (e.g., negative affectivity for measures of context-specific affect; social desirability for measures of explicit racism), they are largely affected by stable individual characteristics, also referred as **response style**. Although the strategies of controlling for individual confounders have been debated (e.g., [[5]](#references)), the role exerted by these variables should be ideally considered when using self-reports.
+
+With ESM data, individual differences can be controlled by **decomposing the variance** into [two levels](/multilevel-modeling): the **within-individual** (level 1), and the **between-individuals** level (level 2). By sampling repeated measures of the same constructs over time, ESM allow to measure intraindividual changes around the individual mean level.
 
 ### Between and within individuals
 
 ### The role of time
 
 ## Peculiarities of ESM measures
+
+Despite the advantages over retrospective reports, ESM implies higher degrees of complexity, mainly due to the 
 
 ### Building an ESM scale
 
@@ -67,6 +72,8 @@ Construct validity and multilevel constructs
 
 2. Lavrakas, P. J. (2008). *Encyclopedia of survey research methods* (Vols. 1-0). Thousand Oaks, CA: Sage Publications, Inc. https://doi.org/10.4135/9781412963947
 
-3. Watson, D., & Clark, L. A. (1984). Negative affectivity: The disposition to experience aversive emotional states. *Psychological Bulletin, 96*(3), 465–490. https://doi.org/10.1037/0033-2909.96.3.465
+3. Howard, G. S., Millham, J., Slaten, S., & O'donnell, L. (1981). Influence of subject response style effects on retrospective measures. *Applied Psychological Measurement, 5(*1), 89-100. https://doi.org/10.1177%2F014662168100500113
 
-4. Spector, P. E., Zapf, D., Chen, P. Y., & Frese, M. (2000). Why negative affectivity should not be controlled in job stress research: Don't throw out the baby with the bath water. *Journal of Organizational Behavior*, 79-95. https://psycnet.apa.org/doi/10.1002/(SICI)1099-1379(200002)21:1%3C79::AID-JOB964%3E3.0.CO;2-G
+4. Watson, D., & Clark, L. A. (1984). Negative affectivity: The disposition to experience aversive emotional states. *Psychological Bulletin, 96*(3), 465–490. https://doi.org/10.1037/0033-2909.96.3.465
+
+5. Spector, P. E., Zapf, D., Chen, P. Y., & Frese, M. (2000). Why negative affectivity should not be controlled in job stress research: Don't throw out the baby with the bath water. *Journal of Organizational Behavior*, 79-95. https://psycnet.apa.org/doi/10.1002/(SICI)1099-1379(200002)21:1%3C79::AID-JOB964%3E3.0.CO;2-G
