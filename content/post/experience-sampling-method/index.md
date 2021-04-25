@@ -67,9 +67,7 @@ Third, each single score measured from a given individual is **mean-centered**, 
 And here's how the scores measured from two individuals will be:
 
 
-```r
-1 + 1  # not executed
-```
+CIAO
 
 
 **Multilevel modeling** is better described in [this former post](/multilevel-modeling), and [effectively visualized in this beautiful tutorial](http://mfviz.com/hierarchical-models/), but the essence is the following: ESM (and repeated measures in general) allow to simultaneously measure individual differences (more reliably than retrospective reports due to the repeated-measure nature of the data), and momentary deviations around the mean level, allowing to model the variability in item scores by accounting for the **hierarchical data structure** (single observations nested within individual)
