@@ -1,7 +1,7 @@
 ---
 title: "Experience Sampling Methods (Rmd)"
 author: "Luca Menghini"
-date: 2015-07-23T21:13:14-05:00
+date: "`r Sys.Date()`"
 categories: ["Methodology"]
 tags: ["Experience Sampling Methods", "Ecological Momentary Assessment","Methodology","Psychometrics","Workplace stress"]
 featuredImage: "img/experience-sampling-methods.png"
