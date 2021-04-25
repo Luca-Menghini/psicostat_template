@@ -1,75 +1,43 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Example Poster"
-event:
-event_url:
-location:
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary: An example of poster.
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac
   convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac
   faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien
   eu, pulvinar tempor diam.
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-12-29T16:25:09+01:00
-date_end: 2019-12-29T16:25:09+01:00
+address:
+  city: null
+  country: null
+  postcode: null
+  region: null
+  street: null
 all_day: false
-
-# Schedule page publish date (NOT talk date).
-publishDate: 2019-12-29T16:25:09+01:00
-
-talk_poster_types:
-- "2"
-
 authors: []
-tags: [Poster]
-
-# Is this a featured talk? (true/false)
+date: "2019-12-29T16:25:09+01:00"
+date_end: "2019-12-29T16:25:09+01:00"
+event: null
+event_url: null
 featured: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Github Link
-# Per creare altri custom link semplicemente copiare il blocco qui sotto e cambiare i parametri
-
 links:
-  - icon_pack: fab
-    icon: github
-    name: Github Repository
-    url: '' # qui mettere il link alla repository
-
-# Optional filename of your slides within your talk's folder or a URL.
-url_slides:
-url_poster: ""
-url_code:
-url_pdf: 
-url_video:
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+- icon: github
+  icon_pack: fab
+  name: Github Repository
+  url: ""
+location: null
 projects: []
+publishDate: "2019-12-29T16:25:09+01:00"
+slides: ""
+summary: An example of poster.
+tags:
+- Poster
+talk_poster_types:
+- "2"
+title: Example Poster
+url_code: null
+url_pdf: null
+url_poster: ""
+url_slides: null
+url_video: null
 ---

@@ -4,8 +4,9 @@ diagram: true
 image:
   placement: 3
 math: true
+projects:
+- suggested_bayesian_papers
 title: Experience Sampling Methods
-projects: [suggested_bayesian_papers]
 ---
 
 ***Experience Sampling Methods (ESM)*** *include a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, during daily life*.

@@ -4,8 +4,9 @@ diagram: true
 image:
   placement: 3
 math: true
+projects:
+- suggested_bayesian_papers
 title: Heart Rate Variability as an index of stress and self-regulation
-projects: [suggested_bayesian_papers]
 ---
 
 Some text introducing **heart rate variability (HRV)**

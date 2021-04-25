@@ -4,12 +4,12 @@ external_link: ""
 image:
   caption: Project's design
   focal_point: Smart
+show_homepage: true
 slides: example
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
 title: Ecological Momentary Assessment of Heart Rate Variability and Mood Regulation
-show_homepage: true
 url_code: ""
 url_pdf: ""
 url_slides: ""

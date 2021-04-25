@@ -4,8 +4,9 @@ diagram: true
 image:
   placement: 3
 math: true
+projects:
+- suggested_bayesian_papers
 title: Recovery and recovery experiences
-projects: [suggested_bayesian_papers]
 ---
 
 Some text introducing stress and recovery

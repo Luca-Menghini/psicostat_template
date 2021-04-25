@@ -4,8 +4,9 @@ diagram: true
 image:
   placement: 3
 math: true
+projects:
+- suggested_bayesian_papers
 title: Stress and workplace stress
-projects: [suggested_bayesian_papers]
 ---
 
 Some text introducing stress and workplace stress
