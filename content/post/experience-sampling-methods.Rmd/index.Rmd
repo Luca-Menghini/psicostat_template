@@ -68,7 +68,7 @@ Here's an example. First, we collect multiple measures of perceived stress from 
 
 Third, each single score measured from a given individual is **mean-centered**, that is we subtract the mean score from the single observation: this will be the **within-individual component** (level 1), expressing the momentary stress level net of the individual mean level. This component will tell us in which occasions (time points) the respondent is **more or less stressed than she usually is**. Most importantly, this momentary stress level will be estimated by controlling for (at least part of) the individual differences that can bias the responses.
 
-And here's how the scores measured from two individuals will be:
+And here's how the scores measured from two individuals will be: bla
 
 
 ```{r , fig.cap='A cool plot.', tidy=FALSE}
