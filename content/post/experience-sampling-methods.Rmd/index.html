@@ -9,7 +9,7 @@ output:
   html_document
 ---
 
-<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
 
 
 <p><strong><em>Experience Sampling Methods (ESM)</em></strong> <em>include a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, during daily life</em>.</p>
@@ -27,10 +27,7 @@ Loading…
 <div id="recall-biases" class="section level3">
 <h3>1) Recall biases</h3>
 <p>Now imagine rating the item above in the afternoon, just after an <strong>infrequent and intense fight with your boss</strong> you had in the morning. You’re probably going to overestimate the frequency of work-related interpersonal conflicts due to the <strong>salience</strong> (infrequent event) and <strong>recency</strong> (happened this morning) of this conflictual episode.</p>
-<div class="figure">
-<img src="img/conflict.png" alt="" />
-<p class="caption">Interpersonal conflict at work</p>
-</div>
+<p><img src="img/conflict.png" /></p>
 <p>On the “cold” (cognitive) side, salience and recency effects, and further <strong>recall biases</strong> such as the <a href="https://en.wikipedia.org/wiki/Availability_heuristic">availability heuristic</a> are <strong>mental shortcuts</strong> potentially involved each time we retrieve some information from our memory. Whether these shortcuts are necessary to provide us with an adequate <strong>cognitive efficiency</strong>, they are likely to produce systematic distortions in retrospective reports.</p>
 <p>On the “hot” (emotional) side, <strong>affective states</strong> such as the momentary respondent’s mood can interfere with retrieval processes as well, by driving them towards information <strong>matching the current feeling</strong>.</p>
 <p>Going back to our example, imagine rating the following item in the afternoon, after <strong>a serious family issue</strong> (or another stressor unrelated to your job). Just because you’re in a bad mood while answering the question (and the reason for your bad mood isn’t even related to your work), your rating of work-related stress will probably be higher than it would have been in a good-mood or neutral-mood day.</p>
@@ -43,10 +40,7 @@ Caricamento…
 <h3>2) Individual differences and response style</h3>
 <p>In addition to affective states, retrospective reports are also sensitive to <strong>affective traits</strong> and other stable <strong>personality</strong> characteristics (e.g., conscientiousness, neuroticism, hostility).</p>
 <p>For instance, <strong>negative affectivity</strong>, defined as “<em>a mood-dispositional dimension […] reflecting pervasive individual differences in negative emotionality and self-concept</em>” <a href="#references">[4]</a>, has been deeply investigated as a confounding variable in <a href="/stress-and-workplace-stress/">workplace stress</a> research. As explained in <a href="/stress-and-workplace-stress/">this former post</a>, workplace stress assessment aims at measuring indicators of <strong>stressors</strong> (e.g., item 1: interpersonal conflict) and <strong>strain</strong> (e.g., item 2: perceived stress). Since individuals with high negative affectivity tend to perceive both themselves and the environment as “more negative than they are”, they are likely to overrate both stressors and strain, possibly resulting in <strong>overestimations</strong> of the “true” relationship between the two latent constructs.</p>
-<div class="figure">
-<img src="img/response-style.jpg" alt="" />
-<p class="caption">Response style</p>
-</div>
+<p><img src="img/response-style.jpg" /></p>
 <p><strong>Individual differences</strong>, personality traits, and more basic characteristics such as the educational level can also influence the responses by orienting respondents’ strategies and motivation. Especially when we’re poorly motivated and/or lack of cognitive resources, we’re more vulnerable to further <strong>response biases</strong> due to our mental shortcuts. Two of the most widely investigated response biases are <a href="https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n537.xml">social desirability</a> and the <a href="https://en.wikipedia.org/wiki/Halo_effect">halo effect</a>. The former is the tendency to answer in a way perceived by respondents as more socially acceptable than their “true” answer would be, whereas the halo effect is the tendency to generalize area-specific ratings (either positive or negative) to multiple areas of the object under assessment.</p>
 <p>Although these confounders are more prevalent for certain self-report measures than others (e.g., negative affectivity for measures of context-specific affect; social desirability for measures of explicit racism), they are largely affected by stable individual characteristics, also referred as <strong>response styles</strong>: the respondent’s tendency to respond to survey questions in certain ways regardless of the content <a href="#references">[5]</a>.</p>
 </div>
@@ -56,9 +50,9 @@ Caricamento…
 <p>Here’s an example. First, we collect multiple measures of perceived stress from the same individuals over time (<em>Are you feeling stressed right now?</em>). Second, we compute the <strong>mean score for each individual</strong>: this will be the <strong>between-individuals component</strong> (level 2), expressing the mean level of stress in each individual. At level 2, the variance in item scores represents individual differences around the mean score of the sample (grand average). This is the same information that can be estimated from retrospective reports, with the only difference that with ESM measures it is computed considering multiple measures, implying higher reliability than that characterizing retrospective reports (based on a single measure from each individual).</p>
 <p>Third, each single score measured from a given individual is <strong>mean-centered</strong>, that is we subtract the mean score from the single observation: this will be the <strong>within-individual component</strong> (level 1), expressing the momentary stress level net of the individual mean level. This component will tell us in which occasions (time points) the respondent is <strong>more or less stressed than she usually is</strong>. Most importantly, this momentary stress level will be estimated by controlling for (at least part of) the individual differences that can bias the responses.</p>
 <p>And here’s how the scores measured from two individuals will be:</p>
-<pre class="r"><code>plot(cars, pch = 20)  # not really cool</code></pre>
-<div class="figure"><span id="fig:cool-plot"></span>
-<img src="/post/experience-sampling-method-Rmd_files/figure-html/cool-plot-1.png" alt="A cool plot." width="672" />
+<pre class="r"><code>plot(1,1)  # not really cool</code></pre>
+<div class="figure"><span id="fig:unnamed-chunk-1"></span>
+<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" alt="A cool plot." width="672" />
 <p class="caption">
 Figure 1: A cool plot.
 </p>

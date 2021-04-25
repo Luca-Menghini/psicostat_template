@@ -9,7 +9,7 @@ output:
   html_document
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE,echo=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
@@ -36,7 +36,7 @@ Loading...</iframe>
 
 Now imagine rating the item above in the afternoon, just after an **infrequent and intense fight with your boss** you had in the morning. You're probably going to overestimate the frequency of work-related interpersonal conflicts due to the **salience** (infrequent event) and **recency** (happened this morning) of this conflictual episode.
 
-![Interpersonal conflict at work](img/conflict.png)
+![](img/conflict.png)
 
 On the "cold" (cognitive) side, salience and recency effects, and further **recall biases** such as the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic) are **mental shortcuts** potentially involved each time we retrieve some information from our memory. Whether these shortcuts are necessary to provide us with an adequate **cognitive efficiency**, they are likely to produce systematic distortions in retrospective reports.
 
@@ -54,7 +54,7 @@ In addition to affective states, retrospective reports are also sensitive to **a
 
 For instance, **negative affectivity**, defined as "*a mood-dispositional dimension […] reflecting pervasive individual differences in negative emotionality and self-concept*" [[4]](#references), has been deeply investigated as a confounding variable in [workplace stress](/stress-and-workplace-stress/) research. As explained in [this former post](/stress-and-workplace-stress/), workplace stress assessment aims at measuring indicators of **stressors** (e.g., item 1: interpersonal conflict) and **strain** (e.g., item 2: perceived stress). Since individuals with high negative affectivity tend to perceive both themselves and the environment as "more negative than they are", they are likely to overrate both stressors and strain, possibly resulting in **overestimations** of the "true" relationship between the two latent constructs. 
 
-![Response style](img/response-style.jpg)
+![](img/response-style.jpg)
 
 **Individual differences**, personality traits, and more basic characteristics such as the educational level can also influence the responses by orienting respondents' strategies and motivation. Especially when we're poorly motivated and/or lack of cognitive resources, we're more vulnerable to further **response biases** due to our mental shortcuts. Two of the most widely investigated response biases are [social desirability](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n537.xml) and the [halo effect](https://en.wikipedia.org/wiki/Halo_effect). The former is the tendency to answer in a way perceived by respondents as more socially acceptable than their "true" answer would be, whereas the halo effect is the tendency to generalize area-specific ratings (either positive or negative) to multiple areas of the object under assessment. 
 
@@ -71,8 +71,8 @@ Third, each single score measured from a given individual is **mean-centered**, 
 And here's how the scores measured from two individuals will be:
 
 
-```{r cool-plot, fig.cap='A cool plot.'}
-plot(cars, pch = 20)  # not really cool
+```{r , fig.cap='A cool plot.', tidy=FALSE}
+plot(1,1)  # not really cool
 ```
 
 
