@@ -20,14 +20,13 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 As described by [Mihaly Csikszentmihalyi](https://www.researchgate.net/profile/Mihaly-Csikszentmihalyi), one of the main ESM pioneers and developers, ESM aim at "*obtaining self-report for a representative sample of moments in people's life*" to study the **frequency, intensity and patterning** of self-reported experiences (thoughts, psychological states etc.), and daily activities (social interactions, changes in locations etc.), over time [[1]](#references).
 
-To keep it simpler, Experience Sampling means asking individuals to provide systematic self-reports by repeatedly
-administering **short** (e.g., max 10-20 items) **and consistent measures** (always the same questions). ESM are increasingly used in several fields of psychological research (e.g., see examples in [organizational](https://wikipedia.com), [clinical](https://wikipedia.com), and [personality psychology](https://www.pnas.org/content/pnas/117/17/9270.full.pdf)) due to their recognized **advantages over retrospective self-reports**.
+To keep it simple, Experience Sampling means asking individuals to provide systematic self-reports by repeatedly administering **short** (e.g., max 10-20 items) and **consistent measures** (always the same questions). ESM are increasingly used in several fields of psychological research (e.g., see examples in [work](https://doi.org/10.1037/0021-9010.93.3.674), [clinical](https://doi.org/10.3389/fpsyt.2020.00214), and [personality psychology](https://doi.org/10.1073/pnas.1919934117)) due to their recognized **advantages over retrospective self-reports**.
 
 <br>
 
 ## ESM vs. Retrospective Reports
 
-**Retrospective self-reports** can be considered the gold standard for measuring subjective ratings of psychological constructs. They usually consist in asking individuals to rate a number of items **referred to the past** (e.g., over the last six months, over the last year). Ratings are often given on a [Likert scale](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n273.xml), with response labels being usually expressed in terms of agreement or frequency.
+**Retrospective self-reports** are the gold standard for measuring subjective ratings of psychological constructs, requiring respondents to rate a number of questions **referred to the past** (e.g., over the last six months, over the last year). Ratings are often given on a [Likert scale](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n273.xml), with response labels being usually expressed in terms of agreement or frequency.
 
 Here's a retrospective item often used in [workplace stress](/stress-and-workplace-stress/) research:
 
@@ -35,43 +34,49 @@ Here's a retrospective item often used in [workplace stress](/stress-and-workpla
 
 Loading...</iframe>
 
-### 1) Recall biases
+### Recall biases
 
 Now imagine rating the item above in the afternoon, just after an **infrequent and intense fight with your boss** you had in the morning. You're probably going to overestimate the frequency of work-related interpersonal conflicts due to the **salience** (infrequent event) and **recency** (happened this morning) of this conflictual episode.
 
 ![](img/conflict.png)
 
-On the "cold" (cognitive) side, salience and recency effects, and further **recall biases** such as the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic) are **mental shortcuts** potentially involved each time we retrieve some information from our memory. Whether these shortcuts are necessary to provide us with an adequate **cognitive efficiency**, they are likely to produce systematic distortions in retrospective reports.
+On the "cold" (cognitive) side, salience and recency effects, and further **recall biases** such as the [availability heuristic](https://en.wikipedia.org/wiki/Availability_heuristic) are **mental shortcuts** potentially involved each time we retrieve some information from our memory. Whether these shortcuts are necessary to provide us with an adequate **cognitive efficiency** (not all information is useful), they are likely to produce systematic distortions in retrospective reports (e.g., false memories, overrating).
 
-On the "hot" (emotional) side, **affective states** such as the momentary respondent's mood can interfere with retrieval processes as well, by driving them towards information **matching the current feeling**. 
-
-Going back to our example, imagine rating the following item in the afternoon, after **a serious family issue** (or another stressor unrelated to your job). Just because you're in a bad mood while answering the question (and the reason for your bad mood isn't even related to your work), your rating of work-related stress will probably be higher than it would have been in a good-mood or neutral-mood day.
+On the "hot" (emotional) side, **affective states** such as the momentary respondent's mood can interfere with retrieval processes as well, by driving them towards information **matching the current feeling**. For instance, the respondent might be worried or sad because of a family issue. Imagine yourself answering the following item under such a bad mood. Even if the stressor (family issue) is unrelated to your work, your rating will probably be higher than it would have been on a different day, with a different mood.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfh2Mad4GctaqBcja0QMqiaGYvdL7sFf6x6eQuO1AMa6rhcgw/viewform?embedded=true" width="400" height="520" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
 
-In summary, retrospective reports are largely based on **memory retrieval**, whose accuracy is influenced by both cognitive biases (mental shortcuts) and affective states (momentary mood). In contrast, ESM are referred to the **current moment** (e.g., "*How do you feel right now?*"), minimizing memory retrieval processes, and implying less distorted data. Moreover, being **focused on momentary states** (e.g. "*Are you feeling stressed right now?*"), ESM are also less sensitive to momentary affective confounders.
+In summary, retrospective reports are largely based on **memory retrieval**, whose accuracy is influenced by both cognitive biases (mental shortcuts) and affective states (momentary mood). In contrast, ESM are referred to the **current moment** (e.g., "*How do you feel right now?*"), minimizing memory retrieval processes, and implying less distorted data.
 
-### 2) Individual differences and response style
+### Individual differences and response style
 
-In addition to affective states, retrospective reports are also sensitive to **affective traits** and other stable **personality** characteristics (e.g., conscientiousness, neuroticism, hostility). 
+In addition to affective states, retrospective reports are also sensitive to **affective traits** and other stable **personality** characteristics such as conscientiousness, neuroticism, and hostility. 
 
-For instance, **negative affectivity**, defined as "*a mood-dispositional dimension […] reflecting pervasive individual differences in negative emotionality and self-concept*" [[4]](#references), has been deeply investigated as a confounding variable in [workplace stress](/stress-and-workplace-stress/) research. As explained in [this former post](/stress-and-workplace-stress/), workplace stress assessment aims at measuring indicators of **stressors** (e.g., item 1: interpersonal conflict) and **strain** (e.g., item 2: perceived stress). Since individuals with high negative affectivity tend to perceive both themselves and the environment as "more negative than they are", they are likely to overrate both stressors and strain, possibly resulting in **overestimations** of the "true" relationship between the two latent constructs. 
+For instance, **negative affectivity**, defined as "*a mood-dispositional dimension […] reflecting pervasive individual differences in negative emotionality and self-concept*" [[4]](#references), has been flagged as a critical confounder in workplace stress assessment. As explained in [this former post](/stress-and-workplace-stress/), stress is evaluated by measuring indicators of **stressors** (e.g., item 1: interpersonal conflict) and **strain** (e.g., item 2: perceived stress). Due to their tendency to perceive themselves and the environment as "more negative than they are", individuals with high trait negative affectivity are more likely to overrate both stressors and strain, possibly resulting in **overestimations** of the "true" relationship between the two latent constructs. 
 
 ![](img/response-style.jpg)
 
-**Individual differences**, personality traits, and more basic characteristics such as the educational level can also influence the responses by orienting respondents' strategies and motivation. Especially when we're poorly motivated and/or lack of cognitive resources, we're more vulnerable to further **response biases** due to our mental shortcuts. Two of the most widely investigated response biases are [social desirability](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n537.xml) and the [halo effect](https://en.wikipedia.org/wiki/Halo_effect). The former is the tendency to answer in a way perceived by respondents as more socially acceptable than their "true" answer would be, whereas the halo effect is the tendency to generalize area-specific ratings (either positive or negative) to multiple areas of the object under assessment. 
+Negative affectivity is only one of the several traits that can substantially bias self-report ratings, referred as **response styles**: the respondents' tendency to respond to survey questions in certain ways regardless of the content [[5]](#references). Although **response biases** (e.g.,[social desirability](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n537.xml), [halo effect](https://en.wikipedia.org/wiki/Halo_effect)) are more likely to occur under specific conditions (e.g., low motivation and/or cognitive resources available), they are strongly affected by our typical way of retrieving information, our attributional style, and our self-concept.
 
-Although these confounders are more prevalent for certain self-report measures than others (e.g., negative affectivity for measures of context-specific affect; social desirability for measures of explicit racism), they are largely affected by stable individual characteristics, also referred as **response styles**: the respondent’s tendency to respond to survey questions in certain ways regardless of the content [[5]](#references).
+Whereas retrospective reports are intrinsically linked to stable individual differences, ESM are repeated over time, implying a certain amount of **variability within-individuals**, which can be quantified net of individual differences.
+
+<br>
 
 ### Between and within individuals
 
 With ESM data, individual differences and response styles can be controlled by [decomposing the variance into two levels](/multilevel-modeling): the **within-individual** (level 1), and the **between-individuals** level (level 2). By sampling repeated measures of the same constructs over time, ESM allow to measure intraindividual changes around the individual mean level, thus, controlling for stable individual characteristics.
 
-Here's an example. First, we collect multiple measures of perceived stress from the same individuals over time (*Are you feeling stressed right now?*). Second, we compute the **mean score for each individual**: this will be the **between-individuals component** (level 2), expressing the mean level of stress in each individual. At level 2, the variance in item scores represents individual differences around the mean score of the sample (grand average). This is the same information that can be estimated from retrospective reports, with the only difference that with ESM measures it is computed considering multiple measures, implying higher reliability than that characterizing retrospective reports (based on a single measure from each individual).
+Here's an example. First, we collect multiple measures of perceived stress (item 2: *Are you feeling stressed right now?*) from the same individuals over time. 
 
-Third, each single score measured from a given individual is **mean-centered**, that is we subtract the mean score from the single observation: this will be the **within-individual component** (level 1), expressing the momentary stress level net of the individual mean level. This component will tell us in which occasions (time points) the respondent is **more or less stressed than she usually is**. Most importantly, this momentary stress level will be estimated by controlling for (at least part of) the individual differences that can bias the responses.
+![](img/response-style.jpg)
 
-And here's how the scores measured from two individuals will be: bla
+Second, we compute the **mean score for each individual**: this will be the **between-individuals component** (level 2), expressing the mean level of stress in each individual. At level 2, the variance in item scores represents individual differences around the mean score of the sample (grand average). This is the same information that can be estimated from retrospective reports, with the only difference that with ESM measures it is computed considering multiple measures, implying higher reliability than that characterizing retrospective reports (based on a single measure from each individual). Here's how it can be visualized:
+
+```{r , fig.cap='A cool plot.', tidy=FALSE}
+plot(1,1)  # not really cool
+```
+
+Third, each single score measured from a given individual is **mean-centered**, that is we subtract the mean score from the single observation. Tihis will be the **within-individual component** (level 1), expressing the momentary stress level net of the individual mean level. This component will tell us in which occasions (time points) the respondent is **more or less stressed than she usually is**. Most importantly, this momentary stress level will be estimated by controlling for (at least part of) the individual differences (negative affectivity, response style, etc.) that can bias the responses. Here's how it can be visualized:
 
 
 ```{r , fig.cap='A cool plot.', tidy=FALSE}
@@ -79,21 +84,29 @@ plot(1,1)  # not really cool
 ```
 
 
-**Multilevel modeling** is better described in [this former post](/multilevel-modeling), and [effectively visualized in this beautiful tutorial](http://mfviz.com/hierarchical-models/), but the essence is the following: ESM (and repeated measures in general) allow to simultaneously measure individual differences (more reliably than retrospective reports due to the repeated-measure nature of the data), and momentary deviations around the mean level, allowing to model the variability in item scores by accounting for the **hierarchical data structure** (single observations nested within individual)
+**Multilevel modeling** is better described in [this former post](/multilevel-modeling), and effectively visualized in [this beautiful tutorial](http://mfviz.com/hierarchical-models/), but the essence is the following: ESM (and repeated-measure designs in general) allow to simultaneously measure individual differences (more reliably than retrospective reports due to the repeated-measure nature of the data), and momentary deviations around the mean level, allowing to model the variability in item scores by accounting for the **hierarchical data structure** (single observations nested within individual)
 
 ### The role of the context
 
+The **high ecological validity** (generalizability to every-day life) of ESM is somehow balanced by a **low internal validity** due to the potentially large number of confounding factors that can be encountered during daily experiences (e.g., a car accident, an unexpected news, a physical injury). The **physical and social context** is a major predictor of within-individual variability in psychological states, and a well designed ESM study should include control questions to quantify the most critical contextual confounders.
 
+For instance, a diary study investigating the daily effect of workplace stress on sleep quality should account for **stable contextual factors** unrelated to work such as the number ad age of children in the household, as well as for **transient contextual factors** such as daily family hassles (e.g., a discussion with a family member, urgent housework), leisure activities (e.g., sport, relaxation), and the daily consumption of those substances that can affect sleep quality (e.g., coffee and alcohol). Critically, only stable factors can be quantified with retrospective reports, whereas ESM potentially allow to measure both.
+
+But the context is not just a confounder to control. In many ESM studies the context is the main subject under investigation, with changes in the context status being used to predict changes in the psychological states measured with ESM ratings. It is the case of **work sampling**, an old technique for estimating the percentage of working time spent by employees on each of a range of predefined activity categories. By systematically measuring the type of activity undertaken and the concurrent ratings of stress, social interactions, or further variables, it is possible to identify which work activities are perceived as more stressful, associated with more problematic social interactions, and so on.
 
 ### The role of time
 
-## Building an ESM scale
+The final and probably most important advantage of ESM over retrospective reports is the possibility to evaluate how the measured variables change and interact over time.
+
+## Planning an ESM study
+
+At this point, you should be aware of the many advantages (and at least some of the disadvantages) implicated by ESM. 
+
+### Building an ESM scale
 
 ### Psychometrics of Experience Sampling Methods
 
 Construct validity and multilevel constructs
-
-## Planning an ESM study
 
 # References
 

@@ -1,0 +1,22 @@
+---
+title: 'Experience Sampling Methods: Measuring experiences in real time'
+author: "Luca Menghini"
+date: "`r Sys.Date()`"
+slug: experience-sampling-methods-measuring-experiences-in-real-time
+categories: ["Methodology"]
+tags: ["Experience Sampling Methods", "Ecological Momentary Assessment","Methodology","Psychometrics","Workplace stress"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-04-30T18:35:02+02:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: [esm_workplace_stress]
+---
+
+```{r myplot, fig.cap='My plot', tidy=FALSE}
+plot(1,1)  # ciao
+```
