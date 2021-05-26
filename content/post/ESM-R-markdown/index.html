@@ -1,7 +1,7 @@
 ---
 title: "ESM R markdown"
 author: "Luca Menghini"
-date: "2021-05-25"
+date: "2021-05-26"
 categories: ["Methodology"]
 tags: ["Experience Sampling Methods", "Ecological Momentary Assessment","Methodology","Psychometrics","Workplace stress"]
 image:
@@ -50,44 +50,34 @@ Caricamento…
 <h3>Between and within individuals</h3>
 <p>With ESM data, individual differences and response styles can be controlled by <a href="/multilevel-modeling">decomposing the variance into two levels</a>: the <strong>within-individual</strong> (level 1), and the <strong>between-individuals</strong> level (level 2). By sampling repeated measures of the same constructs over time, ESM allow to measure intraindividual changes around the individual mean level, thus, controlling for stable individual characteristics.</p>
 <p>Here’s an example. First, we collect multiple measures of perceived stress (item 2: <em>Are you feeling stressed right now?</em>) from the same individuals over time.</p>
-<p><img src="img/response-style.jpg" /></p>
+<p><img src="img/esm_example.PNG" /></p>
 <p>Second, we compute the <strong>mean score for each individual</strong>: this will be the <strong>between-individuals component</strong> (level 2), expressing the mean level of stress in each individual. At level 2, the variance in item scores represents individual differences around the mean score of the sample (grand average). This is the same information that can be estimated from retrospective reports, with the only difference that with ESM measures it is computed considering multiple measures, implying higher reliability than that characterizing retrospective reports (based on a single measure from each individual). Here’s how it can be visualized:</p>
-<pre class="r"><code>plot(1,1)  # not really cool</code></pre>
-<div class="figure"><span id="fig:unnamed-chunk-1"></span>
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" alt="A cool plot." width="672" />
-<p class="caption">
-Figure 1: A cool plot.
-</p>
-</div>
+<p><img src="img/esm_between_subjects.PNG" /></p>
 <p>Third, each single score measured from a given individual is <strong>mean-centered</strong>, that is we subtract the mean score from the single observation. Tihis will be the <strong>within-individual component</strong> (level 1), expressing the momentary stress level net of the individual mean level. This component will tell us in which occasions (time points) the respondent is <strong>more or less stressed than she usually is</strong>. Most importantly, this momentary stress level will be estimated by controlling for (at least part of) the individual differences (negative affectivity, response style, etc.) that can bias the responses. Here’s how it can be visualized:</p>
-<pre class="r"><code>plot(1,1)  # not really cool</code></pre>
-<div class="figure"><span id="fig:unnamed-chunk-2"></span>
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" alt="A cool plot." width="672" />
-<p class="caption">
-Figure 2: A cool plot.
-</p>
-</div>
+<p><img src="img/esm_within_subjects.PNG" /></p>
 <p><strong>Multilevel modeling</strong> is better described in <a href="/multilevel-modeling">this former post</a>, and effectively visualized in <a href="http://mfviz.com/hierarchical-models/">this beautiful tutorial</a>, but the essence is the following: ESM (and repeated-measure designs in general) allow to simultaneously measure individual differences (more reliably than retrospective reports due to the repeated-measure nature of the data), and momentary deviations around the mean level, allowing to model the variability in item scores by accounting for the <strong>hierarchical data structure</strong> (single observations nested within individual)</p>
 </div>
 <div id="the-role-of-the-context" class="section level3">
 <h3>The role of the context</h3>
-<p>The <strong>high ecological validity</strong> (generalizability to every-day life) of ESM is somehow balanced by a <strong>low internal validity</strong> due to the potentially large number of confounding factors that can be found in daily experiences (e.g., a car accident, an unexpected news, a physical injury), possibly influencing the ratings. The <strong>physical and social context</strong> is a major predictor of within-individual variability in psychological states, and a well designed ESM study should include control questions to quantify the most critical contextual confounders.</p>
-<p>For instance, a diary study investigating the daily effect of workplace stress on sleep quality should account for factors ranging from the family ……</p>
-<p>The context is often the main focus of ESM studies …. work sampling</p>
+<p>The <strong>high ecological validity</strong> (generalizability to every-day life) of ESM is somehow balanced by a <strong>low internal validity</strong> due to the potentially large number of confounding factors that can be encountered during daily experiences (e.g., a car accident, an unexpected news, a physical injury). The <strong>physical and social context</strong> is a major predictor of within-individual variability in psychological states, and a well designed ESM study should include control questions to quantify the most critical contextual confounders.</p>
+<p>For instance, a diary study investigating the daily effect of workplace stress on sleep quality should account for <strong>stable contextual factors</strong> unrelated to work such as the number ad age of children in the household, as well as for <strong>transient contextual factors</strong> such as daily family hassles (e.g., a discussion with a family member, urgent housework), leisure activities (e.g., sport, relaxation), and the daily consumption of those substances that can affect sleep quality (e.g., coffee and alcohol). Critically, only stable factors can be quantified with retrospective reports, whereas ESM potentially allow to measure both.</p>
+<p>But the context is not just a confounder to control. In many ESM studies the context is the main subject under investigation, with changes in the context status being used to predict changes in the psychological states measured with ESM ratings. It is the case of <strong>work sampling</strong>, an old technique for estimating the percentage of working time spent by employees on each of a range of predefined activity categories. By systematically measuring the type of activity undertaken and the concurrent ratings of stress, social interactions, or further variables, it is possible to identify which work activities are perceived as more stressful, associated with more problematic social interactions, and so on.</p>
 </div>
 <div id="the-role-of-time" class="section level3">
 <h3>The role of time</h3>
-</div>
-</div>
-<div id="building-an-esm-scale" class="section level2">
-<h2>Building an ESM scale</h2>
-<div id="psychometrics-of-experience-sampling-methods" class="section level3">
-<h3>Psychometrics of Experience Sampling Methods</h3>
-<p>Construct validity and multilevel constructs</p>
+<p>The final and probably most important advantage of ESM over retrospective reports is the possibility to evaluate how the measured variables change and interact over time.</p>
 </div>
 </div>
 <div id="planning-an-esm-study" class="section level2">
 <h2>Planning an ESM study</h2>
+<p>At this point, you should be aware of the many advantages (and at least some of the disadvantages) implicated by ESM.</p>
+<div id="building-an-esm-scale" class="section level3">
+<h3>Building an ESM scale</h3>
+</div>
+<div id="psychometrics-of-experience-sampling-methods" class="section level3">
+<h3>Psychometrics of Experience Sampling Methods</h3>
+<p>Construct validity and multilevel constructs</p>
+</div>
 </div>
 <div id="references" class="section level1">
 <h1>References</h1>
