@@ -24,7 +24,7 @@ To keep it simple, Experience Sampling means asking individuals to provide syste
 
 <br>
 
-## ESM vs. Retrospective Reports
+# ESM vs. Retrospective Reports
 
 **Retrospective self-reports** are the gold standard for measuring subjective ratings of psychological constructs, requiring respondents to rate a number of questions **referred to the past** (e.g., over the last six months, over the last year). Ratings are often given on a [Likert scale](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n273.xml), with response labels being usually expressed in terms of agreement or frequency.
 
@@ -48,7 +48,7 @@ On the "hot" (emotional) side, **affective states** such as the momentary respon
 
 In summary, retrospective reports are largely based on **memory retrieval**, whose accuracy is influenced by both cognitive biases (mental shortcuts) and affective states (momentary mood). In contrast, ESM are referred to the **current moment** (e.g., "*How do you feel right now?*"), minimizing memory retrieval processes, and implying less distorted data.
 
-### Individual differences and response style
+## Individual differences and response style
 
 In addition to affective states, retrospective reports are also sensitive to **affective traits** and other stable **personality** characteristics such as conscientiousness, neuroticism, and hostility. 
 
@@ -60,7 +60,7 @@ Negative affectivity is only one of the several traits that can substantially bi
 
 Whereas retrospective reports are intrinsically linked to stable individual differences, ESM are repeated over time, implying a certain amount of **variability within-individuals**, which can be quantified net of individual differences.
 
-### Between and within individuals
+## Between and within individuals
 
 With ESM data, individual differences and response styles can be controlled by [decomposing the variance into two levels](/multilevel-modeling): the **within-individual** (level 1), and the **between-individuals** level (level 2). By sampling repeated measures of the same constructs over time, ESM allow to measure intraindividual changes around the individual mean level, thus, controlling for stable individual characteristics.
 
@@ -102,7 +102,7 @@ Third, each single score measured from a given individual is **person-mean-cente
 
 **Multilevel modeling** is better described in [this former post](/multilevel-modeling), and effectively visualized in [this beautiful tutorial](http://mfviz.com/hierarchical-models/), but the essence is the following: ESM (and repeated-measure designs in general) allow to simultaneously measure individual differences (more reliably than retrospective reports due to the repeated-measure nature of the data), and momentary deviations around the mean level, allowing to model the variability in item scores by accounting for the **hierarchical data structure** (single observations nested within individual)
 
-### The role of the context
+## The role of the context
 
 The **high ecological validity** (i.e., generalizability to every-day life) of ESM is somehow balanced by a **low internal validity** due to the potentially large number of confounding factors that can be encountered during daily experiences (e.g., a car accident, an unexpected news, a physical injury). The **physical and social context** is a major predictor of within-individual variability in psychological states, and a well designed ESM study should include some questions to quantify the most critical contextual confounders.
 
@@ -114,7 +114,7 @@ The figure below shows an example from an ESM study we conducted with a sample o
 
 ![](img/worksampling.PNG)
 
-### The role of time
+## The role of time
 
 The last and probably most important advantage of ESM over retrospective reports is the possibility to evaluate how the measured variables change and interact over time. This is very useful, for instance, in [workplace stress](/stress-and-workplace-stress/), where the **duration and frequency of exposure** to job stressors, and the associated **prolonged activation** have been identified as the key pathogenic factors. Temporal indicators (e.g., hour of the day, day number) can be directly included as a predictor of ESM ratings, to model their temporal trajectories over the data collection period. 
 
@@ -144,9 +144,13 @@ Moreover, ESM allow to account for the **autocorrelation** between consecutive r
 
 Finally, ESM allow modeling **time-lagged relationships**, that is the associations between a variable measured on a given time point and another variable measured on a different time point (either before or after the former). For instance, one might investigate how job strain indicators are influenced by both the concurrent (same time point) and the preceding job stressor ratings (previous time point). Moreover, time-lagged terms are often used to model **reciprocal relationships** by two time-varying variables. It is the case of the [mutual relationship between stress and sleep](/sleep-stress/), with several diary studies highlighting a negative impact of previous-day stress on sleep and, in turn, a positive association between sleep disturbances and next-day stress ratings (e.g., [[7]](#references)).
 
-## Planning an ESM study
+<br>
+
+# Planning an ESM study
 
 At this point, you should be aware of the many advantages implicated by ESM. The main disadvantages are probably related to the complexity of the study design, implying a higher number of parameters to be considered compared to traditional (cross-sectional) studies. These include the number of measurement points and their time distance, and the training of the participants.
+
+## Number of time points and protocol duration
 
 The **number of time points** has important implications for the **statistical power** of the study, which is now due to both the number of participants (sample size) and the number of measurement occasions from each participant (protocol length). Although the former has a greater impact on statistical power than the latter, it is important to plan both, possibly via **multilevel power analysis** [[8]](#references). 
 
@@ -154,15 +158,23 @@ The number of time points and the **total duration of the protocol** also determ
 
 Indeed, further important variables affected by the number of time points are the **response rate** (% of received responses over the total number of scheduled questionnaires), and the **drop-out rate** (% of participants that interrupted their participation over the total number of recruited participants). **Missing data** and **participant burden** are crucial indicators of the quality of an ESM datasets, and both should be kept as minimum as possible (e.g., by decreasing the number of measurement points, or by including **monetary incentives** for participants that provide a minimum number of responses).
 
+## Temporal distance and theory of change
+
 The **temporal distance** between consecutive measurement points (which is usually related to the desired number of time points) is a further parameter to be considered. It has to do with the **theory of change** on the considered variables, that is the expected time needed to observe a substantial within-individual change in their value. Different variables take different time to fluctuate, and higher sampling frequency might result in a waste of resources. For instance, Ilies et al. [[9]](#references) used a two-week ESM design (with three measurements per day) to investigate the moderators of **interpersonal conflicts at work** (49 employees, 1,270 observations). However, the sampling protocol resulted in a mean number of reported conflicts of only 0.26 (SD = 0.26) over a five-point checklist, suggesting that the sampling frequency was to high to detect such **infrequent events**.
+
+## Training participants
 
 Finally, **participants training** is also very important, since it might solve potential doubts and anticipate potential problems that otherwise would occur later during the protocol. A **pilot study** involving the authors and their collaborators is always an useful choice to understand the core information to be provided during the training session. The training is also important to promote participants' compliance with the study and to reduce the drop-out rate: if participants perceive that the study is well designed, rigorous, and feasible, and if the experimenters are positively perceived, then participants will probably put more effort to adhere with the protocol.
 
-## Conclusions
+<br>
+
+# Conclusions
 
 In sum, ESM overcome several limitations of retrospective reports, implying several advantages such as accounting for the role of context and time, and for both individual differences and intraindividual fluctuations. Despite the several challenges implied by ESM (e.g., missing data, participants burden, complexity of ESM designs), they are increasingly used to investigate the temporal dynamics and the interactions between time-varying constructs. [Workplace stress research](/stress-and-workplace-stress/) is particularly at the forefront of ESM application, with more and more studies providing validated ESM measures (take a look at [our study published in EJPA](future-link)!), and using ESM to investigate workpalce stress in real-time and over time.
 
 For more information, I strongly recommend the [Open Handbook of Experience Sampling Methodology](https://www.kuleuven.be/samenwerking/real/real-book/index.htm).
+
+<br>
 
 # References
 

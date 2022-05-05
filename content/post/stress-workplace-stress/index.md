@@ -13,6 +13,8 @@ Some text introducing stress and workplace stress
 
 ## Psychophysiology of stress
 
+![](img/ans.PNG)
+
 ### The allostatic load theory
 
 ## Workplace stress
