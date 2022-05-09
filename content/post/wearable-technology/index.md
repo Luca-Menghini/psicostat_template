@@ -11,11 +11,13 @@ title: Wearable technology and e-health
 
 Some text introducing e-health and wearable tech
 
-## Wearables & nearables
+# Wearables & nearables
+
+The term 'wearable technology' is used ...
 
 ### Consumer wearable technology
 
-## Wearable technology in e-health
+## Wearable technology and e-health
 
 ### Assessing stress with wearable sensors
 
