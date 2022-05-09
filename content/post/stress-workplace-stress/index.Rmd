@@ -1,11 +1,20 @@
 ---
-date: "2019-07-12"
-diagram: true
+title: "Workplace stress: from the stress response to the assessment and management of psychosocial hazards"
+author: "Luca Menghini"
+date: "`r Sys.Date()`"
+categories: ["Workplace stress"]
+tags: ["Workplace stress", "Stress response","Psychophysiology","Occupational health","Psychosocial hazards"]
 image:
-  placement: 3
-math: true
-title: Workplace stress: from the stress response to the assessment and management of psychosocial hazards
+  placement: 1
+  focal_point: ''
+  preview_only: false
+output: 
+  html_document
 ---
+
+```{r setup, include=FALSE,echo=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
 
 Workplace stress is a highly prevalent phenomenon associated with substantial individual, organizational, and societal costs. Over the last decades, robust theoretical frameworks have been provided to characterize the stress response both physiologically and psychologically. These resulted in consolidated models of job stress, as well as in normative frameworks aiding organizations to identify, assess, and manage the psychosocial hazards in the work force.
 
@@ -53,5 +62,6 @@ Something about Management Standards, HSE and INAIL.
 
 Primary, secondary and tertiary prevention
 
+# References
 
-### References 🙌
+1.  Csikszentmihalyi, M., & Larson, R. (2014). Validity and reliability of the experience-sampling method. In *Flow and the foundations of positive psychology* (pp. 35-54). Springer, Dordrecht.

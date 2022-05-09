@@ -1,11 +1,20 @@
 ---
-date: "2019-07-12"
-diagram: true
+title: "Psychophysiology of sleep and relationships with stress and job stressors"
+author: "Luca Menghini"
+date: "`r Sys.Date()`"
+categories: ["Workplace stress"]
+tags: ["Sleep", "Sleep architecture","Psychophysiology","Stress","Workplace stress"]
 image:
-  placement: 3
-math: true
-title: Sleep, sleep quality and stress
+  placement: 1
+  focal_point: ''
+  preview_only: false
+output: 
+  html_document
 ---
+
+```{r setup, include=FALSE,echo=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
 
 Sleep is a fondamental process in our daily life, accounting for the _x_% of our life time. While sleep quality is a core aspect of our general health and wellbeing, it is deeply affected by the stressful events and the associated cognitions and emotions, possibly leading to vicious circles where more and more distress is perceived, and poorer and poorer sleep is experienced. Specifically, several empirical studies provided evidence of negative reciprocal associations between [workplace stress](...) and sleep quality.
 
@@ -67,7 +76,7 @@ consumer sleep technology
 
 ## Sleep as a recovery experience
 
-## Sleep deprivation as a stressor
 
+# References
 
-### References 🙌
+1.  Csikszentmihalyi, M., & Larson, R. (2014). Validity and reliability of the experience-sampling method. In *Flow and the foundations of positive psychology* (pp. 35-54). Springer, Dordrecht.
