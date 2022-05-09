@@ -4,8 +4,6 @@ diagram: true
 image:
   placement: 3
 math: true
-projects:
-- suggested_bayesian_papers
 title: Workplace stress: from the stress response to the assessment and management of psychosocial hazards
 ---
 

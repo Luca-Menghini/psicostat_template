@@ -4,8 +4,6 @@ diagram: true
 image:
   placement: 3
 math: true
-projects:
-- suggested_bayesian_papers
 title: Wearable technology and e-health
 ---
 
