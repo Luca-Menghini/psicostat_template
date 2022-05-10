@@ -1,5 +1,5 @@
 ---
-title: "Workplace stress: from the stress response to the assessment and management of psychosocial hazards"
+title: "Workplace stress: From the stress response to the assessment and management of psychosocial hazards"
 author: "Luca Menghini"
 date: "`r Sys.Date()`"
 categories: ["Workplace stress"]
@@ -22,33 +22,45 @@ Workplace stress is a highly prevalent phenomenon associated with substantial in
 
 # Psychophysiology of the stress response
 
-Stress is a complex and **multifaceted phenomenon**, involving multiple dimensions placed on **different epistemological levels**, and investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam), **chronic** (e.g., war), and even **dispositional** time course (e.g., anxiety disorder), and it is associated with individual **health & well-being**.
+Stress is a complex and **multifaceted phenomenon**, involving multiple dimensions placed on **different epistemological levels**, and investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam), **chronic** (e.g., war), and even **dispositional** time course (e.g., anxiety disorder), and it is associated with individual health & well-being.
 
 ## Historical origins of stress research
 
-The term "stress" comes from the Latin "*strictus*" (narrow), initially used to describe an elastic body's response (pressure changes called "*strain*", i.e., tension) to an external force. Then, the French physiologist [Claude Bernard (1813-1878)](https://en.wikipedia.org/wiki/Claude_Bernard) started using the term "*estresse*" to characterize the body’s defence reactions to strong external stimulations. Following Berdard's work, the North American physiologist [Walter Cannon (1871-1045)](https://en.wikipedia.org/wiki/Walter_Bradford_Cannon) identified a global response through which the **Autonomic Nervous System** (ANS) reacts to threatening stimuli in order to maintain **homeostasis** (the normal physiological balance of the body): the **alarm reaction**.
+The term '***stress***' comes from the Latin '***strictus***' (narrow), initially used to describe an elastic body's response (pressure changes called '***strain***', i.e., tension) to an external force. Then, the French physiologist [Claude Bernard (1813-1878)](https://en.wikipedia.org/wiki/Claude_Bernard) started using the term "***estresse***" to characterize the body’s defence reactions to strong external stimulations. Following Berdard's work, the North American physiologist [Walter Cannon (1871-1045)](https://en.wikipedia.org/wiki/Walter_Bradford_Cannon) identified a global response through which the **Autonomic Nervous System** (ANS) reacts to threatening stimuli in order to maintain [homeostasis](https://www.scientificamerican.com/article/what-is-homeostasis/) (the normal physiological balance of the body): the **Alarm Reaction**.
 
 ![](img/ans.PNG)
 
-The **Autonomic Nervous System (ASN)** is a component of the peripheral nervous system that is traditionally thought to be **involuntarily controlled** (as opposed to the somatic nervous system, although recent evidence highlighted the possibility to voluntarily control some of its components, e.g., using biofeedback). The ANS is composed by two branches, both innervating most of our organs, muscles, and other cardiovascular systems: 
+The **Autonomic Nervous System (ASN)** is a component of the peripheral nervous system that is traditionally thought to be **involuntarily controlled** as opposed to the somatic nervous system (although recent evidence highlighted the possibility to voluntarily control some of its components, e.g., using [biofeedback](https://dictionary.apa.org/biofeedback)). The ANS is composed by two branches, both innervating most of our organs and muscles: 
 
-- the \color{red} **sympathetic nervous system** \color{black}, being overall characterized by an activating function (e.g., phasic heart rate increase, increased muscle oxygenation) to prepare the body to action. This is the system involved in the **alarm reaction** identified by Cannon, often referred as the "***fight-or-flight***" response.
+- the **sympathetic nervous system**, characterized by an overall activating function (e.g., phasic heart rate increase, increased muscle oxygenation) to prepare the body to action, that is to elicit the ***fight-or-flight*** response (i.e., the Alarm Reaction identified by Cannon)
 
-- the \color{blue} **parasymphatetic nervous system** \color{black}, being overall characterized by an inhibiting function (e.g., tonic heart rate decrease, increased oxygenation of internal organs to promote digestive functions). As typically opposed to the symphatetic system, the parasymphatetic branch is often referred as the "***rest-and-digest***" system.
+- the **parasymphatetic nervous system**, characterized by an overall inhibiting function (e.g., tonic heart rate decrease, increased oxygenation of internal organs promoting digestion), sometimes referred as the ***rest-and-digest*** system.
 
-## The General Adaptation Syndrome
+<br>
 
-**Hans Selye (1936)**: identified a *nonspecific* and *gradual* response to different nocuous agents (e.g., cold temperature, surgical injuries, excessive physical exercise, toxic substances): \newline The **General Adaptation Syndrome**
+Following Cannon's work, the Austrian endocrinologist [Hans Selye (1907-1982)](https://en.wikipedia.org/wiki/Hans_Selye) identified a **nonspecific and gradual response** to different adverse conditions observed in human subjects (e.g., cold, flu, amputation), and to different nocuous stimulations experimentally inflicted to laboratory rats (e.g., cold temperature, surgical injuries, excessive physical exercise, toxic substances). The **General Adaptation Syndrome** was defined as «*the sum of all nonspecific, systemic reactions of the body which ensue upon long-continued exposure to stress*» [[1]](#references), articulated over three stages:
+
+1. **Alarm reaction** (from Cannon's work), characterized as a short-term adaptive response resulting in increased energy availability and immune defense (fight-or-flight)
+
+2. **Resistance**, that is when the exposure is prolonged, the response can be sustained over time, and the organism increasingly adapts
+
+3. **Exhaustion**: last stage characterizing exposures prolonged for several weeks/months, resulting in severe damage to the body (e.g., intestinal ulcers) and increased vulnerability to both the original and other stressful stimuli, with higher chance of illness and death
 
 ![](img/gas.PNG)
 
 ## Psychoneuroendocrinology of the stress response
+
+Selye and Cannon were the first acknowledging the **multilevel nature of the stress response**, involving complex interactions between the nervous and the endocrine systems, and with implications at the immune level. While such complexity resulted in a degree of conceptual ambiguity and disagreement across different (sub)disciplines [[2]](#references), it also contributed to the definition of more **holistic approaches** to its investigation. One of these approaches is that of the **Psycho-Neuro-Endocrino-Immunology** (what a long name! But we can call it PNEI), that is the study of the interactions between behavioral (e.g., fight-or-flight response), neural (e.g., ANS, prefrontal cortex), endocrine (e.g., cortisol), and immune systems (e.g., proinflammatory cytokines).
 
 ![](img/stressResponse.PNG)
 
 ## The allostatic load theory
 
 ## Cognitive, affective, and social processes in the stress response
+
+<br>
+
+# So what's stress?
 
 <br>
 
