@@ -4,34 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "RESEARCH"
+  name = "PROJECTS"
   url = "#projects"
   weight = 10
-
-# [[main]]
-#  name = "RESEARCH GROUPS"
-#  url = "#psicostat"
-#  weight = 20
-
-#[[main]]
-#  name = "PUBLICATIONS"
-#  url = "#publications"
-#  weight = 30
-
-[[main]]
-  name = "ORGANIZATIONS"
-  url = "#organizations"
-  weight = 40
-
-[[main]]
-  name = "INDIVIDUALS"
-  url = "#individuals"
-  weight = 50
   
 [[main]]
   name = "BLOG"
   url = "#posts"
-  weight = 60
+  weight = 20
+
+[[main]]
+  name = "PUBLICATIONS"
+  url = "#publications"
+  weight = 30
 
 # [[main]]
 #  name = "Posters"
@@ -49,9 +34,14 @@
 #  weight = 60
 
 [[main]]
+  name = "RESEARCH GROUPS"
+  url = "#psicostat"
+  weight = 70
+
+[[main]]
   name = "CONTACT"
   url = "#contact"
-  weight = 70
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
