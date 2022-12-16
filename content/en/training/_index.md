@@ -3,6 +3,6 @@ header:
   caption: ""
   image: ""
 title: Training
-view: 2
+view: 4
 ---
     

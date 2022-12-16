@@ -17,16 +17,21 @@
   name = "TRAINING"
   url = "#training"
   weight = 30
-  
+
 [[main]]
-  name = "BLOG"
-  url = "#posts"
+  name = "RESEARCH GROUPS"
+  url = "#groups"
   weight = 40
 
 [[main]]
   name = "PUBLICATIONS"
   url = "#publications"
   weight = 50
+
+[[main]]
+  name = "BLOG"
+  url = "#posts"
+  weight = 60
 
 # [[main]]
 #  name = "Posters"
@@ -42,11 +47,6 @@
 #  name = "Teaching"
 #  url = "teaching/"
 #  weight = 60
-
-[[main]]
-  name = "RESEARCH GROUPS"
-  url = "#groups"
-  weight = 60
 
 [[main]]
   name = "CONTACT"
