@@ -1,26 +1,16 @@
 +++
 # A Projects section created with the Portfolio widget.
-widget = "project_interests"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+widget = "training"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Research projects"
+title = "Training"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
-  
-  # Choose how many projects you would like to display (0 = all projects)
-  count = 3
-  
-  # Choose how many projects you would like to offset by
-  offset = 0
-  
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    only_show_homepage = true
+  page_type = "teaching"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -31,17 +21,22 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+# Questo è il widget degli insegnamenti con la funzione di filtraggio dei contenuti
+# Nel widget è presente un filtro che permette di visualizzare nella home i corsi passati e presenti
+# oppure tutti. Per far funzionare il filtro è sufficiente inserire nella pagina del singolo corso il tag: "current"
+# oppure "old". Se non si vuole la funzionalità basta commentare (#) o eliminare le seguenti linee di codice
+
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
+
+  [[content.filter_button]]
+    name = "Past Years"
+    tag = "past"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-  
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Current"
+    tag = "current"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -52,7 +47,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
