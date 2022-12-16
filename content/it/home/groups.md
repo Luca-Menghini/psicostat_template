@@ -49,7 +49,7 @@ subtitle = ""
 +++
 
 <div style="float: left; width: 30%;">
-  <img class= logo src="static/img/Psicostat_hexagon.svg" width="200" align="middle">
+  <img class= logo src="img_ita/Psicostat_hexagon.svg" width="200" align="middle">
 </div>
 
 I'm part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (University of Padua). We are an interdisciplinary research group interested in **quantitative psychology, psychometrics, psychological testing, and statistics**.
@@ -58,7 +58,7 @@ I'm part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (Universi
 <br>
 
 <div style="float: left; width: 30%;">
-<img class= logo src="static/img/logo_psyphyLab.svg" width="200" align="middle">
+<img class= logo src="img_ita/logo_psyphyLab.svg" width="200" align="middle">
 </div>
 
 I'm also part of the <b> [Psychophysiology Lab](https://dpg.unipd.it/en/psyphylab) </b> (University of Padua), focusing on **basic psychophysiological processes** (mind-body interactions), and their involvement in **anxiety, stress, depression and medical conditions**.
