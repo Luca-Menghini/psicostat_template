@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Teaching
+title: Training
 view: 2
 ---
     
