@@ -1,19 +1,17 @@
 ---
 authors:
 - admin
-bio: I'm working within the research areas of Occupational Health Psychology,
-  and the Psychophysiology of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/)
-  & [Sleep](/sleep-sleep-quality-and-stress/).
+bio: Lavoro nell'area della Psicologia del lavoro e delle organizzazioni, e in particolare nella Psicologia della salute occupazionale e della Psicofisiologia dello [Stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/).
 education:
   courses:
-  - course: PhD cum laudae in Psychological Sciences
-    institution: University of Padua
+  - course: Dottorato di ricerca con lode in Scienze Psicologiche
+    institution: Università degli Studi di Padova
     year: 2021
-  - course: MSc cum laudae in Social, Work, and Communication Psychology
-    institution: University of Padua
+  - course: Laurea magistrale con lode in Psicologia Sociale, del Lavoro e della Comunicazione
+    institution: Università degli Studi di Padova
     year: 2016
-  - course: BSc cum laudae in Social and Work Psychology
-    institution: University of Padua
+  - course: Laurea triennale con lode in Scienze Psicologiche Sociali e del Lavoro
+    institution: Università degli Studi di Padova
     year: 2014
 email: luca.menghini3@unibo.it
 interests:
@@ -24,11 +22,11 @@ interests:
 - Experience Sampling Methods
 - Multilevel Modeling
 - R Software
-name: Luca Menghini
+name: Luca Menghini, Ph.D.
 organizations:
 - name: University of Bologna
   url: https://www.unibo.it/sitoweb/luca.menghini3
-role: Postdoctoral research fellow in Occupational Health Psychology
+role: Psicologo del lavoro e delle organizzazioni
 social:
 - icon: envelope
   icon_pack: fas
@@ -54,12 +52,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/) and [Sleep](/sleep-sleep-quality-and-stress/).
+Sono uno psicologo del lavoro e delle organizzazioni e assegnista di ricerca presso il [Dipartimento di Psicologia](https://www.unibo.it/sitoweb/luca.menghini3/en) dell'Università di Bologna. Mi occupo principalmente di **Psicologia della salute occupazionale** e di **Psicofisiologia** dello [stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/).
 
-
-
-Over my (still little) experience, I've focused on innovative **research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling Methods](/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses in real time, in participants’ natural environments. By means of [Ecological Momentary Assessment (EMA)](/ecological-momentary-assessment/), I've collected self-report (psychological testing), physiological ([Heart Rate Variability](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)), and behavioral measures (cognitive testing) to **analyse the stressor-strain relationship** with a [Multilevel Approach](/multilevel-modeling/).
-
-I'm passionate about planning (using my brain + the existing literature), conducting (using [EMA protocols](#projects)), and analyzing data ([using R](https://www.r-project.org/)) from field studies. I also love **playing bass**! 🎸
+Nel corso della mia esperienza di ricerca, mi sono focalizzato su **metodi di ricerca innovativi** ([tecnologie wearable](/wearable-technology-and-e-health/), metodi [experience sampling](/experience-sampling-methods/)) per valutare le fonti di stress (es. carico di lavoro) e le risposte psicofisiologiche ad esse associate in tempo reale, nei contesti di vita quotidiana. Utilizzando protocolli di [Ecological Momentary Assessment (EMA)](/ecological-momentary-assessment/), ho condotto diversi studi raccogliendo e analizzando dati self-report (testing psicologico), fisiologici (es. [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) e comportamentali (testing cognitivo) per analizzare le **relazioni stressor-strain** con un [approccio multilivello](/multilevel-modeling/).
 
 [Curriculum Vitae](files/cv.pdf)
