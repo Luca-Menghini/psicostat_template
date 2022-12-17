@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: I'm working within the research areas of Occupational Health Psychology,
-  and the Psychophysiology of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/)
+  and the Psychophysiology of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/),
   & [Sleep](/sleep-sleep-quality-and-stress/).
 education:
   courses:
@@ -48,8 +48,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a Work and Organizational Psychologist, and a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, mainly working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/) and [Sleep](/sleep-sleep-quality-and-stress/).
+I'm a Work and Organizational Psychologist, and a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, mainly working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/), and [Sleep](/sleep-sleep-quality-and-stress/).
 
-Over my (still little) experience, I've focused on innovative **research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling Methods](/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses in real time, in participants’ natural environments such as their workplace. I'm passionate about planning, conducting, and analyzing data ([using R](https://www.r-project.org/)) from field studies. I also love **playing bass**! 🎸
+I'm particularly focused on **innovative research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling Methods](/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses (e.g., [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in real time, in participants’ natural environments such as their workplace. I'm passionate about planning, conducting, and analyzing data ([using R](https://www.r-project.org/)) from field studies.
 
 Here's my [CV](files/cv.pdf).
