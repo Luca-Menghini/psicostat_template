@@ -6,24 +6,18 @@ bio: I'm working within the research areas of Occupational Health Psychology,
   & [Sleep](/sleep-sleep-quality-and-stress/).
 education:
   courses:
-  - course: PhD cum laudae in Psychological Sciences
+  - course: PhD in Psychological Sciences, 2021
     institution: University of Padua
-    year: 2021
-  - course: MSc cum laudae in Social, Work, and Communication Psychology
+  - course: MSc in Social, Work, and Communication Psychology, 2016
     institution: University of Padua
-    year: 2016
-  - course: BSc cum laudae in Social and Work Psychology
+  - course: BSc in Social and Work Psychology, 2014
     institution: University of Padua
-    year: 2014
 email: luca.menghini3@unibo.it
 interests:
 - Workplace Stress
-- Workaholism
 - Applied Psychophysiology
 - Wearable Technlology
-- Experience Sampling Methods
 - Multilevel Modeling
-- R Software
 name: Luca Menghini
 organizations:
 - name: University of Bologna
@@ -54,12 +48,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/) and [Sleep](/sleep-sleep-quality-and-stress/).
+I'm a Work and Organizational Psychologist, and a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, mainly working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/) and [Sleep](/sleep-sleep-quality-and-stress/).
 
+Over my (still little) experience, I've focused on innovative **research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling Methods](/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses in real time, in participants’ natural environments such as their workplace. I'm passionate about planning, conducting, and analyzing data ([using R](https://www.r-project.org/)) from field studies. I also love **playing bass**! 🎸
 
-
-Over my (still little) experience, I've focused on innovative **research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling Methods](/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses in real time, in participants’ natural environments. By means of [Ecological Momentary Assessment (EMA)](/ecological-momentary-assessment/), I've collected self-report (psychological testing), physiological ([Heart Rate Variability](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)), and behavioral measures (cognitive testing) to **analyse the stressor-strain relationship** with a [Multilevel Approach](/multilevel-modeling/).
-
-I'm passionate about planning (using my brain + the existing literature), conducting (using [EMA protocols](#projects)), and analyzing data ([using R](https://www.r-project.org/)) from field studies. I also love **playing bass**! 🎸
-
-[Curriculum Vitae](files/cv.pdf)
+Here's my [CV](files/cv.pdf).
