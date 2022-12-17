@@ -8,9 +8,9 @@ education:
   courses:
   - course: PhD in Psychological Sciences, 2021
     institution: University of Padua
-  - course: MSc in Social, Work, and Communication Psychology, 2016
+  - course: MSc in Work Psychology, 2016
     institution: University of Padua
-  - course: BSc in Social and Work Psychology, 2014
+  - course: BSc in Social & Work Psychology, 2014
     institution: University of Padua
 email: luca.menghini3@unibo.it
 interests:
@@ -48,8 +48,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Work and Organizational Psychologist, and a postdoc at the [Department of Psychology](https://www.unibo.it/sitoweb/luca.menghini3/en) of the University of Bologna, mainly working on **Occupational Health Psychology**, and the **Psychophysiology** of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/), and [Sleep](/sleep-sleep-quality-and-stress/).
+I'm a Work and Organizational Psychologist, and currently a postdoc at the University of Bologna, mainly working on **Occupational Health Psychology**, and the **Psychophysiology** of [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/), and [Sleep](/sleep-sleep-quality-and-stress/).
 
-I'm particularly focused on **innovative research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling Methods](/experience-sampling-methods/)) to assess the sources of stress (e.g., workload) and the associated psychophysiological responses (e.g., [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in real time, in participants’ natural environments such as their workplace. I'm passionate about planning, conducting, and analyzing data ([using R](https://www.r-project.org/)) from field studies.
-
-Here's my [CV](files/cv.pdf).
+I've focused on **innovative research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling](/experience-sampling-methods/)) to assess [job stressors](/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/) and the associated psychophysiological responses (e.g., [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in real time, in participants’ natural environments such as the workplace. Here's my [CV](files/cv.pdf).
