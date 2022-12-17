@@ -7,22 +7,19 @@ bio: I'm working within the research areas of Occupational Health Psychology,
 education:
   courses:
   - course: PhD in Psychological Sciences, 2021
-    institution: University of Padua
   - course: MSc in Work Psychology, 2016
-    institution: University of Padua
   - course: BSc in Social & Work Psychology, 2014
-    institution: University of Padua
 email: luca.menghini3@unibo.it
 interests:
 - Workplace Stress
 - Applied Psychophysiology
 - Wearable Technlology
 - Multilevel Modeling
-name: Luca Menghini
+name: Luca Menghini, Ph.D.
 organizations:
 - name: University of Bologna
   url: https://www.unibo.it/sitoweb/luca.menghini3
-role: Postdoctoral research fellow in Occupational Health Psychology
+role: Postdoc in Occupational Health Psychology
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,6 +45,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Work and Organizational Psychologist, and currently a postdoc at the University of Bologna, mainly working on **Occupational Health Psychology**, and the **Psychophysiology** of [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/), and [Sleep](/sleep-sleep-quality-and-stress/).
+I'm a Work & Organizational Psychologist, and currently a postdoc at the University of Bologna mainly working on **Occupational Health Psychology**, and the **Psychophysiology** of [stress](/stress-and-workplace-stress/), [recovery](/recovery-and-recovery-experiences/), and [sleep](/sleep-quality-and-stress/).
 
-I've focused on **innovative research methods** ([Wearable Technology](/wearable-technology-and-e-health/), [Experience Sampling](/experience-sampling-methods/)) to assess [job stressors](/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/) and the associated psychophysiological responses (e.g., [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in real time, in participants’ natural environments such as the workplace. Here's my [CV](files/cv.pdf).
+I'm particularly focused on **innovative research methods** ([wearable technology](/wearable-technology-and-e-health/), [experience sampling](/experience-sampling-methods/)) to assess [job stressors](/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/) and the associated psychophysiological responses (e.g., [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in real time, during work. Here's my updated [CV](files/cv.pdf).
