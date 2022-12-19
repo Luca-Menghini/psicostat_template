@@ -45,6 +45,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Work & Organizational Psychologist, and currently a postdoc at the University of Trento. I'm mainly interested in **Occupational Health Psychology** and the **Psychophysiology** of [stress](/stress-and-workplace-stress/), [recovery](/recovery-and-recovery-experiences/), and [sleep](/sleep-quality-and-stress/).
+I'm a Work & Organizational Psychologist, and currently a postdoc at the University of Trento mainly working on **Occupational Health** and the **Psychophysiology** of [stress](/stress-and-workplace-stress/), [recovery](/recovery-and-recovery-experiences/), and [sleep](/sleep-quality-and-stress/).
 
 I'm particularly focused on **innovative research methods** ([wearable technology](/wearable-technology-and-e-health/), [experience sampling](/experience-sampling-methods/)) to assess [job stressors](/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/) and the associated responses (e.g., [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in real time, during work. Here's my [CV](files/cv.pdf).
