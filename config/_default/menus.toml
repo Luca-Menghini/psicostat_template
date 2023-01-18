@@ -34,6 +34,36 @@ menu = ['main', 'ita']
   url = "#posts"
   weight = 60
 
+[[ita]]
+  name = "PROGETTI DI RICERCA"
+  url = "#projects"
+  weight = 10
+
+[[ita]]
+  name = "CONSULENZA"
+  url = "#consultance"
+  weight = 20
+
+[[ita]]
+  name = "FORMAZIONE"
+  url = "#training"
+  weight = 30
+
+[[ita]]
+  name = "GRUPPI DI RICERCA"
+  url = "#groups"
+  weight = 40
+
+[[ita]]
+  name = "PUBBLICAZIONI"
+  url = "#publications"
+  weight = 50
+
+[[ita]]
+  name = "BLOG"
+  url = "#posts"
+  weight = 60
+
 # [[main]]
 #  name = "Posters"
 #  url = "poster/"
