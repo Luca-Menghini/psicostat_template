@@ -24,8 +24,8 @@ interests:
 - R Software
 name: Luca Menghini, Ph.D.
 organizations:
-- name: University of Bologna
-  url: https://www.unibo.it/sitoweb/luca.menghini3
+- name: Università degli Studi di Trento
+  url: https://www.cogsci.unitn.it/713/webewo-lab-well-being-at-work-lab
 role: Psicologo del lavoro e delle organizzazioni
 social:
 - icon: envelope
@@ -52,8 +52,8 @@ user_groups:
 - Visitors
 ---
 
-Sono uno psicologo del lavoro e delle organizzazioni e assegnista di ricerca presso il [Dipartimento di Psicologia](https://www.unibo.it/sitoweb/luca.menghini3/en) dell'Università di Bologna. Mi occupo principalmente di **Psicologia della salute occupazionale** e di **Psicofisiologia** dello [stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/).
+Sono uno psicologo del lavoro e delle organizzazioni e assegnista di ricerca presso il [Dipartimento di Psicologia e Scienze Cognitive](https://www.cogsci.unitn.it/713/webewo-lab-well-being-at-work-lab) dell'Università degli Studi di Trento. Qui il mio [curriculum aggiornato](files/cv.pdf)
 
-Nel corso della mia esperienza di ricerca, mi sono focalizzato su **metodi di ricerca innovativi** ([tecnologie wearable](/wearable-technology-and-e-health/), metodi [experience sampling](/experience-sampling-methods/)) per valutare le fonti di stress (es. carico di lavoro) e le risposte psicofisiologiche ad esse associate in tempo reale, nei contesti di vita quotidiana. Utilizzando protocolli di [Ecological Momentary Assessment (EMA)](/ecological-momentary-assessment/), ho condotto diversi studi raccogliendo e analizzando dati self-report (testing psicologico), fisiologici (es. [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) e comportamentali (testing cognitivo) per analizzare le **relazioni stressor-strain** con un [approccio multilivello](/multilevel-modeling/).
+Nell'attività di ricerca, mi occupo principalmente di **Psicologia della salute occupazionale** e di **Psicofisiologia** dello [stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/). In particolare, lavoro per sviluppare **metodi di ricerca innovativi** ([tecnologie wearable](/wearable-technology-and-e-health/), metodi [experience sampling](/experience-sampling-methods/)) per valutare le [fonti di stress](https://lucamenghini.netlify.app/it/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/) (es. carico di lavoro) e le risposte psicofisiologiche ad esse associate (es. [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in tempo reale, nei contesti di vita quotidiana.
 
-[Curriculum Vitae](files/cv.pdf)
+Nell'attività professionale, svolgo [consulenze](#consultance) e [formazione](#training) per aziende e singoli lavoratori nell'ambito della salute e sicurezza sul lavoro, della gestione dello stress, e del miglioramento del benessere lavorativo.
