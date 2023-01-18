@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Training
+title: Formazione
 view: 2
 ---
     

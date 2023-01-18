@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Consultance
+title: Consulenza
 view: 2
 ---
     
