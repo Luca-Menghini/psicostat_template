@@ -11,10 +11,10 @@
 [it]
   languageCode = "it"
   contentDir = "content/it"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-[[languages.it.menu.main]]
-      name = 'ita'
-      url = '/'
-      weight = 0
+ [[languages.it.menu.ita]]
+    name = 'ita'
+    url = '/'
+    weight = 0
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
