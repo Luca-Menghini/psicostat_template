@@ -12,7 +12,7 @@
   languageCode = "it"
   contentDir = "content/it"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 [[languages.it.menu.main]]
-      name = 'languages.it.menu.main'
+      name = 'main'
       url = '/'
       weight = 0
 
