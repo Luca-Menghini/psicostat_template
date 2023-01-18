@@ -49,7 +49,7 @@ subtitle = ""
 +++
 
 <div style="float: left; width: 30%;">
-  <img class= logo src="img/webewo_logo.png" width="200" align="middle">
+  <img class= logo src="img/webewo_logo.png" width="250" align="middle">
 </div>
 
 I'm currently working at the <b> [WE.BE.WO. Lab](https://www.cogsci.unitn.it/713/webewo-lab-well-being-at-work-lab) </b> (University of Trento), an occupational health psychology group mainling aimed at improving the quality of working life and organizational well-being.
