@@ -2,68 +2,37 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-menu = ['languages.en.menu.main', 'languages.it.menu.main']
+menu = ['main','ita']
 
-[[languages.en.menu.main]]
+[[main]]
   name = "RESEARCH PROJECTS"
   url = "#projects"
   weight = 10
 
-[[languages.en.menu.main]]
+[[main]]
   name = "CONSULTANCE"
   url = "#consultance"
   weight = 20
 
-[[languages.en.menu.main]]
+[[main]]
   name = "TRAINING"
   url = "#training"
   weight = 30
 
-[[languages.en.menu.main]]
+[[main]]
   name = "RESEARCH GROUPS"
   url = "#groups"
   weight = 40
 
-[[languages.en.menu.main]]
+[[main]]
   name = "PUBLICATIONS"
   url = "#publications"
   weight = 50
 
-[[languages.en.menu.main]]
+[[main]]
   name = "BLOG"
   url = "#posts"
   weight = 60
-
-[[languages.it.menu.main]]
-  name = "PROGETTI DI RICERCA"
-  url = "#projects"
-  weight = 10
-
-[[languages.it.menu.main]]
-  name = "CONSULENZA"
-  url = "#consultance"
-  weight = 20
-
-[[languages.it.menu.main]]
-  name = "FORMAZIONE"
-  url = "#training"
-  weight = 30
-
-[[languages.it.menu.main]]
-  name = "GRUPPI DI RICERCA"
-  url = "#groups"
-  weight = 40
-
-[[languages.it.menu.main]]
-  name = "PUBBLICAZIONI"
-  url = "#publications"
-  weight = 50
-
-[[languages.it.menu.main]]
-  name = "BLOG"
-  url = "#posts"
-  weight = 60
-
 
 # [[main]]
 #  name = "Posters"

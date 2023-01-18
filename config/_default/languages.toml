@@ -6,10 +6,6 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-[[languages.en.menu.main]]
-      name = 'languages.en.menu.main'
-      url = '/'
-      weight = 0
 
 # Italian version of the site.
 [it]
