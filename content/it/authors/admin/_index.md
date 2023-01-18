@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Lavoro nell'area della Psicologia del lavoro e delle organizzazioni, e in particolare nella Psicologia della salute occupazionale e della Psicofisiologia dello [Stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/).
+bio: Psicologo del lavoro e delle organizzazioni, mi occupo soprattutto di **psicologia della salute occupazionale** e di **psicofisiologia** dello [stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/).
 education:
   courses:
   - course: Dottorato di ricerca con lode in Scienze Psicologiche
@@ -13,7 +13,7 @@ education:
   - course: Laurea triennale con lode in Scienze Psicologiche Sociali e del Lavoro
     institution: Università degli Studi di Padova
     year: 2014
-email: luca.menghini3@unibo.it
+email: luca.menghini-1@unitn.it
 interests:
 - Workplace Stress
 - Workaholism
@@ -54,6 +54,6 @@ user_groups:
 
 Sono uno psicologo del lavoro e delle organizzazioni e assegnista di ricerca presso il [Dipartimento di Psicologia e Scienze Cognitive](https://www.cogsci.unitn.it/713/webewo-lab-well-being-at-work-lab) dell'Università di Trento.
 
-Nell'attività di ricerca, mi occupo soprattutto di **Psicologia della salute occupazionale**, di **Psicofisiologia** dello [stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/) e dello sviluppo di **metodi di ricerca innovativi** ([tecnologie wearable](/wearable-technology-and-e-health/), metodi [experience sampling](/experience-sampling-methods/)) per valutare le [fonti di stress](https://lucamenghini.netlify.app/it/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/) (es. carico di lavoro) e le relative risposte psicofisiologiche (es. [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in tempo reale, nei contesti di vita quotidiana.
+Nell'attività di ricerca, mi occupo soprattutto di **Psicologia della salute occupazionale**, di **Psicofisiologia** dello [stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/) e dello sviluppo di **metodi di ricerca innovativi** ([tecnologie wearable](/wearable-technology-and-e-health/), [experience sampling](/experience-sampling-methods/)) per valutare le fonti di stress (es. carico di lavoro) e le relative risposte psicofisiologiche (es. [HRV](/heart-rate-variability-as-an-index-of-stress-and-self-regulation/)) in tempo reale, nei contesti di vita quotidiana.
 
-Nell'attività professionale, svolgo [consulenze](#consultance) e [formazione](#training) per aziende e singoli lavoratori nell'ambito della **salute e sicurezza sul lavoro**, della **gestione dello stress**, e del **miglioramento del benessere** sul lavoro. Qui il mio [cv aggiornato](files/cv.pdf).
+Nell'attività professionale, svolgo [consulenze](#consultance) e [formazione](#training) per aziende e singoli lavoratori nell'ambito della **salute e sicurezza sul lavoro**, della **gestione dello stress**, e del **miglioramento del benessere**. Qui il mio [CV aggiornato](files/cv.pdf).

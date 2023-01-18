@@ -1,9 +1,7 @@
 ---
 authors:
 - admin
-bio: I'm working within the research areas of Occupational Health Psychology,
-  and the Psychophysiology of  [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/),
-  & [Sleep](/sleep-sleep-quality-and-stress/).
+bio: I'm working in the research areas of **occupational health psychology**, and the **psychophysiology** of [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/), & [Sleep](/sleep-sleep-quality-and-stress/).
 education:
   courses:
   - course: PhD in Psychological Sciences, 2021
@@ -18,12 +16,12 @@ interests:
 name: Luca Menghini, PhD
 organizations:
 - name: University of Trento
-  url: https://www.unibo.it/sitoweb/luca.menghini3
+  url: https://www.cogsci.unitn.it/713/webewo-lab-well-being-at-work-lab
 role: Work & Organizational Psychologist, Postdoc in Occupational Health Psychology
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:luca.menghini3@unibo.it
+  link: mailto:luca.menghini-1@unitn.it
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LuMenPsy

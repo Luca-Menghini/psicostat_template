@@ -49,10 +49,19 @@ subtitle = ""
 +++
 
 <div style="float: left; width: 30%;">
+  <img class= logo src="img/webewo_logo.png" width="200" align="middle">
+</div>
+
+I'm currently working at the <b> [WE.BE.WO. Lab](https://www.cogsci.unitn.it/713/webewo-lab-well-being-at-work-lab) </b> (University of Trento), an occupational health psychology group mainling aimed at improving the quality of working life and organizational well-being.
+
+<br>
+<br>
+
+<div style="float: left; width: 30%;">
   <img class= logo src="img/Psicostat_hexagon.svg" width="200" align="middle">
 </div>
 
-I'm part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (University of Padua). We are an interdisciplinary research group interested in **quantitative psychology, psychometrics, psychological testing, and statistics**.
+I'm also part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (University of Padova). We are an interdisciplinary research group interested in **quantitative psychology, psychometrics, psychological testing, and statistics**.
 
 <br>
 <br>
@@ -61,4 +70,4 @@ I'm part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (Universi
 <img class= logo src="img/logo_psyphyLab.svg" width="200" align="middle">
 </div>
 
-I'm also part of the <b> [Psychophysiology Lab](https://dpg.unipd.it/en/psyphylab) </b> (University of Padua), focusing on **basic psychophysiological processes** (mind-body interactions), and their involvement in **anxiety, stress, depression and medical conditions**.
+I took my PhD at the <b>[Psychophysiology Lab](https://dpg.unipd.it/en/psyphylab)</b> (University of Padova), focusing on **basic psychophysiological processes** (mind-body interactions), and their involvement in **anxiety, stress, depression and medical conditions**.
