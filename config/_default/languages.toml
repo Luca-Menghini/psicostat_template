@@ -11,7 +11,7 @@
 [it]
   languageCode = "it"
   contentDir = "content/it"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  menu = "config/menu_ita" #added now
+  menu = "menus_ita.toml" #added now
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
