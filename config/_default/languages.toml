@@ -6,13 +6,13 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  menu = "main" #added now
+  menu = [[main]] #added now
 
 # Italian version of the site.
 [it]
   languageCode = "it"
   contentDir = "content/it"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  menu = "ita" #added now
+  menu = [[ita]] #added now
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
