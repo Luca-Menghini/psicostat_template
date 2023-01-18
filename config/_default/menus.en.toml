@@ -2,7 +2,6 @@
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
-menu = ['main', 'ita']
 
 [[main]]
   name = "RESEARCH PROJECTS"
@@ -30,36 +29,6 @@ menu = ['main', 'ita']
   weight = 50
 
 [[main]]
-  name = "BLOG"
-  url = "#posts"
-  weight = 60
-
-[[ita]]
-  name = "PROGETTI DI RICERCA"
-  url = "#projects"
-  weight = 10
-
-[[ita]]
-  name = "CONSULENZA"
-  url = "#consultance"
-  weight = 20
-
-[[ita]]
-  name = "FORMAZIONE"
-  url = "#training"
-  weight = 30
-
-[[ita]]
-  name = "GRUPPI DI RICERCA"
-  url = "#groups"
-  weight = 40
-
-[[ita]]
-  name = "PUBBLICAZIONI"
-  url = "#publications"
-  weight = 50
-
-[[ita]]
   name = "BLOG"
   url = "#posts"
   weight = 60
