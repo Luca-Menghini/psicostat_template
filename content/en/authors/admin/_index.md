@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: I'm working in the research areas of **occupational health psychology**, and the **psychophysiology** of [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/), & [Sleep](/sleep-sleep-quality-and-stress/).
+bio: I'm working in the research areas of occupational health psychology, and the psychophysiology of [Stress](/stress-and-workplace-stress/), [Recovery](/recovery-and-recovery-experiences/), & [Sleep](/sleep-sleep-quality-and-stress/).
 education:
   courses:
   - course: PhD in Psychological Sciences, 2021

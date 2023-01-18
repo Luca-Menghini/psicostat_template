@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Psicologo del lavoro e delle organizzazioni, mi occupo soprattutto di **psicologia della salute occupazionale** e di **psicofisiologia** dello [stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/).
+bio: Psicologo del lavoro e delle organizzazioni, mi occupo soprattutto di psicologia della salute occupazionale e di psicofisiologia dello [stress](/stress-and-workplace-stress/), del [recupero](/recovery-and-recovery-experiences/) e del [sonno](/sleep-sleep-quality-and-stress/).
 education:
   courses:
   - course: Dottorato di ricerca con lode in Scienze Psicologiche
