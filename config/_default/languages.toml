@@ -6,7 +6,6 @@
 [en]
   languageCode = "en-us"
   contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  menu = "config/_default" # added now
 
 # Italian version of the site.
 [it]
