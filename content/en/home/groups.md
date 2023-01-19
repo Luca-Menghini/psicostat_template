@@ -70,4 +70,4 @@ I'm also part of <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (Uni
 <img class= logo src="img/logo_psyphyLab.svg" width="200" align="middle">
 </div>
 
-I took my PhD at the <b>[Psychophysiology Lab](https://dpg.unipd.it/en/psyphylab)</b> (University of Padova), focusing on **basic psychophysiological processes** (mind-body interactions), and their involvement in **anxiety, stress, depression and medical conditions**.
+I took my PhD at the <b>[Psychophysiology Lab](https://dpg.unipd.it/en/psyphylab)</b> (University of Padova), focusing on **basic psychophysiological processes** (mind-body interactions), and their involvement in **anxiety, stress, and depression**.
