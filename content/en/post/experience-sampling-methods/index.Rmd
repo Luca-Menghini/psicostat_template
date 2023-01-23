@@ -30,8 +30,6 @@ To keep it simple, Experience Sampling means asking individuals to provide syste
 
 ![](img/experience-sampling-retrospective-item-1.png)
 
-<br>
-
 ## Recall biases
 
 Now imagine rating the item above just **after an infrequent and intense discussion with your boss**. You're probably going to overestimate the frequency of work-related interpersonal conflicts due to the **salience** (infrequent event) and **recency** (happened this morning) of this conflictual episode.
