@@ -4,7 +4,9 @@ diagram: true
 image:
   placement: 3
 math: true
-title: Experience Sampling Methods: Measuring experiences in real time
+projects:
+  experience-sampling-measurement-of-workplace-stress
+title: 'Experience Sampling Methods: Measuring experiences in real time'
 ---
 
 ***Experience Sampling Methods (ESM)*** *include a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, in free-living conditions*.
