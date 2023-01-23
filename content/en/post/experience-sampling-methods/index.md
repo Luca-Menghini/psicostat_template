@@ -1,20 +1,13 @@
 ---
-title: "Experience Sampling Methods: Measuring experiences in real time"
-author: "Luca Menghini"
-date: "`r Sys.Date()`"
-categories: ["Methodology"]
-tags: ["Experience Sampling Methods", "Ecological Momentary Assessment","Methodology","Psychometrics","Workplace stress"]
+date: "2019-07-12"
+diagram: true
 image:
-  placement: 1
-  focal_point: ''
-  preview_only: false
-output: 
-  html_document
+  placement: 3
+math: true
+projects:
+- experience-sampling-measurement-of-workplace-stress
+title: Experience Sampling Methods: Measuring experiences in real time
 ---
-
-```{r setup, include=FALSE,echo=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
 ***Experience Sampling Methods (ESM)*** *include a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, in free-living conditions*.
 
