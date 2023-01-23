@@ -1,5 +1,13 @@
 ---
-abstract: Experience sampling methods are increasingly used in workplace stress assessment, yet rarely developed and validated following the available best practices. Here, we developed and evaluated parsimonious measures of momentary stressors (Task Demand and Task Control) and the Italian adaptation of the Multidimensional Mood Questionnaire as an indicator of momentary strain (Negative Valence, Tense Arousal, and Fatigue). Data from 139 full-time office workers that received seven experience sampling questionnaires per day over 3 workdays suggested satisfactory validity (including weak invariance cross-level isomorphism), level-specific reliability, and sensitivity to change. The scales also showed substantial correlations with retrospective measures of the corresponding or similar constructs and a degree of sensitivity to work sampling categories (type and mean of job task, people involved). Opportunities and recommendations for the investigation and the routine assessment of workplace stress are discussed.
+abstract: Experience sampling methods are increasingly used in workplace stress assessment, yet rarely developed and 
+  validated following the available best practices. Here, we developed and evaluated parsimonious measures of momentary 
+  stressors (Task Demand and Task Control) and the Italian adaptation of the Multidimensional Mood Questionnaire as an 
+  indicator of momentary strain (Negative Valence, Tense Arousal, and Fatigue). Data from 139 full-time office workers 
+  that received seven experience sampling questionnaires per day over 3 workdays suggested satisfactory validity (including 
+  weak invariance cross-level isomorphism), level-specific reliability, and sensitivity to change. The scales also showed
+  substantial correlations with retrospective measures of the corresponding or similar constructs and a degree of sensitivity 
+  to work sampling categories (type and mean of job task, people involved). Opportunities and recommendations for the
+  investigation and the routine assessment of workplace stress are discussed.
 authors:
 - admin
 - Massimiliano Pastore
