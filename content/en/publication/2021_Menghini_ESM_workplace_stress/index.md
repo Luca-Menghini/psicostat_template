@@ -28,8 +28,9 @@ publication_types:
 publishDate: "2022-08-03T00:00:00Z"
 show_homepage: true
 slides: null
-summary: Contribution to the evaluation of three experience sampling measures of job stressors and job strain.
+summary: Contribution to the evaluation of three experience sampling measures of job stressors and job strain
 tags:
+- Source Themes
 title: Workplace stress in real-time: Three Parsimonious Scales for the Experience Sampling Measurement of Stressors and Strain at Work
 url_code: ""
 url_dataset: ""
