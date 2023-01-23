@@ -4,8 +4,6 @@ diagram: true
 image:
   placement: 3
 math: true
-projects:
-  experience-sampling-measurement-of-workplace-stress
 title: Experience Sampling Methods: Measuring experiences in real time
 ---
 
