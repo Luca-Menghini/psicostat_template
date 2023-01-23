@@ -1,16 +1,15 @@
 ---
-abstract: According to international recommendations, young adults should sleep at
-  Experience sampling methods are increasingly used in workplace stress assessment, 
-  yet rarely developed and   validated following the available best practices. Here, 
-  we developed and evaluated parsimonious measures of momentary   stressors (Task Demand 
-  and Task Control) and the Italian adaptation of the Multidimensional Mood Questionnaire 
-  as an   indicator of momentary strain (Negative Valence, Tense Arousal, and Fatigue). 
-  Data from 139 full-time office workers   that received seven experience sampling 
+abstract: **Experience sampling methods** are increasingly used in workplace stress assessment, 
+  yet rarely developed and  validated following the available best practices. Here, 
+  we developed and evaluated parsimonious measures of **momentary stressors** (Task Demand 
+  and Task Control) and the Italian adaptation of the Multidimensional Mood Questionnaire
+  as an indicator of **momentary strain** (Negative Valence, Tense Arousal, and Fatigue). 
+  Data from 139 full-time office workers that received seven experience sampling 
   questionnaires per day over 3 workdays suggested satisfactory validity (including 
-  weak invariance cross-level isomorphism), level-specific reliability, and sensitivity 
-  to change. The scales also showed   substantial correlations with retrospective measures 
-  of the corresponding or similar constructs and a degree of sensitivity to work sampling 
-  categories (type and mean of job task, people involved). Opportunities and recommendations 
+  weak invariance **cross-level isomorphism**), level-specific reliability, and sensitivity 
+  to change. The scales also showed  substantial correlations with retrospective measures 
+  of the corresponding or similar constructs and a degree of **sensitivity to work sampling 
+  categories** (type and mean of job task, people involved). Opportunities and recommendations 
   for the investigation and the routine assessment of workplace stress are discussed.
 authors:
 - admin
@@ -24,6 +23,10 @@ image:
   focal_point: ""
   preview_only: false
 links:
+- icon: osf
+  icon_pack: ai
+  name: OSF repository
+  url: https://osf.io/87a9p/
 - icon: github
   icon_pack: fab
   name: Github repository
@@ -40,11 +43,11 @@ summary: Three-day experience sampling methods protocol with 139 employees.
   Analysis of the psychometric properties of measures of stressors and strain.
 tags:
 - Source Themes
-title: 'Workplace stress in real-time: Three parsimonious scales for the
+title: 'Workplace stress in real time: Three parsimonious scales for the
   experience sampling measurement of stressors and strain at work'
 url_code: ""
 url_dataset: ""
-url_pdf: null
+url_pdf: https://www.researchgate.net/publication/362475778_Workplace_Stress_in_Real_Time_Three_Parsimonious_Scales_for_the_Experience_Sampling_Measurement_of_Stressors_and_Strain_at_Work
 url_poster: ""
 url_project: ""
 url_slides: null
