@@ -30,9 +30,7 @@ To keep it simple, Experience Sampling means asking individuals to provide syste
 
 Here's a retrospective item often used in [workplace stress](/stress-and-workplace-stress/) research:
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCom9uiHbaHruWx5K1tr3j5lNgs4Lid8xQJitVoHrNs76Rxg/viewform?embedded=true" width="400" height="520" frameborder="0" marginheight="0" marginwidth="0">
-
-Loading...</iframe>
+![](img/experience-sampling-retrospective-item-1.png)
 
 ## Recall biases
 
@@ -44,7 +42,7 @@ On the "cold" (cognitive) side, salience, recency, and further **recall biases**
 
 On the "hot" (emotional) side, **affective states** such as the momentary respondent's mood can interfere with retrieval processes as well, by driving them towards information **matching the current feeling**. For instance, the respondent might be worried or sad because of a family issue. Imagine yourself answering the following item under such a bad mood. Even if the stressor (family issue) is unrelated to your work, your rating will probably be higher than it would have been on a different day, with a different mood.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfh2Mad4GctaqBcja0QMqiaGYvdL7sFf6x6eQuO1AMa6rhcgw/viewform?embedded=true" width="400" height="520" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+![](img/experience-sampling-retrospective-item-2.png)
 
 In summary, retrospective reports are largely based on **memory retrieval**, whose accuracy is influenced by both cognitive biases (mental shortcuts) and affective states (momentary mood). In contrast, ESM are referred to the **current moment** (e.g., "*How do you feel right now?*"), minimizing memory retrieval processes, and implying less distorted data.
 
