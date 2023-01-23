@@ -30,8 +30,6 @@ To keep it simple, Experience Sampling means asking individuals to provide syste
 
 ![](img/experience-sampling-retrospective-item-1.png)
 
-Loading...</iframe>
-
 <br>
 
 ## Recall biases
