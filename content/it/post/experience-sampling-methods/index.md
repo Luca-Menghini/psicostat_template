@@ -61,30 +61,6 @@ Here's an example. First, we collect multiple measures of perceived stress from 
 
 Second, we compute the **mean score for each individual**: this will be the **between-individuals component** (level 2), expressing the mean level of stress in each individual. At level 2, the variance in item scores represents individual differences around the mean score of the sample (grand average), that is it **quantifies individual differences**. This is the same information that can be estimated from retrospective reports, with the difference that ESM aggregate the scores over multiple measures, implying **higher reliability**. Here's how level-2 scores can be visualized from two individuals (red and blue):
 
-```{r echo=FALSE,warning=FALSE,message=FALSE,eval=FALSE}
-# simulate ESM data from 2 participants
-esm <- data.frame(ID=c(rep("person1",7),rep("person2",7)),
-                  Time=rep(1:7,2),
-                  Stress=c(2,5,2,3,4,2,1,  6,5,6,7,4,6,6))
-means <- data.frame(ID=c("person1","person2"),Stress=c(mean(esm[esm$ID=="person1","Stress"]),
-                                                       mean(esm[esm$ID=="person2","Stress"])))
-library(ggplot2); library(gridExtra)
-p <- grid.arrange(ggplot(means,aes(x=ID,y=Stress,col=ID))+ geom_point(size=5) + scale_y_continuous(limits=c(1,7),breaks=c(1,3,5,7)) + ylab("Stress level") + xlab("") +
-                 ggtitle("Retrospective reports") + theme(legend.position = "none"),
-             ggplot(esm,aes(x=ID,y=Stress,col=ID))+ geom_point() + ylim(1,8) + scale_y_continuous(breaks=c(1,3,5,7)) + ylab("Stress level") + xlab("") +
-                 ggtitle("ESM reports") + stat_summary(fun=mean, geom="point", size=5)  + 
-                 theme(legend.position = "none"),nrow=1)
-ggsave("img/esm_between_subjects.PNG",plot=p,dpi=300)
-col <- c("#00BFC4","#F8766D")
-p <- ggplot(esm,aes(x=Time,y=Stress,col=ID))+ ylim(1,8) + ylab("Stress level") +
-    ggtitle("ESM reports within individual") + stat_summary(fun=mean, geom="point", size=5) + 
-    geom_smooth(span=0.6,se=FALSE,lwd=1.2,alpha=.7) + 
-    geom_hline(yintercept=means$Stress[1],color=col[2],lty=2,lwd=1.5)+
-    geom_hline(yintercept=means$Stress[2],color=col[1],lty=2,lwd=1.5)+ scale_y_continuous(breaks=c(1,3,5,7)) +
-    theme(legend.position="none") + geom_point()
-ggsave("img/esm_within_subjects.PNG",plot=p,dpi=300)
-```
-
 ![](img/esm_between_subjects.PNG)
 
 Third, each single score measured from a given individual is **person-mean-centered**, that is we subtract the mean score from the single observation. This is the **within-individual component** (level 1), expressing the momentary stress level net of the individual mean level. This component will tell us in which occasions (time points) the respondent is **more or less stressed than usual**, providing information on **intraindividual fluctuations**. Most importantly, this momentary stress level is estimated by controlling for the individual-level differences (negative affectivity, response style, etc.) that can bias the mean levels. Here's how within-individual fluctuations (the solid lines) around  the individual mean (the dashed lines) can be visualized from two individuals (red and blue):
@@ -113,7 +89,7 @@ The figure below shows an example from [an ESM study I conducted with a sample o
 
 The last and probably most important advantage of ESM over retrospective reports is the possibility to evaluate how the measured variables change and interact over time. This is very useful, for instance, in [workplace stress research](/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/), where the **duration and frequency of exposure** to job stressors, and the associated **prolonged activation** have been identified as the [key pathogenic factors](/psychophysiology-of-the-stress-response-when-does-stress-cause-ilness/). Temporal indicators (e.g., hour of the day, day number) can be directly included as a predictor of ESM ratings, to model their temporal trajectories over the data collection period. **Linear and nonlinear time trends** can be modeled to account for the intrinsic **circadian rhythms** shown by some variables such as perceived fatigue [[6]](#references).
 
-Moreover, ESM allow to account for the **autocorrelation** between consecutive ratings, which is expected in almost any **time series** of data whatever their nature is (physiological signal, subjective ratings, frequency of behaviors, etc.). By including the autoregressive term ($Y_{T-1}$) as a model covariate, it is possible to evaluate the relationship between time-varying predictors and outcomes **focusing on the change** from the previous measurement occasion.
+Moreover, ESM allow to account for the **autocorrelation** between consecutive ratings, which is expected in almost any **time series** of data whatever their nature is (physiological signal, subjective ratings, frequency of behaviors, etc.). By including the autoregressive term ($Y_{T-1}$) as a model covariate, it is possible to evaluate the relationship between time-varying predictors and outcomes focusing on the change from the previous measurement occasion.
 
 Finally, ESM allow modeling **time-lagged relationships**, that is the associations between a variable measured on a given time point and another variable measured on a different time point (either before or after). For instance, one might investigate how job strain indicators are influenced by both the concurrent (same time point) and the preceding job stressor ratings (previous time point). Moreover, time-lagged terms are often used to model **reciprocal relationships** by two time-varying variables, for instance to model the **reciprocal relationship** between two variables (e.g., stress and sleep [[7]](#references)).
 
@@ -122,6 +98,8 @@ Finally, ESM allow modeling **time-lagged relationships**, that is the associati
 # Planning an ESM study
 
 At this point, you should be aware of the many advantages of ESM over retrospective reports. The main disadvantages are probably related to the complexity of the study design, implying a higher number of parameters to be considered compared to traditional (cross-sectional) studies. These include the number of measurement points and their time distance, and the training of the participants.
+
+<br>
 
 ## Number of time points and protocol duration
 
