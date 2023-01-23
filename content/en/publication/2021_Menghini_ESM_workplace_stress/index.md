@@ -1,32 +1,23 @@
 ---
 abstract: According to international recommendations, young adults should sleep at
-  least 7 h per night and experience good sleep quality to avoid physical and mental
-  health problems. University students are particularly exposed to the risk of sleep
-  issues due to their tendency to go to bed late at night and other social and environmental
-  factors. Here, we aimed to objectively characterize the weekly sleep habits using
-  actigraphy (in terms of quantity, quality, and timing) in 82 Italian university
-  students (mean age = 23.89, SD = 2.51 yrs, 44 women). Exploratory analyses were
-  performed using linear mixed-effect regression to account for several factors (e.g.,
-  gender, circadian preferences, depressive symptomatology). We showed that participants
-  spent in bed (TIB) about 7 h and 31 min during weekdays and 7 h and 46 min during
-  the weekend, with 76.83% of the sample showing a TIB longer than 7 h. Women students
-  spent more time in bed than men (~25 min) and went to bed earlier (~29 min). One-third
-  of the sample showed a sleep efficiency <85%, whereas 70.73% of the sample showed
-  a wake after sleep onset >40 min, with no differences between men and women. Depressive
-  symptoms, alcohol and coffee consumption affected sleep onset latency, whereas circadian
-  preference was strongly associated with bed and waketime. Moreover, most of the
-  students did not take daytime naps to catch-up with sleep loss. Overall, our sample
-  spent adequate time in bed, but they experienced a moderate low sleep quality, mainly
-  due to high wake after sleep onset.
+  Experience sampling methods are increasingly used in workplace stress assessment, 
+  yet rarely developed and   validated following the available best practices. Here, 
+  we developed and evaluated parsimonious measures of momentary   stressors (Task Demand 
+  and Task Control) and the Italian adaptation of the Multidimensional Mood Questionnaire 
+  as an   indicator of momentary strain (Negative Valence, Tense Arousal, and Fatigue). 
+  Data from 139 full-time office workers   that received seven experience sampling 
+  questionnaires per day over 3 workdays suggested satisfactory validity (including 
+  weak invariance cross-level isomorphism), level-specific reliability, and sensitivity 
+  to change. The scales also showed   substantial correlations with retrospective measures 
+  of the corresponding or similar constructs and a degree of sensitivity to work sampling 
+  categories (type and mean of job task, people involved). Opportunities and recommendations 
+  for the investigation and the routine assessment of workplace stress are discussed.
 authors:
-- Nicola Cellini
 - admin
-- Marco Mercurio
-- Valentina Vanzetti
-- Daminana Bergamo
-- Michela Sarlo
-date: "2020-07-06T00:00:00Z"
-doi: https://doi.org/10.1080/07420528.2020.1773494
+- Massimiliano Pastore
+- Cristian Balducci
+date: "2022-08-03T00:00:00Z"
+doi: https://doi.org/10.1027/1015-5759/a000725
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
@@ -36,21 +27,21 @@ links:
 - icon: github
   icon_pack: fab
   name: Github repository
-  url: https://github.com/Luca-Menghini/Sleep-Habits-LMER-analysis
+  url: https://github.com/Luca-Menghini/ESMscales-workplaceStress
 projects: []
-publication: '*Chronobiology International, 37*(11), 1538-1551'
-publication_short: Chronobiology International
+publication: '*European Journal of Psychological Assessment, In press*'
+publication_short: Eu J Psychol Assessment
 publication_types:
 - "2"
-publishDate: "2020-07-06T00:00:00Z"
+publishDate: "2022-08-03T00:00:00Z"
 show_homepage: true
 slides: null
-summary: Seven-day actigraphic study with 82 undergrads. Analysis of nocturnal sleep,
-  diurnal nap patterns, and potential explanatory variables.
+summary: Three-day experience sampling methods protocol with 139 employees.
+  Analysis of the psychometric properties of measures of stressors and strain.
 tags:
 - Source Themes
-title: 'Sleep quality and quantity in Italian University students: an actigraphic
-  study'
+title: 'Workplace stress in real-time: Three parsimonious scales for the
+  experience sampling measurement of stressors and strain at work'
 url_code: ""
 url_dataset: ""
 url_pdf: null
