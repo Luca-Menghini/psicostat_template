@@ -1,5 +1,5 @@
 ---
-title: "Psychophysiology of the stress response: When does stress cause ilness?"
+title: "Psicofisiologia della risposta da stress: Come fa lo stress a farci ammalare?"
 author: "Luca Menghini"
 date: "`r Sys.Date()`"
 categories: ["Workplace stress"]

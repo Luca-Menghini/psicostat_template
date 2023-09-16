@@ -40,6 +40,11 @@ Following Cannon's work, the Austrian endocrinologist [Hans Selye (1907-1982)](h
 
 3. **Exhaustion**: last stage characterizing exposures prolonged for several weeks/months, resulting in severe damage to the body (e.g., intestinal ulcers) and increased vulnerability to both the original and other stressful stimuli, with higher chance of illness and death.
 
+\fontsize{15pt}{12}\selectfont
+🚨 &rightarrow; ✊  &rightarrow;  🪫
+
+\fontsize{6.5pt}{12}\selectfont
+
 ![](img/gas.PNG)
 
 <br>
