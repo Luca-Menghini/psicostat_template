@@ -245,5 +245,4 @@ Per ulteriori informazioni su questa metodologia di ricerca, consiglio vivamente
 
 6. Johnston, D. W., Allan, J. L., Powell, D. J., Jones, M. C., Farquharson, B., Bell, C., & Johnston, M. (2019). Why does work cause fatigue? A real-time investigation of fatigue, and determinants of fatigue in nurses working 12-hour shifts. *Annals of Behavioral Medicine, 53*(6), 551-562. https://doi.org/10.1093/abm/kay065
 
-7. Doane, L., D., & Thurston E., C., (2014) Associations among sleep, daily experiences, and loneliness in adolescence: Evidence of moderating and bidirectional pathways. *Journal of Adolescence, 37*(2):145-154. https://doi.org/j.adolescence.2013.11.009 
->>>>>>> f22556299afd4f2e2449c26073bc37ddf7dbc488
+7. Doane, L., D., & Thurston E., C., (2014) Associations among sleep, daily experiences, and loneliness in adolescence: Evidence of moderating and bidirectional pathways. *Journal of Adolescence, 37*(2):145-154. https://doi.org/j.adolescence.2013.11.009
