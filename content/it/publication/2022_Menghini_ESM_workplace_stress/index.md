@@ -41,8 +41,7 @@ show_homepage: true
 slides: null
 summary: Three-day experience sampling methods protocol with 139 employees.
   Analysis of the psychometric properties of measures of stressors and strain.
-tags:
-- Source Themes
+tags: ["Experience Sampling Methods", "Ecological Momentary Assessment","Methodology","Psychometrics","Workplace stress"]
 title: 'Workplace stress in real time: Three parsimonious scales for the
   experience sampling measurement of stressors and strain at work'
 url_code: ""
