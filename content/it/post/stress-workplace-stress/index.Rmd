@@ -32,11 +32,53 @@ Le **differenze individuali** come l'anzianità lavorativa e molte altre (es. ge
 
 È ormai convinzione diffusa nella comunità scientifica che lo stress non sia dannoso di per sé. Al contrario, **lo stress nel breve termine è un processo adattivo** che ci permette di affrontare la nostra giornata e tutte le possibili insidie, sfide e minacce che possiamo incontrare. In altre parole, senza stress non potremmo vivere, o saremmo in uno stato di sonno perenne. Ma quando lo stress diventa cronico, e in particolare in situazioni di **attivazione prolungata**, cioè protratta nel tempo anche in quei momenti in cui avremmo [bisogno di recuperare](/sonno-riposo-ed-esperienze-di-recupero/), allora è probabile sviluppare distunzioni e disturbi di varia natura (es. disturbi metabolici, cardiovascolari, gastrointestinali, ansia e depressione), fino alla morte.
 
-Mentre [gli effetti dello stress sulla salute sono meglio discussi qui](/psicofisiologia-della-risposta-da-stress-come-fa-lo-stress-a-farci-ammalare/), questo post si concentra su un tipo particolare di stress, forse il più frequente, cioè lo **stress lavoro-correlato**. Che cos'è lo stress lavoro correlato? Quali sono le sue cause? E come possono essere valutate e gestite per ridurre i livelli di stress?
+Mentre [gli effetti dello stress sulla salute sono meglio discussi qui](/it/psicofisiologia-della-risposta-da-stress-come-fa-lo-stress-a-farci-ammalare/), questo post si concentra su un tipo particolare di stress, forse il più frequente, cioè lo **stress lavoro-correlato**. Che cos'è lo stress lavoro correlato? Quali sono le sue cause? E come possono essere valutate e gestite per ridurre i livelli di stress?
 
 <br>
 
 # Stress lavoro-correlato
+
+Lo stress può generarsi potenzialmente da qualsiasi attività ma al giorno d'oggi, se intervistassimo un individuo adulto a caso chiedendo un'esempio di attività stressante la risposta più probabile sarebbe **il lavoro**. Il lavoro è l'Attività per eccellenza. La nostra vita, le nostre relazioni sociali e perfino i nostri [ritmi circadiani](/it/sonno-rilassamento-e-recupero-perche-il-tempo-libero-e-cosi-importante/) sono profondamente influenzati dal nostro orario di lavoro. La maggior parte delle nostre risorse metabliche, psicologiche e sociali sono dirette alle nostre attività lavorative, mentre il termine "**tempo libero**" è usato sia come sinonimo di "recupero" che come contrario di "lavoro".
+
+Lo **stress lavoro-correlato** può essere semplicemente inteso come lo stress *causato* dalla condizione di lavorare, derivante cioè dalle condizioni lavorative e potenzialmente da tutti quei **fattori psicosociali** che caratterizzano il contenuto e il contesto di lavoro, dai rapporti con colleghə e supervisor ai carichi e ai ritmi di lavoro. Altre definizioni più puntuali includono quella dell'[Organizzazione Internazionale del Lavoro](https://www.ilo.org/wcmsp5/groups/public/---ed_protect/---protrav/---safework/documents/publication/wcms_466547.pdf), che definisce lo stress come « _la ri-sposta fisica ed emozionale causata dallo *squilibrio* percepito dall’individuo tra le **domande** lavorative e le sue **risorse** e abilità […] determinata dall’organizzazione del lavoro, dalla sua progettazione e dalle relazioni lavorative_». Analogamente, l'[Accordo Quadro Europeo sullo stress lavoro-correlato](https://www.inail.it/cs/internet/docs/stress-lavoro-accordo-interconfederale_6443111488618.pdf?section=attivita) definisce lo stress come « _una condizione che può essere accompagnata da disturbi o disfunzioni di natura fisica, psicologica o sociale […] conseguenza del fatto che alcuni individui non si sentono **in grado di rispondere alle richieste o alle aspettative** riposte in loro_».
+
+![](img/stresswork.PNG)
+
+Lo stress lavoro-correlato è quindi un fenomeno che, da una parte, è dovuto alla **progettazione del lavoro** e, dall'altra, risente di molteplici **processi psicosociali** che caratterizzano il modo in cui le persone tendono a valutare il proprio ambiente, il modo in cui affrontano le sfide e le minacce ambientali, nonché le loro relazioni sociali con colleghə, amicə e familiarə. Ma come prevenire, gestire o ridurre lo stress lavoro-correlato? Prima di rispondere a questa domanda vediamo quali sono le principali **cause e conseguenze** di questo fenomeno.
+
+<br>
+
+## Le cause dello stress: pericoli e rischi psicosociali
+
+Nell'ambito della **salute e sicurezza sul lavoro** e della psicologia della salute occupazionale, le potenziali fonti di stress legate alle condizioni lavorative (in inglese ***job stressor***) vengono più comunemente indicate con il termine "**rischi psicosociali**”, per analogia con i "**rischi tradizionali**", di tipo "fisico". Questi ultimi, come ad esempio il rumore, la temperatura, l'esposizione ad agenti chimici, sono considerati da più tempo ([anche se non molto](https://it.wikipedia.org/wiki/Salute_e_sicurezza_sul_lavoro#Storia)) come dei fattori critici da gestire con attenzione al fine di prevenire gli **infortuni sul lavoro** e le **malattie professionali**. Sebbene [le caratteristiche fisiche del luogo di lavoro siano anch'esse legate al benessere psicologico](/it/caratteristiche-fisiche-del-luogo-di-lavoro-e-benessere-lavorativo/), le conseguenze fisiche/somatiche dei rischi tradizionali sono da sempre considerate come più prioritarie.
+
+## 🛠️⛑️🧯☠️ &rightarrow; 🧑📅🤝⏱️
+
+Come per i loro predecessori, anche la considerazione dei fattori psicosociali si basa sui concetti fondamentali di *pericolo* e *rischio*. I **pericoli psicosociali** (*psychosocial hazards*) sono «*quegli aspetti di progettazione, di organizzazione e gestione del lavoro, nonché i rispettivi contesti ambientali e sociali, che possono potenzialmente arrecare danni fisici o psicologici*» [[1]](#references). Ad esempio, comuni pericoli psicosociali legati al **contenuto del lavoro** includono la *pianificazione dei compiti*, il *carico e ritmo di lavoro* e l'*orario lavorativo*, mentre i pericoli legati al **contesto del lavoro** includono ad esempio i *rapporti interpersonali*, l'*autonomia decisionale* e l'*interfaccia casa-lavoro*.
+
+La situazione si complica un po' quando consideriamo invece i **rischi psicosociali**. Il *rischio* è generalmente definito come la probabilità che venga raggiunto il livello potenziale di danno e la gravità del danno stesso. Tuttavia, la stima di tale probabilità associata ad un pericolo psicosociale è difficile da determinare, a causa dei molti fattori che possono intervenire nella **valutazione soggettiva** del pericolo (es. frequenza di esposizione ad elevato carico di lavoro) e nella conseguente **risposta individuale**. Come vedremo, la valutazione dello stress lavoro-correlato è un processo per niente banale che non può essere affrontato con la relativa semplicità che caratterizza la valutazione dei rischi tradizionali.
+
+Al netto della difficile operazionalizzazione dei fattori di rischio, un primo scoglio si presenta già nella fase di **identificazione dei pericoli**. Mentre per i rischi tradizionali esistono delle tassonomie condivise che raccolgono i principali rischi che caratterizzano ciascun gruppo occupazionale (ad es. nel settore metalmeccanico è necessario considerare specifici pericoli che sono diversi da quelli da considerare nel settore sanitario), lo stress lavoro-correlato « _può potenzialmente colpire **qualsiasi posto di lavoro e qualunque lavoratore**, indipendentemente dalla grandezza dell'impresa, dal settore di attività o dal tipo di relazione contrattuale o di lavoro_». Sebbene la ricerca in psicologia della salute occupazionale stia fornendo evidenze sempre più solide circa i **pericoli psicosociali occupazione-specifici** (ad es., [in questo studio abbiamo valutato alcuni indicatori contestualizzati nel settore sanitario](/publication/2021_menghini_balducci_contextualized_indicators_workplacestress/)), siamo ancora lontani dal disporre di tassonomie come quelle dei rischi tradizionali.
+
+<br>
+
+## Le teorie sullo stress lavoro-correlato: quali fattori psicosociali considerare?
+
+Per sopperire all'incertezza circa l'identificazione dei pericoli psicosociali in una determinata organizzazione o settore occupazionale, sono stati proposti diversi **modelli teorici** che provano ad identificare le principali dimensioni su cui valutare il carattere stressante di un lavoro. Tra questi troviamo, ad esempio, il **modello Domanda-Controllo** che identifica le mansioni caratterizzate allo stesso tempo da alto carico di lavoro (*job demand*) e scarsa autonomia decisionale (*job control*) come i lavori più stressanti. Un altro modello molto condiviso è il **modello Sforzo-Ricompensa**, per cui lo stress sarebbe generato da uno sbilanciamento tra gli *sforzi lavorativi* percepiti dall'individuo (es. l'investimento metabolico, cognitivo e di tempo dedicato al lavoro) e le *ricompense* tangibili (es. stipendio) e intangibili (es. stima deə collegə) ricevute in cambio. Infine, va menzionato il celebre **modello Domande-Risorse**, secondo il quale le caratteristiche del lavoro sono fondamentalmente raggruppabili in richieste poste all'individuo (*domande lavorative*) e fattori protettivi (*risorse lavorative*). Mentre le prime comportano un maggiore rischio di stress e burnout, le seconde riducono questo rischio e promuovono invece un maggiore coinvolgimento nel lavoro (*job engagement*).
+
+IMMAGINE TEORIE
+
+<br>
+
+## Le conseguenze e i costi dello stress
+
+Quasi indipendentemente dall'approccio teorico alla definizione dei rischi psicosociali, la letteratura scientifica ha negli anni fornito numerose e consistenti evidenze circa le conseguenze dello stress per l'individuo, per le organizzazioni e per la società nel suo complesso. Senza pretese di esaustività, vediamo quali sono le principali **cateogorie di costo**, in modo da essere più consapevolə dei molti benefici derivabili da una rigorosa gestione dei rischi psicosociali.
+
+A livello individuale, 
+
+<br>
+
+# Come gestire i rischi psicosociali sul lavoro?
 
 ## Assessing workplace stress
 
@@ -48,4 +90,8 @@ Primary, secondary and tertiary prevention
 
 # References
 
-1.  Csikszentmihalyi, M., & Larson, R. (2014). Validity and reliability of the experience-sampling method. In *Flow and the foundations of positive psychology* (pp. 35-54). Springer, Dordrecht.
+1. Cox, T., Griffiths, A., & Rial-González, E. (2000).*European agency for safety and health at work. Research on work-related stress*. Luxembourg: Office for Official Pubblication of the European Communities. Available from [osha.europa.eu](https://osha.europa.eu/en/publications/report-research-work-related-stress)
+
+# Credits
+
+Images by <a href="https://pixabay.com/it/users/htchnm-14967706/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5752322">Htc Erl</a>, and <a href="https://pixabay.com/it/users/13687374-13687374/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5524021">Dhiraj Gursale</a> from <a href="https://pixabay.com/it//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5752322">Pixabay</a>

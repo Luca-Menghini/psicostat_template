@@ -4,9 +4,8 @@ diagram: true
 image:
   placement: 3
 math: true
-projects:
-- suggested_bayesian_papers
-title: Sonno, riposo ed esperienze di recupero
+tags: ["Sleep","Recovery","Circadian rhythms","Psychophysiology","Stress response","Workplace stress","Recovery experiences"]
+title: "Sonno, rilassamento e recupero: Perché il tempo libero è così importante?"
 ---
 
 Some text introducing stress and recovery
