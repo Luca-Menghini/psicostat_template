@@ -66,7 +66,7 @@ Al netto della difficile operazionalizzazione dei fattori di rischio, un primo s
 
 Per sopperire all'incertezza circa l'identificazione dei pericoli psicosociali in una determinata organizzazione o settore occupazionale, sono stati proposti diversi **modelli teorici** che provano ad identificare le principali dimensioni su cui valutare il carattere stressante di un lavoro. Tra questi troviamo, ad esempio, il **modello Domanda-Controllo** che identifica le mansioni caratterizzate allo stesso tempo da alto carico di lavoro (*job demand*) e scarsa autonomia decisionale (*job control*) come i lavori più stressanti. Un altro modello molto condiviso è il **modello Sforzo-Ricompensa**, per cui lo stress sarebbe generato da uno sbilanciamento tra gli *sforzi lavorativi* percepiti dall'individuo (es. l'investimento metabolico, cognitivo e di tempo dedicato al lavoro) e le *ricompense* tangibili (es. stipendio) e intangibili (es. stima deə collegə) ricevute in cambio. Infine, va menzionato il celebre **modello Domande-Risorse**, secondo il quale le caratteristiche del lavoro sono fondamentalmente raggruppabili in richieste poste all'individuo (*domande lavorative*) e fattori protettivi (*risorse lavorative*). Mentre le prime comportano un maggiore rischio di stress e burnout, le seconde riducono questo rischio e promuovono invece un maggiore coinvolgimento nel lavoro (*job engagement*).
 
-IMMAGINE TEORIE
+![](img/jobmodels.png)
 
 <br>
 
