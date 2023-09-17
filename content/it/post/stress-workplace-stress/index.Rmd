@@ -66,7 +66,7 @@ Ma prima ancora di valutarne i rischi associati, i fattori psicosociali si carat
 
 ## Le teorie sullo stress lavoro-correlato: quali fattori psicosociali considerare?
 
-Per sopperire all'incertezza circa l'identificazione dei pericoli psicosociali in una determinata organizzazione o settore occupazionale, sono stati proposti diversi **modelli teorici** che provano ad identificare le principali dimensioni su cui valutare il carattere stressante di un lavoro. Tra questi troviamo, ad esempio, il **modello Domanda-Controllo** che identifica le mansioni caratterizzate allo stesso tempo da alto carico di lavoro (*job demand*) e scarsa autonomia decisionale (*job control*) come i lavori più stressanti. Un altro modello molto condiviso è il **modello Sforzo-Ricompensa**, per cui lo stress sarebbe generato da uno sbilanciamento tra gli *sforzi lavorativi* percepiti dall'individuo (es. l'investimento metabolico, cognitivo e di tempo dedicato al lavoro) e le *ricompense* tangibili (es. stipendio) e intangibili (es. stima deə collegə) ricevute in cambio. Infine, va menzionato il celebre **modello Domande-Risorse**, secondo il quale le caratteristiche del lavoro sono fondamentalmente raggruppabili in richieste poste all'individuo (*domande lavorative*) e fattori protettivi (*risorse lavorative*). Mentre le prime comportano un maggiore rischio di stress e burnout, le seconde riducono questo rischio e promuovono invece un maggiore coinvolgimento nel lavoro (*job engagement*).
+Per sopperire all'incertezza circa l'identificazione dei pericoli psicosociali in una determinata organizzazione o settore occupazionale, sono stati proposti diversi **modelli teorici** che provano ad identificare le principali dimensioni su cui valutare il carattere stressante di un lavoro. Tra questi troviamo, ad esempio, il **Modello Domanda-Controllo** [[2]](#references) che identifica le mansioni caratterizzate allo stesso tempo da alto carico di lavoro (*job demand*) e scarsa autonomia decisionale (*job control*) come i lavori più stressanti. Un altro modello molto condiviso è il **Modello Sforzo-Ricompensa** [[3]](#references), per cui lo stress sarebbe generato da uno sbilanciamento tra gli *sforzi lavorativi* percepiti dall'individuo (es. l'investimento metabolico, cognitivo e di tempo dedicato al lavoro) e le *ricompense* tangibili (es. stipendio) e intangibili (es. stima deə collegə) ricevute in cambio. Infine, va menzionato il celebre **Modello Domande-Risorse** [[4]](#references), secondo il quale le caratteristiche del lavoro sono fondamentalmente raggruppabili in richieste poste all'individuo (*domande lavorative*) e fattori protettivi (*risorse lavorative*). Mentre le prime comportano un maggiore rischio di stress e burnout, le seconde riducono questo rischio e promuovono invece un maggiore coinvolgimento nel lavoro (*job engagement*).
 
 ![](img/jobmodels.png)
 
@@ -78,25 +78,49 @@ Quasi indipendentemente dall'approccio teorico alla definizione dei rischi psico
 
 **A livello individuale**, i costi dello stress sono principalmente riferiti alle spese sanitarie per fronteggiare le sue **conseguenze sulla salute** (es. disturbi cardiovascolari, metabolici, gastrointestinali, muscoloscheletrici e disturbi mentali). Ai **costi tangibili** dello stress, costituiti dalle visite mediche, i farmaci e le cure ospedaliere, vanno poi aggiunte la perdita del reddito durante l’assenza dal lavoro e le spese sostenute da amici e familiari (Hoel et al., 2001). Infine, non sono da sottovalutare i **costi intangibili** sostenuti dall’individuo, anche definiti “*costi umani*” dello stress, come il dolore, la paura e una ridotta qualità della vita (ibidem), oltre ad un impoverimento nelle relazioni con i familiari e ad una minore soddisfazione lavorativa.
 
-**A livello organizzativo**, i costi dello stress sono legati ai **giorni di assenza**, ai casi di licenziamento e pensionamento prematuro, con conseguente aumento dei costi legati al **turnover** (reclutamento, formazione e sviluppo del nuovo personale), i costi legati a reclami, contenziosi e richieste di indennizzo, agli eventuali danni alle attrezzature, dovuti ad un maggior numero di **incidenti ed errori**, nonché alla perdita di **produttività** e ai danni all’immagine pubblica e alla reputazione dell’azienda. Sebbene la quantificazione di questi costi per la singola azienda sia un'ardua impresa, un lavoro commissionato nel 2013 dall’*European Agency for Health and Consumers* ha stimato un **guadagno fino a 13.62 euro per ogni euro speso** in programmi di prevenzione dei disturbi mentali e di promozione della salute mentale sul lavoro [[2]](#references).
+**A livello organizzativo**, i costi dello stress sono legati ai **giorni di assenza**, ai casi di licenziamento e pensionamento prematuro, con conseguente aumento dei costi legati al **turnover** (reclutamento, formazione e sviluppo del nuovo personale), i costi legati a reclami, contenziosi e richieste di indennizzo, agli eventuali danni alle attrezzature, dovuti ad un maggior numero di **incidenti ed errori**, nonché alla perdita di **produttività** e ai danni all’immagine pubblica e alla reputazione dell’azienda. Sebbene la quantificazione di questi costi per la singola azienda sia un'ardua impresa, un lavoro commissionato nel 2013 dall’*European Agency for Health and Consumers* ha stimato un **guadagno fino a 13.62 euro per ogni euro speso** in programmi di prevenzione dei disturbi mentali e di promozione della salute mentale sul lavoro [[5]](#references).
 
-Infine, **a livello sociale**, i costi dello stress sono principalmente riferiti ai **costi sanitari** e al **calo di produttività** associato al numero di giorni lavorativi "persi" a causa dei rischi psicosociali. Ad esempio, la *Commissione Europea per l’Occupazione e gli Affari Sociali* stimò alla fine del secolo scorso che lo stress contribuisce ad almeno il 10% dei costi pubblici derivanti da problemi di salute e sicurezza sul lavoro, corrispondente ad un costo globale per l'Unione Europea di circa **20 miliardi di euro all'anno**. ....
+Infine, **a livello sociale**, i costi dello stress sono principalmente riferiti ai **costi sanitari** e al **calo di produttività** associato al numero di giorni lavorativi "persi" a causa dei rischi psicosociali. Ad esempio, la *Commissione Europea per l’Occupazione e gli Affari Sociali* stimò alla fine del secolo scorso che lo stress contribuisce ad almeno il 10% dei costi pubblici derivanti da problemi di salute e sicurezza sul lavoro, corrispondente ad un costo globale per l'Unione Europea di circa **20 miliardi di euro all'anno** [[7]](#references). Più recentemente, una revisione sistematica degli studi '*cost-of-illness*' condotti in Australia, Canada, Svizzera, Regno Unito e diversi paesi dell'EU [[6]](#references) ha stimato un costo medio per paese **tra 221.13 milioni e 187 miliardi di dollari l'anno**, per lo più dovuti al calo di produttività (70-90%) e ai costi santiari (10-30%).
+
+Insomma lo stress costa caro a tuttə. Ed è nell'interesse di tuttə cercare di prevenirlo e gestirlo al meglio.
 
 <br>
 
 # Come gestire i rischi psicosociali sul lavoro?
 
-## Assessing workplace stress
+Come dicevamo, i **rischi psicosociali** sono molto diversi dai rischi "tradizionali" per la salute e la sicurezza sul lavoro. Abbiamo detto che la probabilità $P$ e la gravità $G$ di un pontenziale danno dipendono da **fattori soggettivi**, e che non esistono (ancora) delle tassonomie di rischio occupazione-specifico. Inoltre, l'**assenza di soglie** specifiche o di una durata massima di esposizione (curva dose-risposta) complica ulteriormente le cose. Ciononostante, alcuni **fattori di processo** - ovvero quei concreti passaggi implementati delle organizzazioni nel processo di gestione dei rischi - tipicamente applicati ai rischi "tradizionali" possono essere applicati efficacemente anche alla gestione dei rischi psicosociali. 
 
-## Magaging workplace stress
+In particolare, il **ciclo di controllo**
+
+## Identificazione dei pericoli
+
+## Valutazione dei rischi
+
+## Gestione dei rischi
 
 Something about Management Standards, HSE and INAIL.
 
 Primary, secondary and tertiary prevention
 
+<br>
+
 # References
 
-1. Cox, T., Griffiths, A., & Rial-González, E. (2000).*European agency for safety and health at work. Research on work-related stress*. Luxembourg: Office for Official Pubblication of the European Communities. Available from [osha.europa.eu](https://osha.europa.eu/en/publications/report-research-work-related-stress)
+1. Cox, T., Griffiths, A., & Rial-González, E. (2000). *Research on work-related stress*. Report for the European agency for safety and health at work. Luxembourg: Office for Official Publication of the European Communities. Available from [osha.europa.eu](https://osha.europa.eu/en/publications/report-research-work-related-stress)
+
+2. Karasek, R. A. (1979). Job Demands, Job Decision Latitude, and Mental Strain: Implications for Job Redesign. *Administrative Science Quarterly, 24*(2), 285–308. https://doi.org/10.2307/2392498
+
+3. Siegrist, J. (1996). Adverse health effects of high-effort/low-reward conditions. Journal of Occupational Health Psychology, 1(1), 27–41. https://doi.org/10.1037/1076-8998.1.1.27
+
+4. Demerouti, E., Nachreiner, F., Bakker, A. B., & Schaufeli, W. B. (2001). The job demands-resources model of burnout. *Journal of Applied Psychology, 86*(3), 499–512. https://doi.org/10.1037/0021-9010.86.3.499
+
+5. Matrix Insight: Executive Agency for Health and Consumers. (2013). Economic Analysis of Workplace Mental Health Promotion and Mental Disorder Prevention Programmes and of their Potential Contribution to EU Health, Social and Economic Policy Objectives. Available from [health.ec.europa.eu](https://health.ec.europa.eu/other-pages/basic-page/reports-studies-and-projects_en).
+
+6. European Commission for Employement and Social Affairs. (2000). *Guidance on work-related stress: Spice of life or kiss of death?*. Luxembourg: Office for Official Publications of the European Communities. Available from [eur-lex.europa.eu](https://eur-lex.europa.eu/resource.html?uri=cellar:9f53b8c2-75a1-404a-851f-65d4b826d528.0005.02/DOC_2&format=PDF).
+
+7. Hassard, J., Teoh, K. R. H., Visockaite, G., Dewe, P., & Cox, T. (2018). The cost of work-related stress to society: A systematic review. *Journal of Occupational Health Psychology, 23*(1), 1–17. https://doi.org/10.1037/ocp0000069
+
+<br>
 
 # Credits
 
