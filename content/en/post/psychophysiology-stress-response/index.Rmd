@@ -40,7 +40,7 @@ Following Cannon's work, the Austrian endocrinologist [Hans Selye (1907-1982)](h
 
 3. **Exhaustion**: last stage characterizing exposures prolonged for several weeks/months, resulting in severe damage to the body (e.g., intestinal ulcers) and increased vulnerability to both the original and other stressful stimuli, with higher chance of illness and death.
 
-<font size= “15”> 🚨 &rightarrow; ✊  &rightarrow;  🪫  </font>
+# 🚨 &rightarrow; ✊  &rightarrow; 🪫  
 
 <br>
 
@@ -68,7 +68,7 @@ Starting from Cannon, stress research focused on the concept of **homeostasis**,
 
 In contrast, modern stress theories are mostly based on the concept of **allostasis**, that is **adaptation through change**, based on which our biological set points are modified and overwritten by neuroendocrine circuits (such as SAM & HPA) to anticipate environmental demands. For instance, living in a war scenario would require our body to be particularly ready to "fight or flight", to rapidly provide us with the necessary metabolical resources for handling acute stressors. Thus, rather than restarting each day from our baseline, it is more adaptive to **increase our basal activation levels**, so that each day we start from a slightly higher level, requiring less time and energy to reach our peak.
 
-According to the Allostatic Load Theory [[2](#references)], the biological cost of this adaptation is the **allostatic load**, which precisely matches with Selye's idea of «*‘body wear and tear’*». The figure below summarizes the main scenarios/types of allostatic load, possibly originating from (1) the repeated or prolonged exposure to stressors (**repeated hits**), (2) the **lack of adaptation** to stressors that are repeatedly encountered, (3) the lack of adequate recovery following the exposure (**prolonged response**), and (4) the insufficient activation of some components of the stress response (**inadequate response**), leading to the over-reactivity of other components. Whereas in the short-term these scenarios imply primary and reversible changes (basically the same adaptive changes described above), in the long run they can lead to more stable and irreversible secondary changes (e.g., permanently increased basal blood pressure) and **tertiary disease endpoints** (e.g., hypertension, coronary hearth disease).
+According to the Allostatic Load Theory [[2]](#references), the biological cost of this adaptation is the **allostatic load**, which precisely matches with Selye's idea of «*‘body wear and tear’*». The figure below summarizes the main scenarios/types of allostatic load, possibly originating from (1) the repeated or prolonged exposure to stressors (**repeated hits**), (2) the **lack of adaptation** to stressors that are repeatedly encountered, (3) the lack of adequate recovery following the exposure (**prolonged response**), and (4) the insufficient activation of some components of the stress response (**inadequate response**), leading to the over-reactivity of other components. Whereas in the short-term these scenarios imply primary and reversible changes (basically the same adaptive changes described above), in the long run they can lead to more stable and irreversible secondary changes (e.g., permanently increased basal blood pressure) and **tertiary disease endpoints** (e.g., hypertension, coronary hearth disease).
 
 ![](img/al.PNG)
 
@@ -78,7 +78,7 @@ According to the Allostatic Load Theory [[2](#references)], the biological cost 
 
 The allostatic load theory satisfactorily answer the question *When does stress cause illness?*. Yet, a further advancement in stress research that is worthy of mention is the shift from reactivity to prolonged activation.
 
-For decades, stress research has been mainly focused on the concept of **physiological reactivity**, that is the intensity of physiological responses *concomitant* or immediately following the exposure to stressors. Based on the **reactivity hypothesis**, stress causes illness mainly due to exaggerated responses to stressors. For instance, *hyper-reactivity* has been associated with certain personal dispositions such as hostility, Type A behavior, and anxiety disorders. When individuals overreact to stressors, exaggerated acute activation is more likely to result in the exhaustion phase of the GAS, to trigger allostatic load, and to cause disease endpoints such as strokes and ictus. Focusing on short-term reactions, stress research has deeply investigated the main individual characteristics predictive of deviations from the 'normal' stress response. This is nicely shown by the figure below (adapted from [[3](#references)])
+For decades, stress research has been mainly focused on the concept of **physiological reactivity**, that is the intensity of physiological responses *concomitant* or immediately following the exposure to stressors. Based on the **reactivity hypothesis**, stress causes illness mainly due to exaggerated responses to stressors. For instance, *hyper-reactivity* has been associated with certain personal dispositions such as hostility, Type A behavior, and anxiety disorders. When individuals overreact to stressors, exaggerated acute activation is more likely to result in the exhaustion phase of the GAS, to trigger allostatic load, and to cause disease endpoints such as strokes and ictus. Focusing on short-term reactions, stress research has deeply investigated the main individual characteristics predictive of deviations from the 'normal' stress response. This is nicely shown by the figure below (adapted from [[3]](#references)).
 
 ![](img/react.PNG)
 
@@ -86,20 +86,41 @@ While physiological reactivity is certainly an important aspect to be considered
 
 A possible answer to this question focuses on the third type of allostatic load, namely the **prolonged response** that is experienced when stress is followed by **inadequate recovery**. Stress and recovery are the two complementary processes at the core of the homeostasis concept: environmental demands trigger physiological activation providing the necessary resources to cope with the stressors; then, once stressors have been successfully handled, the parasympathetic nervous system activates to make us rest, return to the baseline, and recover the resources needed for future stress responses. Such a physiological process is also strictly linked to our circadian rhythms and to the '**cycle of work and rest**' that is [better described in this post](/sleep-recovery-and-recovery-experiences/).
 
-According to the **perseverative cognition hypothesis** [[4](#references)]
+According to the **perseverative cognition hypothesis** [[4]](#references), stress responses cause illness when they are prolonged outside the stressful exposure, when we should recover. This framework moves its focus from the acute response experienced *during* a stressful event to the associated **prolonged activation**, defined as the total amount of physiological activation over time, either **before** (*anticipatory responses*) or **after** the exposure (*inadequate recovery*). Coming back to the comparison with physical exercise, it is adaptive to physiologically activate during a training session. However, to benefit from the effects of training we need to rest before starting a new session. If we keep being in a 'stress mode' during such a critical recovery period, we put our body over its limits, and we can get sick or injured.
 
-the perseverative cognition hypotesis argues that the major part of stress influence on health is caused by prolonged activation, defined as the total amount of physiological activation over time, either before (anticipatory responses) or after the exposure (slow recovery and reoccurring activity after initial recovery) (Brosschot et al., 2005). As shown
+But what can make us stressed when we are not actually facing a stressor? To answer this question, we need to introduce the **psychological facets of the stress response**, and particularly the concept of *appraisal* and *perseverative cognitions*.
 
+# Psychology of the stress response
 
-# Psychological processes in the stress response
+Starting from the 70s, there has been a boom in the research on the **psycho-social factors** involved in the stress response. Using [Richard Lazarus (1922-2002)](https://en.wikipedia.org/wiki/Richard_Lazarus) and [Susan Folkman](https://en.wikipedia.org/wiki/Susan_Folkman)'s words, the core idea behind such lines of research is that “individual and group differences in the degree and kind of stress reaction are always evident”. So what makes an individual *feeling stressed* when another individual does not?
 
-<br>
+Lazarus and Folkman's **transactional model of stress** [[5]](#references) can be thought as the foundation of psychology research on stress. The model describes stress as "*a particular relationship* - a **transaction**, an exchange of resources - *between the person and the environment that is appraised by the person as taxing or exceeding his or her resources and endangering his or her well-being*". When we face a stressor, we enter in a **primary appraisal** process where we subjectively evaluate whether the stimulus or the event is stressful (harm, threat, or challenge) or rather benign or irrelevant. In the former case we enter in a **secondary appraisal** process where we subjectively evaluate whether we're able to cope with the stressor or not. Based on this model, we are "*under stress*" (or *distress*) only when we perceive to be unable to cope with a stimulus that we consider as a stressor. But of course, different individuals will provide different subjective evaluations (and thus, different responses) in the exact same conditions.
 
-# So what's stress?
+![](img/transm.PNG)
 
-<br>
+## Control and predictability
 
-# Workplace stress
+Further research focused on specific facets of cognitive appraisal, such as the **perceived control** over the situation and the **predictability** of its consequences. In the Basic Triplet Paradigm [[6]](#references), three rats were placed in three separate electrified cages. The first rat gets electric shocks at random time points, but always preceded by an acoustic signal (*predictability*) and stoppable by pressing a button (*control*). The second rat is connected to the former, and gets shocked any time the former is, but without being able to predict or control the shocks. The results reported from this experiment showed worse stress-related health outcomes (e.g., gastric ulcers) in the latter than in the former condition and compared to controls (rats not receiving any shock). 
+
+![](img/btp.PNG)
+
+Later developments in human cognition [[7]](#references) further highlighted the importance of such facets of **cognitive appraisal**, defining stress as the *perceived discrepancy* between what we expect and what we actually experience. Over time, it can happen that some people start feeling that there is no link between their efforts and the outcome of a stressor (a clinical condition named *helplessness*) or that any strategy would lead to negative results (*hopelessness*), with potentially serious implications for their mental health. 
+
+Furthermore, appraisals carry out in a **social environment** where other people's subjectivity and the structure of our social relationships can exert a powerful influence. For instance, we can receive **social support** by a friend that help us interpreting a situation from a different perspective and/or provide us with additional resources to cope with the stressor.
+
+## Perseverative cognitions
+
+While most psychological theories of stress focus on the cognitive and emotional processes carrying out *during* acute stress responses, they all recognize that it is the **chronic course** of stress that leads to the most serious consequences. This takes us back to the concept of **prolonged activation** introduced above. What make us chronically stressed over time, compromising our recovery, and activating the stress response even in stressor-free conditions?
+
+According to the **perseverative cognition hypothesis** [[4]](#references), stress causes illness mainly through anticipatory responses *before* a stressful event and inadequate recovery *after* the event. And this **prolonged activation** happens because our cognitive representation of the event (its image in our mind) is activated regardless of the actual presence of the stressor. Such "*repeated or chronic activation of the cognitive representation of one or more psychological stressors*” are called **perseverative cognitions** and we can experience them on a daily basis when we **ruminate** about past stressors (like cows eating grass, we repeatedly recall what happen) or **worry** about future stressors (such as the night before an exam or a job interview).
+
+# So what's stress and how does it cause illness?
+
+This post attempted to provide some partial answers to these two critical questions. A straightforward definition of stress is difficult to formulate due to the many biological and psychological processes involved in the stress response. We know it's an **aspecific** (similar reaction to different stimuli), **progressive** (triggering different biological effects at different time points), and **cumulative** response (leading to progressively severe health outcomes over time). It is mediated by **subjective appraisal** and other cognitive and affective processes affected by individual characteristics (personality, memory, etc.) and the social environments (social support, social status, etc.). Although the question "*how does stress cause illness*" remains partially unanswered, there is evidence that **prolonged activation** experienced when we should recover plays a major role in the pathogenic nature of stress. And **perseverative cognitions** such as rumination and worry are so far the best guess for the most critical psychological processes leading from stress to ill health.
+
+# Why is this important for work and organizational psychology?
+
+We saw that stress can be potentially experienced in any activity (even during free time), but the stressful activity that is more likely to be reported by an average adult in our historical period is undoubtedly **work**. Work is the Activity par excellence. Our life, social relationships, and circadian rhythms are fundamentally determined by our job schedule. Most of our metabolical, psychological, and social resources are directed to our work activities, and the term "**leisure**" is used as both a synonym of recovery and as the opposite of work.
 
 ## Assessing workplace stress
 
@@ -116,3 +137,11 @@ Primary, secondary and tertiary prevention
 2. McEwen, B. S. (1998). Protective and Damaging Effects of Stress Mediators. *New England Journal of Medicine, 338*(3), 171–179. https://doi.org/10.1056/NEJM199801153380307
 
 3. Epel, E. S., Crosswell, A. D., Mayer, S. E., Prather, A. A., Slavich, G. M., Puterman, E., & Mendes, W. B. (2018). More than a feeling: A unified view of stress measurement for population science. *Frontiers in Neuroendocrinology, 49*, 146–169. https://doi.org/10.1016/j.yfrne.2018.03.001
+
+4. Brosschot, J. F., Pieper, S., & Thayer, J. F. (2005). Expanding stress theory: Prolonged activation and perseverative cognition. *Psychoneuroendocrinology, 30*(10), 1043–1049. https://doi.org/10.1016/j.psyneuen.2005.04.008
+
+5. Lazarus, R. S., & Folkman, S. (1984). *Stress, Appraisal, and Coping*. Springer Publishing Company.
+
+6. Weiss, J. M. (1972). Psychological Factors in Stress and Disease. *Scientific American, 226*(6), 104–113. https://doi.org/10.1038/scientificamerican0672-104
+
+7. Ursin, H., & Eriksen, H. R. (2010). Cognitive activation theory of stress (CATS). *Neuroscience & Biobehavioral Reviews, 34*(6), 877–881. https://doi.org/10.1016/j.neubiorev.2009.03.001
