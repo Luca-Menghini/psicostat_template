@@ -1,9 +1,9 @@
 ---
-title: "Psychophysiology of the stress response: When does stress cause ilness?"
+title: "Psychophysiology of the stress response: When does stress cause illness?"
 author: "Luca Menghini"
 date: "`r Sys.Date()`"
 categories: ["Workplace stress"]
-tags: ["Workplace stress", "Stress response","Psychophysiology","Occupational health","Psychosocial hazards"]
+tags: ["Stress response","Psychophysiology","Reactivity","Stress research","Recovery","Workplace stress"]
 image:
   placement: 1
   focal_point: ''
@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Stress is a complex and **multifaceted phenomenon**, involving multiple dimensions placed on **different epistemological levels** investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam), **chronic** (e.g., war), and even **dispositional** time course (e.g., anxiety disorder).
+Stress is a complex and **multifaceted phenomenon**, involving multiple dimensions placed on **different epistemological levels** investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam), **chronic** (e.g., war), and even **dispositional** time course (e.g., anxiety disorder). We are used to think about stress as a negative condition leading to even worse somatic and psychological reactions, but is this always true? That is, when does stress cause illness?
 
 <br>
 
@@ -40,9 +40,7 @@ Following Cannon's work, the Austrian endocrinologist [Hans Selye (1907-1982)](h
 
 3. **Exhaustion**: last stage characterizing exposures prolonged for several weeks/months, resulting in severe damage to the body (e.g., intestinal ulcers) and increased vulnerability to both the original and other stressful stimuli, with higher chance of illness and death.
 
-# 🚨 &rightarrow; ✊  &rightarrow;  🪫
-
-![](img/gas.PNG)
+<font size= “15”> 🚨 &rightarrow; ✊  &rightarrow;  🪫  </font>
 
 <br>
 
@@ -54,25 +52,42 @@ Decades of research resulted in a very detailed characterization of the **stress
 
 ![](img/stressResponse.PNG)
 
-The **SAM axis** is called «the fast pathway» because it's mainly based on the nervous system (electrical signals): sensorial information from the perceptual system are processed by the thalamic nuclei, transmitted to the **amygdala**, forwarded to the **hypothalamus** and the locus coeruleus (releasing noradrenaline, NA). From the hypotalamus, a first direct and rapid response (t1, taking a few seconds) activates the "fight-or-flight" symphato-motor response, followed by a second response mediated by the **adrenal medullas** (the internal part of the adrenal glands, placed over the kidneys), releasing adrenaline (A) and noradrenaline (NA) into the blood stream, and prolonging the response over some minutes.
+The **SAM axis** is called «the fast pathway» because it is mainly based on the nervous system (electrical signals): sensorial information from the perceptual system are processed by the thalamic nuclei, transmitted to the **amygdala**, forwarded to the **hypothalamus** and the locus coeruleus (releasing noradrenaline, NA). From the hypotalamus, a first direct and rapid response (t1, taking a few seconds) activates the "fight-or-flight" symphato-motor response, followed by a second response mediated by the **adrenal medullas** (the internal part of the adrenal glands, placed over the kidneys), releasing **adrenaline** (A) and **noradrenaline** (NA) into the blood stream, and prolonging the response over some minutes.
 
-The **HPA** is called «the slow pathway» because it's mainly mediated by the endocrine system (hormal signals through the blood stream), which takes more time than electical signals. It also originates from the **hypothalamus**, which releases the CRH hormone, stimulating the **pituitary gland** (hypophysis) to release the ACTH hormone into the blood stream to the adrenal cortexes (at this time, the external part of the adrenal glands), releasing  the **glucocordicoids** (including **cortisol**) into the blood stream. These are so-called because they impact on glucose metabolism, increasing energy availability.
+The **HPA axis** is called «the slow pathway» because it's mainly mediated by the endocrine system (hormal signals through the blood stream), which takes more time than electical signals. It also originates from the **hypothalamus**, which releases the CRH hormone, stimulating the **pituitary gland** (hypophysis) to release the ACTH hormone into the blood stream to the adrenal cortexes (at this time, the external part of the adrenal glands), releasing  the **glucocordicoids** (including **cortisol**) into the blood stream. These are so-called because they impact on glucose metabolism, increasing energy availability.
 
 <br>
 
-# How does stress cause ilness?
+# When does stress cause illness?
 
 In both Cannon and Selye's view, and consistently with decades of research, **the stress response is an adaptive response** that is functional to cope with changing environmental demands, and thus to the survival of the species. In Selye's words, stress is not a pathological state, but rather «*the [natural] wear and tear of the body [...] caused by any type of vital reaction in any moment*» [[1]](#references). That is, you cannot live without being stressed, [unless you're sleeping](https://lucamenghini.netlify.app/psychophysiology-of-sleep-and-relationships-with-stress-and-job-stressors/). According to modern research, what makes an usually adaptive response (**eustress**) a potentially unhealthy condition (**distress**) are the timing, frequency, and nature of our stress responses.
 
 ## The Allostatic Load Theory
 
-Starting from Cannon, stress research focused on the concept of **homeostasis**, that is the body’s ability to **maintain the ‘set points’** of its physiological processes (e.g., basal blood pressure) through negative feedback mechanisms (e.g., baroceptors). Whereas modern stress theories are mostly based on the concept of **allostatis**, that is **adaptation through change**, based on which the biological set points are modified and overwritten by neuroendocrine circuits (such as SAM & HPA) in order to better adapt to the environment, and to anticipate environmental demands. For instance, a stable passage from a peace to a war scenario would require our body to be particularly ready to "fight or flight", implying the need for increased reactivity and higher basal levels of physiological activation.
+Starting from Cannon, stress research focused on the concept of **homeostasis**, that is the body’s ability to **maintain the ‘set points’** of its physiological processes (e.g., basal blood pressure) through negative feedback mechanisms (e.g., baroceptors). In other words, the homeostasis framework posits that our body is programmed for returning to its **baseline** after any stressful event. 
 
-According to the Allostatic Load Theory [[2]](#references), the biological cost of this adaptation is the **allostatic load**, which precisely identifies Selye's idea of «*‘wear and tear’ of the body*».
+In contrast, modern stress theories are mostly based on the concept of **allostasis**, that is **adaptation through change**, based on which our biological set points are modified and overwritten by neuroendocrine circuits (such as SAM & HPA) to anticipate environmental demands. For instance, living in a war scenario would require our body to be particularly ready to "fight or flight", to rapidly provide us with the necessary metabolical resources for handling acute stressors. Thus, rather than restarting each day from our baseline, it is more adaptive to **increase our basal activation levels**, so that each day we start from a slightly higher level, requiring less time and energy to reach our peak.
+
+According to the Allostatic Load Theory [[2]](#references), the biological cost of this adaptation is the **allostatic load**, which precisely matches with Selye's idea of «*‘body wear and tear’*». The figure below summarizes the main scenarios/types of allostatic load, possibly originating from (1) the repeated or prolonged exposure to stressors (**repeated hits**), (2) the **lack of adaptation** to stressors that are repeatedly encountered, (3) the lack of adequate recovery following the exposure (**prolonged response**), and (4) the insufficient activation of some components of the stress response (**inadequate response**), leading to the over-reactivity of other components. Whereas in the short-term these scenarios imply primary and reversible changes (basically the same adaptive changes described above), in the long run they can lead to more stable and irreversible secondary changes (e.g., permanently increased basal blood pressure) and **tertiary disease endpoints** (e.g., hypertension, coronary hearth disease).
 
 ![](img/al.PNG)
 
 <br>
+
+## Reactivity vs. prolonged activation
+
+The allostatic load theory satisfactorily answer the question *When does stress cause illness?*. Yet, a further advancement in stress research that is worthy of mention is the shift from reactivity to prolonged activation.
+
+For decades, stress research has been mainly focused on the concept of **physiological reactivity**, that is the intensity of physiological responses *concomitant* or immediately following the exposure to stressors. Based on the **reactivity hypothesis**, stress causes illness mainly due to exaggerated responses to stressors. For instance, *hyper-reactivity* has been associated with certain personal dispositions such as hostility, Type A behavior, and anxiety disorders. When individuals overreact to stressors, exaggerated acute activation is more likely to result in the exhaustion phase of the GAS, to trigger allostatic load, and to cause disease endpoints such as strokes and ictus. Focusing on short-term reactions, stress research has deeply investigated the main individual characteristics predictive of deviations from the 'normal' stress response. This is nicely shown by the figure below (adapted from [[3]](#references))
+
+![](img/react.PNG)
+
+While physiological reactivity is certainly an important aspect to be considered, some researchers noticed that most reactivity responses documented in the literature are all in all quite comparable to the kind of physiological activation we can experience during **moderate/vigorous physical exercise**. And we all agree that physical exercise is not (generally) dangerous for health, but quite the opposite. So how can it be that physiological reactivity leads to illness?
+
+A possible answer to this question focuses on the third type of allostatic load, namely the **prolonged response** that is experienced when stress responses are followed by **inadequate recovery**. Stress and recovery are the two complementary processes at the core of the homeostasis concept: environmental demands trigger physiological activation providing the necessary resources to cope with the stressors; then, once stressors have been successfully handled, the parasympathetic nervous system activates to make us rest, return to the baseline, and recover the resources needed for future stress responses. Such a physiological process is also strictly linked to our circadian rhythms and to the '**cycle of work and rest**' that is [better described in this post](/sleep-recovery-and-recovery-experiences/).
+
+
+
 
 # Psychological processes in the stress response
 
@@ -94,4 +109,8 @@ Primary, secondary and tertiary prevention
 
 # References
 
-1.  Csikszentmihalyi, M., & Larson, R. (2014). Validity and reliability of the experience-sampling method. In *Flow and the foundations of positive psychology* (pp. 35-54). Springer, Dordrecht.
+1.  Selye, H. (1956). *The stress of life*. McGraw-Hill.
+
+2. McEwen, B. S. (1998). Protective and Damaging Effects of Stress Mediators. *New England Journal of Medicine, 338*(3), 171–179. https://doi.org/10.1056/NEJM199801153380307
+
+3. Epel, E. S., Crosswell, A. D., Mayer, S. E., Prather, A. A., Slavich, G. M., Puterman, E., & Mendes, W. B. (2018). More than a feeling: A unified view of stress measurement for population science. *Frontiers in Neuroendocrinology, 49*, 146–169. https://doi.org/10.1016/j.yfrne.2018.03.001

@@ -1,5 +1,5 @@
 ---
-title: "Workplace stress and the management of psychosocial hazards at work"
+title: "Stress lavoro-correlato e la gestione dei rischi psicosociali sul lavoro"
 author: "Luca Menghini"
 date: "`r Sys.Date()`"
 categories: ["Workplace stress"]

@@ -18,7 +18,7 @@ To keep it simple, Experience Sampling means asking individuals to provide syste
 
 # ESM vs. Retrospective Reports
 
-**Retrospective reports** are the gold standard for measuring subjective ratings of psychological constructs, requiring respondents to rate a number of questions **referred to the past** (e.g., over the last six months, over the last year). Ratings are collected with a [Likert response scale](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n273.xml), with response labels being usually expressed in terms of agreement or frequency. Here's a retrospective item often used in [workplace stress](/stress-and-workplace-stress/) research:
+**Retrospective reports** are the gold standard for measuring subjective ratings of psychological constructs, requiring respondents to rate a number of questions **referred to the past** (e.g., over the last six months, over the last year). Ratings are collected with a [Likert response scale](https://methods.sagepub.com/reference/encyclopedia-of-survey-research-methods/n273.xml), with response labels being usually expressed in terms of agreement or frequency. Here's a retrospective item often used in [workplace stress](/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/) research:
 
 ![](img/experience-sampling-retrospective-item-1.png)
 

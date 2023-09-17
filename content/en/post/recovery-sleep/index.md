@@ -4,9 +4,8 @@ diagram: true
 image:
   placement: 3
 math: true
-projects:
-- suggested_bayesian_papers
-title: Recovery and recovery experiences
+tags: ["Sleep","Recovery","Circadian rhythms","Psychophysiology","Stress response","Workplace stress","Recovery experiences"]
+title: 'Sleep, recovery, and recovery experiences'
 ---
 
 Some text introducing stress and recovery
