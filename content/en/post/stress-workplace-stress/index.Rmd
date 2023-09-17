@@ -16,24 +16,8 @@ output:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Workplace stress is a highly prevalent phenomenon associated with substantial individual, organizational, and societal costs. Over the last decades, robust theoretical frameworks have been provided to characterize the stress response both physiologically and psychologically. These resulted in consolidated models of job stress, as well as in normative frameworks aiding organizations to identify, assess, and manage the psychosocial hazards in the work force.
+_**Workplace stress** is a highly prevalent phenomenon associated with substantial individual, organizational, and societal costs. Over the last decades, robust theoretical frameworks have been provided to characterize the stress response both physiologically and psychologically. These resulted in consolidated models of job stress, as well as in normative frameworks aiding organizations to identify, assess, and manage the **psychosocial hazards** in the work force._
 
 <br>
 
-# What's stress?
-
-Stress is a complex and **multifaceted phenomenon**, involving multiple dimensions placed on **different epistemological levels**, and investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam), **chronic** (e.g., war), and even **dispositional** time course (e.g., anxiety disorder), and it is associated with individual health & well-being.
-
-# Workplace stress
-
-## Assessing workplace stress
-
-## Magaging workplace stress
-
-Something about Management Standards, HSE and INAIL.
-
-Primary, secondary and tertiary prevention
-
-# References
-
-1.  Csikszentmihalyi, M., & Larson, R. (2014). Validity and reliability of the experience-sampling method. In *Flow and the foundations of positive psychology* (pp. 35-54). Springer, Dordrecht.
+## This post is not yet available in English 🤷

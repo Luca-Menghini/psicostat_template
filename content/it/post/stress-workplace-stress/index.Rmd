@@ -1,9 +1,9 @@
 ---
-title: "Stress lavoro-correlato e la gestione dei rischi psicosociali sul lavoro"
+title: "Stress lavoro-correlato: come gestire i rischi psicosociali sul lavoro"
 author: "Luca Menghini"
 date: "`r Sys.Date()`"
 categories: ["Workplace stress"]
-tags: ["Workplace stress", "Stress response","Psychophysiology","Occupational health","Psychosocial hazards"]
+tags: ["Workplace stress","Occupational health","Psychosocial hazards", "Stress response"]
 image:
   placement: 1
   focal_point: ''
@@ -16,15 +16,27 @@ output:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Workplace stress is a highly prevalent phenomenon associated with substantial individual, organizational, and societal costs. Over the last decades, robust theoretical frameworks have been provided to characterize the stress response both physiologically and psychologically. These resulted in consolidated models of job stress, as well as in normative frameworks aiding organizations to identify, assess, and manage the psychosocial hazards in the work force.
+_Lo **stress lavoro-correlato** è un fenomeno molto prevalente associato a sostanziali costi individuali, organizzativi e sociali. Negli ultimi decenni, diversi modelli teorici sono stati proposti per caratterizzare la risposta da stress a livello fisiologico e psicologico. Questi hanno poi consentito di formulare modelli teorici consolidati dello stress lavoro-correlato così come quadri normativi e buone pratiche per assistere le organizzazioni nell'identificare, valutare e gestire i **rischi psicosociali** presso la propria forza lavoro._
 
 <br>
 
-# What's stress?
+# Che cos'è lo stress?
 
-Stress is a complex and **multifaceted phenomenon**, involving multiple dimensions placed on **different epistemological levels**, and investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam), **chronic** (e.g., war), and even **dispositional** time course (e.g., anxiety disorder), and it is associated with individual health & well-being.
+[Come discusso in questo post](/psicofisiologia-della-risposta-da-stress-come-fa-lo-stress-a-farci-ammalare/), lo stress è un fenomeno complesso e multisfaccettato che coinvolge diversi processi su **diversi piani epistemologici** (cioè diversi modi di produrre conoscenza) utilizzati da diverse discipline (es. fisica, biologia, medicina, psicologia). A sua volta, lo stress è influenzato da diersi fattori di varia natura (es. biochimici, genetici, psicologici) con un decorso **transitorio** (es. un esame, un colloquio di lavoro), **cronico** (es. una guerra, una disabilità permanente) o addirittura **disposizionale** (es. disturbi d'ansia).
 
-# Workplace stress
+Nonostante la sua complessità, abbiamo ormai raggiunto una comprensione avanzata dei meccanismi, dei processi e delle condizioni che possono portare dall'esposizione ad uno ***stressor*** (cioè un fattore ambientale stressante) a reazioni di ***strain*** (cioè le risposte psico-fisiologiche allo stress, dall'inglese *strain* = tensione, sforzo, tirare, forzare). Sappiamo ad esempio che la risposta da stress è una **risposta aspecifica**, cioè che si manifesta con sintomi simili in risposta a *stressor* di natura diversa (es. sforzi fisici, cognitivi o emotivi), ma che allo stesso tempo persone diverse possono rispondere in modo diverso allo stesso stressor. Basti pensare a due lavoratrici con diversa anzianità lavorativa che svolgono la stessa mansione: una neoassunta e una che fa quel lavoro da 20 anni. Di fronte allo stesso carico di lavoro, la lavoratrice più anziana si sentirà meno stressata della neoassunta, poiché ormai abituata alle attività lavorative previste per quella mansione. Dal canto suo, la neoassunta, essendo più giovane, potrebbe avere più risorse a disposizione (es. resistenza, flessibilità) per gestire il carico di lavoro.
+
+![](img/workwomen.PNG)
+
+Le **differenze individuali** come l'anzianità lavorativa e molte altre (es. genere, personalità, status socioeconomico, netowrk di relazioni) esercitano una forte influenza sui processi di **valutazione cognitiva** (*cognitive appraisal*) che si attivano quando ci troviamo di fronte ad uno stimolo o una condizione potenzialmente stressante. Secondo le teorie psicologiche più supportate, l'esito di queste valutazioni soggettive spesso determina il modo in cui rispondiamo agli *stressor*, in termini di entità e durata della nostra **risposta da stress** e la probabilità che questa perduri nel tempo, assumendo un carattere **cronico** e causando diverse condizioni di malattia.
+
+È ormai convinzione diffusa nella comunità scientifica che lo stress non sia dannoso di per sé. Al contrario, **lo stress nel breve termine è un processo adattivo** che ci permette di affrontare la nostra giornata e tutte le possibili insidie, sfide e minacce che possiamo incontrare. In altre parole, senza stress non potremmo vivere, o saremmo in uno stato di sonno perenne. Ma quando lo stress diventa cronico, e in particolare in situazioni di **attivazione prolungata**, cioè protratta nel tempo anche in quei momenti in cui avremmo [bisogno di recuperare](/sonno-riposo-ed-esperienze-di-recupero/), allora è probabile sviluppare distunzioni e disturbi di varia natura (es. disturbi metabolici, cardiovascolari, gastrointestinali, ansia e depressione), fino alla morte.
+
+Mentre [gli effetti dello stress sulla salute sono meglio discussi qui](/psicofisiologia-della-risposta-da-stress-come-fa-lo-stress-a-farci-ammalare/), questo post si concentra su un tipo particolare di stress, forse il più frequente, cioè lo **stress lavoro-correlato**. Che cos'è lo stress lavoro correlato? Quali sono le sue cause? E come possono essere valutate e gestite per ridurre i livelli di stress?
+
+<br>
+
+# Stress lavoro-correlato
 
 ## Assessing workplace stress
 

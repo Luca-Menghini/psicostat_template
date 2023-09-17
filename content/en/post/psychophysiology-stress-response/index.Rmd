@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Stress is a complex and **multifaceted phenomenon**, involving multiple dimensions placed on **different epistemological levels** investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam), **chronic** (e.g., war), and even **dispositional** time course (e.g., anxiety disorder). We are used to think about stress as a negative condition leading to even worse somatic and psychological reactions, but is this always true? That is, when does stress cause illness?
+Stress is a complex and **multifaceted phenomenon**, involving multiple processes placed on **different epistemological levels** investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam, job interview), **chronic** (e.g., war, permanent disability), and even **dispositional** time course (e.g., anxiety disorder). We are used to think about stress as a negative condition leading to even worse somatic and psychological reactions, but is this always true? That is, when does stress cause illness?
 
 <br>
 
@@ -34,13 +34,11 @@ The **Autonomic Nervous System (ASN)** is a component of the peripheral nervous 
 
 Following Cannon's work, the Austrian endocrinologist [Hans Selye (1907-1982)](https://en.wikipedia.org/wiki/Hans_Selye) identified a **nonspecific and gradual response** to different adverse conditions observed in human subjects (e.g., cold, flu, amputation), and to different nocuous stimulations (e.g., cold temperature, surgical injuries, excessive physical exercise, toxic substances). The **General Adaptation Syndrome** was defined as «*the sum of all nonspecific, systemic reactions of the body which ensue upon long-continued exposure to stress*» [[1]](#references), articulated over three stages:
 
-1. **Alarm reaction** (from Cannon's work), characterized as a short-term adaptive response resulting in increased energy availability and immune defense (fight-or-flight).
+1. 🚨 **Alarm reaction** (from Cannon's work), characterized as a short-term adaptive response resulting in increased energy availability and immune defense (fight-or-flight).
 
-2. **Resistance**, that is when the exposure is prolonged, the response can be sustained over time, and the organism increasingly adapts.
+2. ✊ **Resistance**, that is when the exposure is prolonged, the response can be sustained over time, and the organism increasingly adapts.
 
-3. **Exhaustion**: last stage characterizing exposures prolonged for several weeks/months, resulting in severe damage to the body (e.g., intestinal ulcers) and increased vulnerability to both the original and other stressful stimuli, with higher chance of illness and death.
-
-# 🚨 &rightarrow; ✊  &rightarrow; 🪫  
+3. 🪫 **Exhaustion**: last stage characterizing exposures prolonged for several weeks/months, resulting in severe damage to the body (e.g., intestinal ulcers) and increased vulnerability to both the original and other stressful stimuli, with higher chance of illness and death.
 
 <br>
 
@@ -60,7 +58,9 @@ The **HPA axis** is called «the slow pathway» because it's mainly mediated by 
 
 # When does stress cause illness?
 
-In both Cannon and Selye's view, and consistently with decades of research, **the stress response is an adaptive response** that is functional to cope with changing environmental demands, and thus to the survival of the species. In Selye's words, stress is not a pathological state, but rather «*the [natural] wear and tear of the body [...] caused by any type of vital reaction in any moment*» [[1]](#references). That is, you cannot live without being stressed, [unless you're sleeping](https://lucamenghini.netlify.app/psychophysiology-of-sleep-and-relationships-with-stress-and-job-stressors/). According to modern research, what makes an usually adaptive response (**eustress**) a potentially unhealthy condition (**distress**) are the timing, frequency, and nature of our stress responses.
+In both Cannon and Selye's view, and consistently with decades of research, **the stress response is an adaptive response** that is functional to cope with changing environmental demands, and thus to the survival of the species. In Selye's words, stress is not a pathological state, but rather «*the [natural] wear and tear of the body [...] caused by any type of vital reaction in any moment*» [[1]](#references). That is, you cannot live without being stressed, [unless you're sleeping](/sleep-recovery-and-recovery-experiences/). According to modern research, what makes an usually adaptive response (**eustress**) a potentially unhealthy condition (**distress**) are the timing, frequency, and nature of our stress responses.
+
+<br>
 
 ## The Allostatic Load Theory
 
@@ -90,13 +90,17 @@ According to the **perseverative cognition hypothesis** [[4]](#references), stre
 
 But what can make us stressed when we are not actually facing a stressor? To answer this question, we need to introduce the **psychological facets of the stress response**, and particularly the concept of *appraisal* and *perseverative cognitions*.
 
+<br>
+
 # Psychology of the stress response
 
 Starting from the 70s, there has been a boom in the research on the **psycho-social factors** involved in the stress response. Using [Richard Lazarus (1922-2002)](https://en.wikipedia.org/wiki/Richard_Lazarus) and [Susan Folkman](https://en.wikipedia.org/wiki/Susan_Folkman)'s words, the core idea behind such lines of research is that “individual and group differences in the degree and kind of stress reaction are always evident”. So what makes an individual *feeling stressed* when another individual does not?
 
-Lazarus and Folkman's **transactional model of stress** [[5]](#references) can be thought as the foundation of psychology research on stress. The model describes stress as "*a particular relationship* - a **transaction**, an exchange of resources - *between the person and the environment that is appraised by the person as taxing or exceeding his or her resources and endangering his or her well-being*". When we face a stressor, we enter in a **primary appraisal** process where we subjectively evaluate whether the stimulus or the event is stressful (harm, threat, or challenge) or rather benign or irrelevant. In the former case we enter in a **secondary appraisal** process where we subjectively evaluate whether we're able to cope with the stressor or not. Based on this model, we are "*under stress*" (or *distress*) only when we perceive to be unable to cope with a stimulus that we consider as a stressor. But of course, different individuals will provide different subjective evaluations (and thus, different responses) in the exact same conditions.
+Lazarus and Folkman's **transactional model of stress** [[5]](#references) can be thought as the foundation of psychology research on stress. The model describes stress as «*a particular relationship* - a **transaction**, an exchange of resources - *between the person and the environment that is appraised by the person as taxing or exceeding his or her resources and endangering his or her well-being*». When we face a stressor, we enter in a **primary appraisal** process where we subjectively evaluate whether the stimulus or the event is stressful (harm, threat, or challenge) or rather benign or irrelevant. In the former case we enter in a **secondary appraisal** process where we subjectively evaluate whether we're able to cope with the stressor or not. Based on this model, we are "*under stress*" (or *distress*) only when we perceive to be unable to cope with a stimulus that we consider as a stressor. But of course, different individuals will provide different subjective evaluations (and thus, different responses) in the exact same conditions.
 
 ![](img/transm.PNG)
+
+<br>
 
 ## Control and predictability
 
@@ -108,27 +112,29 @@ Later developments in human cognition [[7]](#references) further highlighted the
 
 Furthermore, appraisals carry out in a **social environment** where other people's subjectivity and the structure of our social relationships can exert a powerful influence. For instance, we can receive **social support** by a friend that help us interpreting a situation from a different perspective and/or provide us with additional resources to cope with the stressor.
 
+<br>
+
 ## Perseverative cognitions
 
 While most psychological theories of stress focus on the cognitive and emotional processes carrying out *during* acute stress responses, they all recognize that it is the **chronic course** of stress that leads to the most serious consequences. This takes us back to the concept of **prolonged activation** introduced above. What make us chronically stressed over time, compromising our recovery, and activating the stress response even in stressor-free conditions?
 
-According to the **perseverative cognition hypothesis** [[4]](#references), stress causes illness mainly through anticipatory responses *before* a stressful event and inadequate recovery *after* the event. And this **prolonged activation** happens because our cognitive representation of the event (its image in our mind) is activated regardless of the actual presence of the stressor. Such "*repeated or chronic activation of the cognitive representation of one or more psychological stressors*” are called **perseverative cognitions** and we can experience them on a daily basis when we **ruminate** about past stressors (like cows eating grass, we repeatedly recall what happen) or **worry** about future stressors (such as the night before an exam or a job interview).
+According to the **perseverative cognition hypothesis** [[4]](#references), stress causes illness mainly through anticipatory responses *before* a stressful event and inadequate recovery *after* the event. And this **prolonged activation** happens because our cognitive representation of the event (its image in our mind) is activated regardless of the actual presence of the stressor. Such «*repeated or chronic activation of the cognitive representation of one or more psychological stressors*” are called **perseverative cognitions** and we can experience them on a daily basis when we **ruminate** about past stressors (like cows eating grass, we repeatedly recall what happen) or **worry** about future stressors (such as the night before an exam or a job interview).
+
+<br>
 
 # So what's stress and how does it cause illness?
 
-This post attempted to provide some partial answers to these two critical questions. A straightforward definition of stress is difficult to formulate due to the many biological and psychological processes involved in the stress response. We know it's an **aspecific** (similar reaction to different stimuli), **progressive** (triggering different biological effects at different time points), and **cumulative** response (leading to progressively severe health outcomes over time). It is mediated by **subjective appraisal** and other cognitive and affective processes affected by individual characteristics (personality, memory, etc.) and the social environments (social support, social status, etc.). Although the question "*how does stress cause illness*" remains partially unanswered, there is evidence that **prolonged activation** experienced when we should recover plays a major role in the pathogenic nature of stress. And **perseverative cognitions** such as rumination and worry are so far the best guess for the most critical psychological processes leading from stress to ill health.
+This post attempted to provide some partial answers to these two critical questions. A straightforward definition of stress is difficult to formulate due to the many biological and psychological processes involved in the stress response. We know it's an **aspecific** (similar reaction to different stimuli), **progressive** (triggering different biological effects at different time points), and **cumulative** response (leading to progressively severe health outcomes over time). It is mediated by **subjective appraisal** and other cognitive and affective processes affected by individual characteristics (personality, memory, etc.) and the social environments (social support, social status, etc.). Although the question «*how does stress cause illness*» remains partially unanswered, there is evidence that **prolonged activation** experienced when we should recover plays a major role in the pathogenic nature of stress. And **perseverative cognitions** such as rumination and worry are so far the best guess for the most critical psychological processes leading from stress to ill health.
+
+<br>
 
 # Why is this important for work and organizational psychology?
 
-We saw that stress can be potentially experienced in any activity (even during free time), but the stressful activity that is more likely to be reported by an average adult in our historical period is undoubtedly **work**. Work is the Activity par excellence. Our life, social relationships, and circadian rhythms are fundamentally determined by our job schedule. Most of our metabolical, psychological, and social resources are directed to our work activities, and the term "**leisure**" is used as both a synonym of recovery and as the opposite of work.
+We saw that stress can be potentially experienced in any activity (even during free time), but the stressful activity that is more likely to be reported by an average adult in our historical period is undoubtedly **work**. Work is the Activity par excellence. Our life, social relationships, and circadian rhythms are fundamentally determined by our job schedule. Most of our metabolical, psychological, and social resources are directed to our work activities, and the term "**leisure**" is used as both a synonym of recovery and the opposite of work.
 
-## Assessing workplace stress
+**Work stress**, that is the stress *caused* by the condition of being working, is a highly socially relevant issue. In addition to its potential effects at the **individual** level mentioned in this post (e.g., health conditions, mental health disorders), work stress is notably associated with substantial costs at the **organizational** (e.g., sickens absences, injuries, turnover) and **society level** (e.g., costs for healthcare, productivity loss). As the scientific community highlighted such tangible costs of work stress, several governments around the world created new laws and regulation to promote the **prevention of work stress** and the **management of psychosocial hazards** at work (e.g., workload, autonomy, interpersonal conflicts). Being aware of the complex and multifaceted nature of stress is important to implement rigorous assessments and effective intervention, as [described in this post](/workplace-stress-and-the-management-of-psychosocial-hazards-at-work/).
 
-## Magaging workplace stress
-
-Something about Management Standards, HSE and INAIL.
-
-Primary, secondary and tertiary prevention
+<br>
 
 # References
 

@@ -6,7 +6,7 @@ image:
 math: true
 projects:
 - suggested_bayesian_papers
-title: Recovery and recovery experiences
+title: Sonno, riposo ed esperienze di recupero
 ---
 
 Some text introducing stress and recovery

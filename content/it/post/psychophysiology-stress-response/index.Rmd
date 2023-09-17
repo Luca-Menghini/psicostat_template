@@ -1,9 +1,9 @@
 ---
-title: "Psicofisiologia della risposta da stress: Come fa lo stress a farci ammalare?"
+title: "Psicofisiologia della risposta da stress: come fa lo stress a farci ammalare?"
 author: "Luca Menghini"
 date: "`r Sys.Date()`"
 categories: ["Workplace stress"]
-tags: ["Workplace stress", "Stress response","Psychophysiology","Occupational health","Psychosocial hazards"]
+tags: ["Stress response","Psychophysiology","Reactivity","Stress research","Recovery","Workplace stress"]
 image:
   placement: 1
   focal_point: ''
@@ -16,4 +16,8 @@ output:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Questo post non è ancora disponibile in italiano 🤷
+_Lo stress è un **fenomeno complesso e multisfaccettato** che coinvolge diversi processi su **diversi piani epistemologici** (cioè diversi modi di produrre conoscenza) utilizzati da diverse discipline (es. fisica, biologia, medicina, psicologia). A sua volta, lo stress è influenzato da diersi fattori di varia natura (es. biochimici, genetici, psicologici) con un decorso **transitorio** (es. un esame, un colloquio di lavoro), **cronico** (es. una guerra, una disabilità permanente) o addirittura **disposizionale** (es. disturbi d'ansia). Siamo abituatə a pensare allo stress come una condizione negativa che comporta reazioni dannose a livello fisico e mentale, ma è sempre così? Come fa lo stress a farci ammalare?_
+
+<br>
+
+## Questo post non è ancora disponibile in italiano 🤷
