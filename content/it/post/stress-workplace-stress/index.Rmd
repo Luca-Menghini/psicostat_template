@@ -104,6 +104,22 @@ Primary, secondary and tertiary prevention
 
 <br>
 
+# References
+
+1. Cox, T., Griffiths, A., & Rial-González, E. (2000). *Research on work-related stress*. Report for the European agency for safety and health at work. Luxembourg: Office for Official Publication of the European Communities. Available from [osha.europa.eu](https://osha.europa.eu/en/publications/report-research-work-related-stress)
+
+2. Karasek, R. A. (1979). Job Demands, Job Decision Latitude, and Mental Strain: Implications for Job Redesign. *Administrative Science Quarterly, 24*(2), 285–308. https://doi.org/10.2307/2392498
+
+3. Siegrist, J. (1996). Adverse health effects of high-effort/low-reward conditions. Journal of Occupational Health Psychology, 1(1), 27–41. https://doi.org/10.1037/1076-8998.1.1.27
+
+4. Demerouti, E., Nachreiner, F., Bakker, A. B., & Schaufeli, W. B. (2001). The job demands-resources model of burnout. *Journal of Applied Psychology, 86*(3), 499–512. https://doi.org/10.1037/0021-9010.86.3.499
+
+5. Matrix Insight: Executive Agency for Health and Consumers. (2013). Economic Analysis of Workplace Mental Health Promotion and Mental Disorder Prevention Programmes and of their Potential Contribution to EU Health, Social and Economic Policy Objectives. Available from [health.ec.europa.eu](https://health.ec.europa.eu/other-pages/basic-page/reports-studies-and-projects_en).
+
+6. European Commission for Employement and Social Affairs. (2000). *Guidance on work-related stress: Spice of life or kiss of death?*. Luxembourg: Office for Official Publications of the European Communities. Available from [eur-lex.europa.eu](https://eur-lex.europa.eu/resource.html?uri=cellar:9f53b8c2-75a1-404a-851f-65d4b826d528.0005.02/DOC_2&format=PDF).
+
+7. Hassard, J., Teoh, K. R. H., Visockaite, G., Dewe, P., & Cox, T. (2018). The cost of work-related stress to society: A systematic review. *Journal of Occupational Health Psychology, 23*(1), 1–17. https://doi.org/10.1037/ocp0000069
+
 <br>
 
 # Credits
