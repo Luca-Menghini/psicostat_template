@@ -29,18 +29,3 @@ url_slides: "https://luca-menghini.github.io/eseRcitazioni/slideEseRcitazioni.pd
 url_video: ""
 ---
 
-Optional laboratory on practical exercises on conducting data analysis with R, conducted in the academic year 2021-2022 within the course 'Data analysis in comunity contexts' for the Master Degree in Psychology of community, wellness promotion, and social change at the University of Padova, Italy.
-
-## Course program (in italian)
-
-- **Giorno 1: Get started.** Installare R e RStudio, acquisire confidenza con l'interfaccia del software, e alcuni comandi di base
-
-- **Giorno 2: R objects.** Vettori, fattori, matrici e dataframe
-
-- **Giorno 3: R workspace.** Worskpace e working directory, caricare un dataset e calcolare le principali statistiche descrittive
-
-- **Giorno 4: R Graphics.** Visualizzare i dati e interpretare i principali tipi di grafici
-
-- **Giorno 5: Linear Models.** Modelli di regressione lineare semplice e multipla
-
-- **Giorno 6: Multilevel & SEM.** Modelli lineari multilivello e multivariati
