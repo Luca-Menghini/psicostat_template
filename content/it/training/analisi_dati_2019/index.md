@@ -5,7 +5,8 @@ categories: [Psychometrics]
 date: "2019-12-25T11:35:07+01:00"
 external_link: ""
 image:
-  icon: university
+- icon: university
+  icon_pack: fas
 links:
 - icon: university
   icon_pack: fas
