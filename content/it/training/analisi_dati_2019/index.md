@@ -22,6 +22,8 @@ summary: "Laboratorio opzionale con esercitazioni pratiche per l'analisi dei dat
 tags:
 - past
 title: Analisi dei dati con il software R
+icon: university
+icon_pack: fas
 type: training
 url_pdf: "https://luca-menghini.github.io/eseRcitazioni/slideEseRcitazioni.pdf"
 url_slides: "https://luca-menghini.github.io/eseRcitazioni/slideEseRcitazioni.pdf"
