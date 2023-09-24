@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Formazione"
-subtitle = "Corsi di formazione sulla salute e la sicurezza sul lavoro, lo stress lavoro-correlato e il benessere sul lavoro; Insegnamenti universitari in ambito di analisi dei dati, psicometrica, metodologia di ricerca, psicofisiologia e psicologia del lavoro e delle organizzazioni"
+subtitle = "**Corsi di formazione** in ambito di salute e sicurezza sul lavoro, stress lavoro-correlato, benessere sul lavoro.\newline**Insegnamenti universitari** in ambito di psicologia del lavoro e delle organizzazioni, analisi dei dati, psicometria, metodologia di ricerca psicosociale e psicofisiologia."
 
 [content]
   # Page type to display. E.g. project.
