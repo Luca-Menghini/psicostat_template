@@ -50,6 +50,8 @@ subtitle = ""
 
 # Gruppi di ricerca
 
+<br>
+
 <div style="float: left; width: 30%;">
   <img class= logo src="img_ita/webewo_logo.png" width="250" align="middle">
 </div>
@@ -63,7 +65,7 @@ Collaboro attualmente con il <b> [WE.BE.WO. Lab](https://www.cogsci.unitn.it/713
   <img class= logo src="img_ita/Psicostat_hexagon.svg" width="200" align="middle">
 </div>
 
-Faccio anche parte di <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (Università di Padova), un gruppo di ricerca interdisciplinare interessato alla **psicologia quantitativa**, alla **psicometria**, al **testing psicologico** e alla **statistica**.
+Faccio parte di <b> [Psicostat](https://psicostat.dpss.psy.unipd.it/) </b> (Università di Padova), un gruppo di ricerca interdisciplinare interessato alla **psicologia quantitativa**, alla **psicometria**, al **testing psicologico** e alla **statistica**. [Iscriviti alla nostra mailing list](https://lists.dpss.psy.unipd.it/postorius/lists/psicostat.lists.dpss.psy.unipd.it/) per non perderti i nostri incontri online mensili!
 
 <br>
 <br>
