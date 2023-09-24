@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "PROGETTI DI RICERCA"
+  name = "PROGETTI"
   url = "#projects"
   weight = 10
 
@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "GRUPPI DI RICERCA"
+  name = "RICERCA"
   url = "#groups"
   weight = 40
 
