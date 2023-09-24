@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Training"
-subtitle = ""
+subtitle = "Professional training on health and safety at work, workplace stress, and well-being at work; Academic teaching on data analysis, psychometrics, research methods, psychophysiology, and work and organizational psychology"
 
 [content]
   # Page type to display. E.g. project.

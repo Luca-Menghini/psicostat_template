@@ -25,4 +25,4 @@ url_slides: "https://luca-menghini.github.io/eseRcitazioni/slideEseRcitazioni.pd
 url_video: ""
 ---
 
-prova
+Laboratorio opzionale con esercitazioni pratiche per l'analisi dei dati con il linguaggio R, svolto nell'anno accademico 2021-2022 nell'ambito dell'insegmamento 'Analisi dei dati in ambito di comunità' per il corso di Laurea Magistrale in Psicologia di comunità, della promozione del benessere e del cambiamento sociale dell'Università degli Studi di Padova.
