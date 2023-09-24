@@ -18,7 +18,7 @@ summary: "Optional laboratory on practical exercises on conducting data analysis
 tags:
 - past
 title: Data analysis with the R software
-type: teaching
+type: training
 url_code: "https://github.com/Luca-Menghini/eseRcitazioni"
 url_pdf: "https://luca-menghini.github.io/eseRcitazioni/slideEseRcitazioni.pdf"
 url_slides: "https://luca-menghini.github.io/eseRcitazioni/slideEseRcitazioni.pdf"
