@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Consulenza"
-subtitle = ""
+subtitle = "👔 **Consulenza psicologica ad aziende e privati** sulla valutazione dello stress lavoro-correlato e dei rischi psicosociali, sulla progettazione e l'organizzazione del lavoro, sulla valutazione psicologica e delle caratteristiche del luogo di lavoro. <br> 🔬 **Consulenza di ricerca** sulla progettazione e la raccolta di dati quantitativi e qualitativi in contesti di valutazione psicosociale e psicofisiologica. <br> 📈 **Consulenza statistica** sull'analisi di dati self-report, comportamentali e fisiologici. <br> ⌚ **Consulenza tecnica**  sullo sviluppo, la validazione e l'utilizzo di tecnologie wearable e mobile per il monitoraggio del sonno e dei parametri fisiologici legati allo stress."
 
 [content]
   # Page type to display. E.g. project.

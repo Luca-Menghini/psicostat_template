@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-categories: ["Salute e sicurezza sul lavoro", "Stress lavoro-correlato", "Benessere organizzativo"]
+categories: ["Health and safety at work", "Work stress", "Organizational well-being"]
 date: "2019-12-25T11:35:07+01:00"
 external_link: ""
 image:

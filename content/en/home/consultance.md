@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Consultance"
-subtitle = ""
+subtitle = "👔 **Psychological consultance to organizations and individuals** on workplace stress assessment, management of psychosocial hazards, job design and work organization, psychological assessment, and workplace characteristics. <br> 🔬 **Research consultance** on the design and implementation of quantitative and qualitative data collection in the context of psychosocial and psychophysiological assessment. <br> 📈 **Statistical consultance** on self-report, behavioral, and physiological data analysis. <br> ⌚ **Technical consultance** on developing, validating, and using wearable and mobile technologies to monitor sleep and physiological signals linked to stress."
 
 [content]
   # Page type to display. E.g. project.
