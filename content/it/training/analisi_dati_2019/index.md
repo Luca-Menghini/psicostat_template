@@ -30,8 +30,6 @@ url_video: ""
 
 Laboratorio opzionale con esercitazioni pratiche per l'analisi dei dati con il linguaggio R, svolto nell'anno accademico 2021-2022 nell'ambito dell'insegmamento 'Analisi dei dati in ambito di comunità' per il corso di Laurea Magistrale in Psicologia di comunità, della promozione del benessere e del cambiamento sociale dell'Università degli Studi di Padova.
 
-<br>
-
 ## Programma del corso
 
 - **Giorno 1: Get started.** Installare R e RStudio, acquisire confidenza con l'interfaccia del software, e alcuni comandi di base
@@ -44,4 +42,4 @@ Laboratorio opzionale con esercitazioni pratiche per l'analisi dei dati con il l
 
 - **Giorno 5: Linear Models.** Modelli di regressione lineare semplice e multipla
 
-- **Giorno 6: Multilevel & SEM.** Modelli lineari multilivello e multivariati
+- **Giorno 6: Multilevel & SEM*.* Modelli lineari multilivello e multivariati

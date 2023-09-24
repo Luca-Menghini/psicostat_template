@@ -31,8 +31,6 @@ url_video: ""
 
 Optional laboratory on practical exercises on conducting data analysis with R, conducted in the academic year 2021-2022 within the course 'Data analysis in comunity contexts' for the Master Degree in Psychology of community, wellness promotion, and social change at the University of Padova, Italy.
 
-<br>
-
 ## Course program (in italian)
 
 - **Giorno 1: Get started.** Installare R e RStudio, acquisire confidenza con l'interfaccia del software, e alcuni comandi di base
