@@ -17,7 +17,7 @@ slides: ""
 summary: "Seminario svolto alla Fiera Ambiente Lavoro di Bologna il giorno 12 ottobre 2023 per conto di FORMart sui temi dello stress lavoro-correlato e delle nuove prospettive sul ruolo e le relazioni con i processi ruminativi e la qualità del sonno"
 tags:
 - past
-title: "Ruminazione, attivazione prolungata e ritmi sonno–veglia: Nuove prospettive di ricerca sullo stress lavoro – correlato"
+title: Ruminazione, attivazione prolungata e ritmi sonno–veglia Nuove prospettive di ricerca sullo stress lavoro – correlato
 type: training
 url_pdf: ""
 url_slides: ""
