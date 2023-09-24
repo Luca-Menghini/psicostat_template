@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-categories: [Psychometrics] [Data analysis]
+categories: [Psychometrics]
 date: "2019-12-25T11:35:07+01:00"
 external_link: ""
 image:
