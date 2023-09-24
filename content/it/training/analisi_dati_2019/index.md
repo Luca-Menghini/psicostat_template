@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-categories: [Psychometrics]
+categories: [Psicometria] [Analisi dei dati]
 date: "2019-12-25T11:35:07+01:00"
 external_link: ""
 image:
@@ -32,14 +32,14 @@ Laboratorio opzionale con esercitazioni pratiche per l'analisi dei dati con il l
 
 ## Programma del corso
 
-- **Giorno 1: Get started** \newline Installare R e RStudio, acquisire confidenza con l'interfaccia del software, e alcuni comandi di base
+- **Giorno 1: Get started.** Installare R e RStudio, acquisire confidenza con l'interfaccia del software, e alcuni comandi di base
 
-- **Giorno 2: R objects** \newline Vettori, fattori, matrici e dataframe
+- **Giorno 2: R objects.** Vettori, fattori, matrici e dataframe
 
-- **Giorno 3: R workspace** \newline Worskpace e working directory, caricare un dataset e calcolare le principali statistiche descrittive
+- **Giorno 3: R workspace.** Worskpace e working directory, caricare un dataset e calcolare le principali statistiche descrittive
 
-- **Giorno 4: R Graphics** \newline Visualizzare i dati e interpretare i principali tipi di grafici
+- **Giorno 4: R Graphics.** Visualizzare i dati e interpretare i principali tipi di grafici
 
-- **Giorno 5: Linear Models** \newline Modelli di regressione lineare semplice e multipla
+- **Giorno 5: Linear Models.** Modelli di regressione lineare semplice e multipla
 
-- **Giorno 6: Multilevel & SEM** \newline Modelli lineari multilivello e multivariati
+- **Giorno 6: Multilevel & SEM*.* Modelli lineari multilivello e multivariati
