@@ -1,12 +1,10 @@
 +++
-# Questa è una pagina che presenta il gruppo psicostat. C'è un feed di twitter, un po' di descrizione e il nostro motto
-
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Research groups"
+title = "Research"
 subtitle = ""
 
 [design]
@@ -47,6 +45,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+# Research groups
 
 <div style="float: left; width: 30%;">
   <img class= logo src="img/webewo_logo.png" width="250" align="middle">

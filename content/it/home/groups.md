@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Gruppi di ricerca"
+title = "Ricerca"
 subtitle = ""
 
 [design]
@@ -47,6 +47,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+# Gruppi di ricerca
 
 <div style="float: left; width: 30%;">
   <img class= logo src="img_ita/webewo_logo.png" width="250" align="middle">
