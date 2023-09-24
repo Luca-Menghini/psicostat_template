@@ -1,18 +1,13 @@
 ---
 authors:
 - admin
-categories: [Salute e sicurezza sul lavoro]
+categories: [Salute e sicurezza sul lavoro] [Stress lavoro-correlato] [Benessere organizzativo]
 date: "2019-12-25T11:35:07+01:00"
 external_link: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-links:
-- icon: helmet-safety
-  icon_pack: fas
-  name: Pagina del corso
-  url: https://eventi.senaf.it/event_poster.php?idP=1886674&idECD=2258
 slides: ""
 summary: "Seminario svolto alla Fiera Ambiente Lavoro di Bologna il giorno 12 ottobre 2023 per conto di FORMart sui temi dello stress lavoro-correlato e delle nuove prospettive sul ruolo e le relazioni con i processi ruminativi e la qualità del sonno"
 tags:
