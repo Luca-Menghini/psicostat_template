@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Consultance"
-subtitle = "👔 **Psychological consultance to organizations & individuals**: workplace stress assessment & management, job design, psychological assessment. <br> 🔬 **Research consultance**: quantitative & qualitative data collection and psychophysiological assessment. <br> 📈 **Statistical consultance**: self-report, behavioral, and physiological data analysis. <br> ⌚ **Technical consultance** : Wearable and mobile technologies to monitor sleep and physiological signals linked to stress."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -26,28 +26,28 @@ subtitle = "👔 **Psychological consultance to organizations & individuals**: w
 # oppure tutti. Per far funzionare il filtro è sufficiente inserire nella pagina del singolo corso il tag: "current"
 # oppure "old". Se non si vuole la funzionalità basta commentare (#) o eliminare le seguenti linee di codice
 
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-
-  [[content.filter_button]]
-    name = "Past Years"
-    tag = "past"
-  
-  [[content.filter_button]]
-    name = "Current"
-    tag = "current"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
+  # 
+  # [[content.filter_button]]
+  #   name = "Past Years"
+  #   tag = "past"
+  # 
+  # [[content.filter_button]]
+  #   name = "Current"
+  #   tag = "current"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -80,3 +80,12 @@ subtitle = "👔 **Psychological consultance to organizations & individuals**: w
  css_class = ""
 +++
 
+<br>
+
+👔 **Psychological consultance to organizations & individuals**: workplace stress assessment & management, job design, psychological assessment. 
+
+🔬 **Research consultance**: quantitative & qualitative data collection and psychophysiological assessment.
+
+📈 **Statistical consultance**: self-report, behavioral, and physiological data analysis. 
+
+⌚ **Technical consultance** : Wearable and mobile technologies to monitor sleep and physiological signals linked to stress.

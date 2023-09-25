@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Consulenza"
-subtitle = "👔 **Consulenza psicologica ad aziende e singoli**: valutazione e gestione dello stress lavoro-correlato, progettazione del lavoro, valutazione psicologica. <br> 🔬 **Consulenza di ricerca**: Raccolta dati quantitativi e qualitativi in contesti di valutazione psicosociale e psicofisiologica. <br> 📈 **Consulenza statistica**: analisi di dati self-report, comportamentali e fisiologici. <br> ⌚ **Consulenza tecnica** : Tecnologie wearable e mobile per il monitoraggio del sonno e dei biosegnali legati allo stress."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -26,28 +26,28 @@ subtitle = "👔 **Consulenza psicologica ad aziende e singoli**: valutazione e 
 # oppure tutti. Per far funzionare il filtro è sufficiente inserire nella pagina del singolo corso il tag: "current"
 # oppure "old". Se non si vuole la funzionalità basta commentare (#) o eliminare le seguenti linee di codice
 
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-
-  [[content.filter_button]]
-    name = "Past Years"
-    tag = "past"
-  
-  [[content.filter_button]]
-    name = "Current"
-    tag = "current"
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
+  # 
+  # [[content.filter_button]]
+  #   name = "Past Years"
+  #   tag = "past"
+  # 
+  # [[content.filter_button]]
+  #   name = "Current"
+  #   tag = "current"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -80,3 +80,12 @@ subtitle = "👔 **Consulenza psicologica ad aziende e singoli**: valutazione e 
  css_class = ""
 +++
 
+<br>
+
+👔 **Consulenza psicologica ad aziende e singoli**: valutazione e gestione dello stress lavoro-correlato, progettazione del lavoro, valutazione psicologica. 
+
+🔬 **Consulenza di ricerca**: Raccolta dati quantitativi e qualitativi in contesti di valutazione psicosociale e psicofisiologica. 
+
+📈 **Consulenza statistica**: analisi di dati self-report, comportamentali e fisiologici. 
+
+⌚ **Consulenza tecnica** : Tecnologie wearable e mobile per il monitoraggio del sonno e dei biosegnali legati allo stress.
