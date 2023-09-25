@@ -82,10 +82,10 @@ subtitle = ""
 
 <br>
 
-👔 **Consulenza psicologica ad aziende e singoli**: valutazione e gestione dello stress lavoro-correlato, progettazione del lavoro, valutazione psicologica. 
+👔 **Consulenza psicologica ad aziende e singoli** <br> Valutazione e gestione dello stress lavoro-correlato, progettazione del lavoro, valutazione psicologica, formazione, counseling e psicoeducazione
 
-🔬 **Consulenza di ricerca**: Raccolta dati quantitativi e qualitativi in contesti di valutazione psicosociale e psicofisiologica. 
+🔬 **Consulenza di ricerca** <br> Pianificazione e gestione di raccolte dati quantitativi e qualitativi in contesti di valutazione psicosociale e psicofisiologica
 
-📈 **Consulenza statistica**: analisi di dati self-report, comportamentali e fisiologici. 
+📈 **Consulenza statistica** <br> Analisi di dati self-report, comportamentali e fisiologici e reportistica dei risultati
 
-⌚ **Consulenza tecnica** : Tecnologie wearable e mobile per il monitoraggio del sonno e dei biosegnali legati allo stress.
+⌚ **Consulenza tecnica** <br> Tecnologie wearable e mobile per il monitoraggio del sonno e dei biosegnali legati allo stress in contesti clinici e di ricerca
