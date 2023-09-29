@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Stress is a complex and **multifaceted phenomenon**, involving multiple processes placed on **different epistemological levels** investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam, job interview), **chronic** (e.g., war, permanent disability), and even **dispositional** time course (e.g., anxiety disorder). We are used to think about stress as a negative condition leading to even worse somatic and psychological reactions, but is this always true? That is, when does stress cause illness?
+_Stress is a complex and **multifaceted phenomenon**, involving multiple processes placed on **different epistemological levels** investigated by different disciplines (e.g., physics, biology, medicine, psychology). In turn, stress is influenced by several factors of various nature (e.g., biochemical, genetic, psychosocial) with a **transitory** (e.g., exam, job interview), **chronic** (e.g., war, permanent disability), and even **dispositional** time course (e.g., anxiety disorder). We are used to think about stress as a negative condition leading to even worse somatic and psychological reactions, but is this always true? That is, when does stress cause illness?_
 
 <br>
 

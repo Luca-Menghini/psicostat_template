@@ -82,10 +82,14 @@ subtitle = ""
 
 <br>
 
-👔 **Psychological consultance** <br> Consultance to organizations & individuals on work stress assessment & management, job design, psychological assessment, training, counseling, and psycho-education
+<center>
+
+👔 **Psychological consultance** <br> Consultance to organizations & individuals on work stress assessment, stress management, job design, psychological assessment, training, counseling, and psycho-education
 
 🔬 **Research consultance** <br> Quantitative & qualitative data collection for psychosocial & psychophysiological assessment
 
 📈 **Statistical consultance** <br> Self-report, behavioral, and physiological data analysis
 
 ⌚ **Technical consultance** <br> Wearable and mobile technologies to monitor sleep and physiological signals linked to stress
+
+</center>

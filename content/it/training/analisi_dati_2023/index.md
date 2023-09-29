@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-categories: ["Psicometria", "Analisi dati", "Analisi multilivello" "R software"]
+categories: ["Psicometria", "Analisi dati", "Analisi multilivello", "R software"]
 date: "2019-12-25T11:35:07+01:00"
 external_link: ""
 image:

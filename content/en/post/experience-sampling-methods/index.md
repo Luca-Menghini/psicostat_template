@@ -8,7 +8,7 @@ tags: ["Experience Sampling Methods", "Ecological Momentary Assessment","Methodo
 title: 'Experience Sampling Methods: Measuring experiences in real time'
 ---
 
-***Experience Sampling Methods (ESM)*** *include a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, in free-living conditions*.
+_**Experience Sampling Methods (ESM)** include a set of tools for the repeated and systematic sampling of psychological states, experiences, and activities in real time, in free-living conditions._
 
 As described by [Mihaly Csikszentmihalyi](https://www.researchgate.net/profile/Mihaly-Csikszentmihalyi), one of the main pioneers of this methodology, ESM aim at "*obtaining self-report for a representative sample of moments in people's life*" to study the **frequency, intensity, and patterning** of self-reported experiences (thoughts, psychological states etc.), and daily activities (social interactions, changes in locations etc.), **over time** [[1]](#references).
 
