@@ -47,8 +47,7 @@ show_homepage: true
 slides: null
 summary: Step-by-step analytical pipelines and R code to analyze the performance of
   wearable sleep trackers.
-tags:
-- Source Themes
+tags: ["wearable sleep trackers", "consumer sleep technology", "accuracy", "validation", "guidelines", "open source code", "R software"]
 title: 'A standardized framework for testing the performance of sleep-tracking technology:
   step-by-step guidelines and open-source code'
 url_code: ""
