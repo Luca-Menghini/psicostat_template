@@ -82,7 +82,7 @@ subtitle = ""
 
 <br>
 
-👔 **Psychological consultance to organizations & individuals** <br> Workplace stress assessment & management, job design, psychological assessment, training, counseling, and psycho-education
+👔 **Psychological consultance** <br> Consultance to organizations & individuals on work stress assessment & management, job design, psychological assessment, training, counseling, and psycho-education
 
 🔬 **Research consultance** <br> Quantitative & qualitative data collection for psychosocial & psychophysiological assessment
 

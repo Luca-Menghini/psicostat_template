@@ -82,7 +82,7 @@ subtitle = ""
 
 <br>
 
-👔 **Consulenza psicologica ad aziende e singoli** <br> Valutazione e gestione dello stress lavoro-correlato, progettazione del lavoro, valutazione psicologica, formazione, counseling e psicoeducazione
+👔 **Consulenza psicologica** <br> Consulenza ad aziende e singoli per valutazione e gestione dello stress lavoro-correlato, progettazione del lavoro, valutazione psicologica, formazione, counseling e psicoeducazione
 
 🔬 **Consulenza di ricerca** <br> Pianificazione e gestione di raccolte dati quantitativi e qualitativi in contesti di valutazione psicosociale e psicofisiologica
 

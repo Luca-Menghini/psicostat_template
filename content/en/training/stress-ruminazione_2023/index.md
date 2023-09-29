@@ -16,7 +16,7 @@ links:
 slides: ""
 summary: "Seminar conducted for FORMart at the 23rd exhibition for quality and safety at the workplace in Bologna on work-related stress and the new perspectives on its relationship with ruminative thinking and sleep quality."
 tags:
-- past
+- current
 title: 👔 Rumination, prolonged activation, and sleep/wake rhythms. New research perspectives on work stress (FORMart)
 type: training
 url_pdf: ""
